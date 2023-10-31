@@ -46,22 +46,28 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 
 ## Systemy rachunkowo-pieniężne (Kop9-4)
 ### System rachunkowo-pieniężny krzyżacki z 1233 roku
+Grzywna, wiardunek, skojec i szeląg były jednostkami obrachunkowymi.
 <img src="images/SystemZakonK1.png" width="100%"/>
 
 ### System rachunkowo-pieniężny krzyżacki z końca XIV w.
+`TODO`
 <img src="images/SystemZakonK2.png" width="100%"/>
 
 ### System rachunkowo-pieniężny krzyżacki z 1456 roku
+`TODO`
 <img src="images/SystemZakonK3.png" width="100%"/>
 
 ### System rachunkowo-pieniężny krzyżacki Jana von Tiefen (1489-1497) z 1492 roku
+`TODO`
 <img src="images/SystemZakonK4.png" width="100%"/>
 
 ### System rachunkowo-pieniężny krzyżacki Fryderyka Saskiego (1498-1510)
-<img src="images/SystemZakonK5.png" width="100%"/>
+`TODO`
+<img src="images/SystemZakonK5.png" height="381px"/>
 
 ### System rachunkowo-pieniężny krzyżacki Albrechta von Hohenzollern Brandenburskiego (1511-1525)
-<img src="images/SystemZakonK6.png" width="100%"/>
+`TODO`
+<img src="images/SystemZakonK6.png" height="608px"/>
 
 ## Przykładowe typy monet
 
