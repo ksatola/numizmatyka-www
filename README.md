@@ -15,7 +15,7 @@
 ### Materiały edukacyjne
 
 #### Genialne filmy instruktażowe
-Cenne porady Damiana Marciniaka (i nie tylko) dotyczące obchodzenia się z numizmatami pozwalające na uniknięcie błędów powodujących nieodracalne szkody:
+Wybrane cenne porady [Damiana Marciniaka](https://marciniakaukcje.pl/) (i nie tylko) dotyczące obchodzenia się z numizmatami pozwalające na uniknięcie błędów powodujących nieodracalne szkody:
 - [Czyszczenie monet - jakie monety można samemu umyć i jak to zrobić, aby ich nie zepsuć](https://www.youtube.com/watch?v=WZ_PQnDGfew&t=1096s)
 - [CzyszczeNIE monet - nie uczymy jak czyścić monety, ale pokazujemy jakie szkody przynosi czyszczenie](https://www.youtube.com/watch?v=Z1mrEJugMk0)
 - [Jak przechowywać monety - klasery, kopertki, tacki czy inne akcesoria](https://www.youtube.com/watch?v=7FQ5fy8F9AU)
