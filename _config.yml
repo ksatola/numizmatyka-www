@@ -1,0 +1,16 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+
+# https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+
+#markdown: kramdown
+
+theme: jekyll-theme-slate
+#theme: minima
+ 
+title: Notatki numizmatyczne
+description: Zbiór ciekawych materiałów oraz odnośników związanych z szeroko pojętą numizmatyką
+#footer: Krzysztof Satola: [LinkedIn Profile](https://www.linkedin.com/in/ksatola/) or [github repositories](https://github.com/ksatola)
