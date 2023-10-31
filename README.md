@@ -31,7 +31,7 @@ Wybrane cenne porady [Damiana Marciniaka](https://marciniakaukcje.pl/) (i nie ty
 - [Fałszerstwa monet - jak rozpoznawać falsyfikaty, jakie są ich rodzaje. Jakie są kopie monet](https://www.youtube.com/watch?v=GyQsq_qQSqE&t=3s)
 - [Grading banknotów - informacje wstępne i ogólne dla początkujących - PMG, GDA, PCGS](https://www.youtube.com/watch?v=eNBnId_xooM&t=10s)
 - [Literatura numizmatyczna - książki i katalogi monet i banknotów użyteczne i warte uwagi na początek](https://www.youtube.com/watch?v=1ncc_ZghpjI)
-- [Monety Antyczne | Trzy BŁĘDY początkującego numizmatyka - Krzysztof Pakuła](https://www.youtube.com/watch?v=had4Khi_PMU)
+- [Monety Antyczne - Trzy BŁĘDY początkującego numizmatyka - Krzysztof Pakuła](https://www.youtube.com/watch?v=had4Khi_PMU)
 
 #### Przegląd numizmatów
 Wartościowe filmiki pozwalające zobaczyć rzadkie monety w towarzystwie innych, porównać je z innymi należącymi do tej samej grupy, typu, systemu rachunkowo-pieniężnego, itp.:
