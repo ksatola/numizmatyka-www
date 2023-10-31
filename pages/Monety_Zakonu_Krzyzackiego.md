@@ -47,7 +47,6 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 ## Systemy rachunkowo-pieniężne (Kop9-4)
 ### System rachunkowo-pieniężny krzyżacki z 1233 roku
 
-|  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
 | **grzywna** | 4 | 24 | 60 | 720 |
 | 1/4 | **wiardunek** | 6 | 15 | 180 |
@@ -57,7 +56,6 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 
 ### System rachunkowo-pieniężny krzyżacki z końca XIV w.
 
-|  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **grzywna chełm.** | 4 | 24 | 45 | 60 | 180 | 720 |
 | 1/4 | **wiardunek** | 6 | 11 1/4 | 15 | 45 | 180 |
