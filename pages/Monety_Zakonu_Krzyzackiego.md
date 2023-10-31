@@ -74,9 +74,6 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 
 `TODO`: dokończyć systemy
 
-<table style="table-layout: auto !important;"><tbody><tr><td>**grzywna**</td><td>4</td><td>24</td><td>60</td><td>720</td></tr><tr><td>1/4</td><td>wiardunek</td><td>6</td><td>15</td><td>180</td></tr><tr><td>1/24</td><td>1/6</td><td>skojec</td><td>2 1/2</td><td>30</td></tr><tr><td>1/60</td><td>1/15</td><td>2/5</td><td>szeląg</td><td>15</td></tr><tr><td>1/720</td><td>1/180</td><td>1/30</td><td>1/12</td><td>fenig</td></tr></tbody></table>
-
-
 ## Przykładowe typy monet
 
 ### Fenigi (beznapisowe brakteaty) z lat 1466-1525
