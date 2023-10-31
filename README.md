@@ -55,5 +55,5 @@ Nie można tego nie wiedzieć:
 - [Monety obiegowe II RP - co wiemy, a czego nie wiemy - J. Chałupski o monetach Polski międzywojennej](https://www.youtube.com/watch?v=zpLhEkasqvQ)
 - [Monety antyczne świata greckiego - od początków do Aleksandra Wielkiego - B. Awianowicz](https://www.youtube.com/watch?v=TcowSEwzmk8)
 - [Jak się robi pieniądze - przegląd technik menniczych na przestrzeni wieków - prof. Borys Paszkiewicz](https://www.youtube.com/watch?v=kNF8Cg-iIys)
-- [Denary i Brakteaty | Opowieść o monetach średniowiecznych inspirowana wspaniałym zbiorem z 10 aukcji - dr Witold Garbaczewski](https://www.youtube.com/watch?v=JQpVtrOpefY)
+- [Denary i Brakteaty - Opowieść o monetach średniowiecznych inspirowana wspaniałym zbiorem z 10 aukcji - dr Witold Garbaczewski](https://www.youtube.com/watch?v=JQpVtrOpefY)
 - [Pozostałe sesje numizmatyczne - W numizmatyce widzisz tyle, ile wiesz](https://www.youtube.com/playlist?list=PL2sVlus9pnlgZs5xhvJ2hS9pNKKMrYRjw)
