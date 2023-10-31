@@ -26,8 +26,8 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 - Konrad III von Jungingen (1393-1407) … CORADVS TERCI
 - Ulryk von Jungingen (1407-1410) … VLRICVS PRIMVS
 - Henryk von Plauen (1410-1413) … hINRICVS PRIM
-- Herman Gans (zarządca 1413-1414) MAGISTER GENERALIS (rzadki)
-- Michał Kuchmeister von Sternberg (1414-1422) … MIChAEL PRIM - od tego mistrza czasem pojawia się wielki krzyż na rewersie monet
+- Herman Gans (zarządca 1413-1414) MAGISTER GENERALIS
+- Michał Kuchmeister von Sternberg (1414-1422) … MIChAEL PRIM
 - Paweł von Russdorf (1422-1441) … PAVLVS PRIM
 - Konrad von Erlichshausen (1441-1449) … CORADVS QVIN
 - Ludwik von Erlichshausen (1450-1467) … LVDWIC DEPRIM
@@ -37,11 +37,13 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 - Marcin Truchsess von Wetzhausen (1477-1489) … MARTINV PRIM
 - Jan von Tiefen (1489-1497) … IOhISP
 
+
 TODO: Fryderyk ks. saski (1498-1510)
 TODO: Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 
 ## Systemy rachunkowo-pieniężne (Kop9-4)
 ### System rachunkowo-pieniężny krzyżacki z 1233 roku
+
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
 | **grzywna** | 4 | 24 | 60 | 720 |
@@ -51,6 +53,7 @@ TODO: Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 | 1/720 | 1/180 | 1/30 | 1/12 | **fenig** |
 
 ### System rachunkowo-pieniężny krzyżacki z końca XIV w.
+
 |  |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **grzywna chełm.** | 4 | 24 | 45 | 60 | 180 | 720 |
@@ -62,6 +65,7 @@ TODO: Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 | 1/720 | 1/180 | 1/30 | 1/16 | 1/12 | 1/4 | **fenig** |
 
 ### System rachunkowo-pieniężny krzyżacki z 1456 roku
+
 |  |  |  |
 | :-: | :-: | :-: |
 | **grzywna prus.** | 60 | 360 |
