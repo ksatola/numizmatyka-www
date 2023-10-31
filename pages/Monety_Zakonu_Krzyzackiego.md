@@ -38,8 +38,9 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 - Jan von Tiefen (1489-1497) … IOhISP
 
 
-TODO: Fryderyk ks. saski (1498-1510)
-TODO: Albrecht von Hohenzollern ks. brandenburski (1511-1525)
+`TODO`: Fryderyk ks. saski (1498-1510)
+
+`TODO`: Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 
 ## Systemy rachunkowo-pieniężne (Kop9-4)
 ### System rachunkowo-pieniężny krzyżacki z 1233 roku
@@ -54,8 +55,8 @@ TODO: Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 
 ### System rachunkowo-pieniężny krzyżacki z końca XIV w.
 
-|  |  |  |  |  |  |  |  |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **grzywna chełm.** | 4 | 24 | 45 | 60 | 180 | 720 |
 | 1/4 | **wiardunek** | 6 | 11 1/4 | 15 | 45 | 180 |
 | 1/24 | 1/6 | **skojec** | 1 7/8 | 2 1/2 | 7 1/2 | 30 |
@@ -66,7 +67,6 @@ TODO: Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 
 ### System rachunkowo-pieniężny krzyżacki z 1456 roku
 
-|  |  |  |
 | :-: | :-: | :-: |
 | **grzywna prus.** | 60 | 360 |
 | 1/60 | **szeląg** | 6 |
