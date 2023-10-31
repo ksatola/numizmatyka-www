@@ -4,7 +4,7 @@
 - xxx
 
 ### Prezentacje
-- [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](.download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
+- [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
 
 ### Materiały edukacyjne
 
