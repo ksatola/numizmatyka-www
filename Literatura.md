@@ -1,5 +1,5 @@
 
-<img src="images/zyg2a_1547_grosz_a.jpg" width="500"/> <img src="images/zyg2a_1547_grosz_r.jpg" width="500"/>
+<img src="images/zyg2a_1547_grosz_a.jpg" width="500px"/> <img src="images/zyg2a_1547_grosz_r.jpg" width="500px"/>
 
 
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant [mm] |
