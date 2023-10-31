@@ -46,35 +46,22 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 
 ## Systemy rachunkowo-pieniężne (Kop9-4)
 ### System rachunkowo-pieniężny krzyżacki z 1233 roku
-
-| :-: | :-: | :-: | :-: | :-: |
-| **grzywna** | 4 | 24 | 60 | 720 |
-| 1/4 | **wiardunek** | 6 | 15 | 180 |
-| 1/24 | 1/6 | **skojec** | 2 1/2 | 30 |
-| 1/60 | 1/15 | 2/5 | **szeląg** | 15 |
-| 1/720 | 1/180 | 1/30 | 1/12 | **fenig** |
+<img src="images/SystemZakonK1.png" />
 
 ### System rachunkowo-pieniężny krzyżacki z końca XIV w.
-
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **grzywna chełm.** | 4 | 24 | 45 | 60 | 180 | 720 |
-| 1/4 | **wiardunek** | 6 | 11 1/4 | 15 | 45 | 180 |
-| 1/24 | 1/6 | **skojec** | 1 7/8 | 2 1/2 | 7 1/2 | 30 |
-| 1/45 | 4/45 | 8/15 | **półskojec** | 1 1/3 | 4 | 16 |
-| 1/60 | 1/15 | 2/5 | 3/4 | **szeląg** | 3 | 12 |
-| 1/180 | 1/45 | 2/15 | 1/4 | 1/3 | **kwartnik** | 4 |
-| 1/720 | 1/180 | 1/30 | 1/16 | 1/12 | 1/4 | **fenig** |
+<img src="images/SystemZakonK2.png" />
 
 ### System rachunkowo-pieniężny krzyżacki z 1456 roku
+<img src="images/SystemZakonK3.png" />
 
-| :-: | :-: | :-: |
-| **grzywna prus.** | 60 | 360 |
-| 1/60 | **szeląg** | 6 |
-| 1/360 | 1/6 | **fenig** |
+### System rachunkowo-pieniężny krzyżacki Jana von Tiefen (1489-1497) z 1492 roku
+<img src="images/SystemZakonK4.png" />
 
-`TODO`: dokończyć systemy
+### System rachunkowo-pieniężny krzyżacki Fryderyka Saskiego (1498-1510)
+<img src="images/SystemZakonK5.png" />
 
-<img src="images/SystemZakonK1.png" />
+### System rachunkowo-pieniężny krzyżacki Albrechta von Hohenzollern Brandenburskiego (1511-1525)
+<img src="images/SystemZakonK6.png" />
 
 ## Przykładowe typy monet
 
