@@ -80,7 +80,8 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 
 <img src="images/zyg2a_1547_grosz_a.jpg" width="500px" height="500px"/> <img src="images/zyg2a_1547_grosz_r.jpg" width="500px" height="500px"/>
 
-<div class="tables-begin"></div>
+
+<div class="tables-end"></div>
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -90,7 +91,7 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 | :- | :- | :-: | :- | :-: |
 | Orzeł brandenburski z tarczą Hohenzollernów na piersi i napis: ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER ⦂ G[eneralis] | Orzeł brandenburski z tarczą Hohenzollernów na piersi i napis: ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER ⦂ G[eneralis] | Neumann 34; Vossberg 1144 | 0062 | [WCN](https://wcn.pl/auctions/48/561) |
 
-<div class="tables-end"></div>
+<div class="tables-begin"></div>
 
 |&nbsp;&nbsp;&nbsp; Skrót &nbsp;&nbsp;&nbsp;| Tytuł | Autor | Rok wydania | Uwagi |
 | :-: | :- | :- | :-: | :- |
