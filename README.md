@@ -19,6 +19,7 @@
 - [Srebrne monety obiegowe II Rzeczypospolitej (II RP) - przegląd wszystkich typów](https://www.youtube.com/watch?v=ILT2mtjJnz0)
 - [Od Antyku do Średniowiecza - cz.1 przeglądu wybranych pozycji z Aukcji jesiennej 2023](https://www.youtube.com/watch?v=_xybMbOh1a0)
 - [Zbiorek pięknych monet Starej Polski - unboxing i pierwszy ogląd](https://www.youtube.com/watch?v=wxmKJehNnX0)
+- [Unboxing 2 - ciekawa przesyłka z monetami XIX wiek, trochę PRL i piękny Batory](https://www.youtube.com/watch?v=vktBi4fNOgA)
 - [Prezentacja monet PRL od 1 grosza do 5 złotych z lat 1949-1989 - jakie były typy i roczniki](https://www.youtube.com/watch?v=UdBhtGzmxd4)
 - [Monety PRL od 10 zł do 50.000 zł - katalog monet PRL cz.II - wizerunki i roczniki monet obiegowych](https://www.youtube.com/watch?v=_wOQdmGh0Ds)
 - [Banknoty polskie od 1794 do 1993 - wszystkie podstawowe typy polskich pieniędzy papierowych](https://www.youtube.com/watch?v=P2E_h_W-V90)
