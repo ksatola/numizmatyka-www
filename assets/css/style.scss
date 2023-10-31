@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background: #FFFFFF;
+}
+
 .inner {
   min-width: 1010px;
   max-width: 1010px;
