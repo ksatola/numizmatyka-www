@@ -1,6 +1,6 @@
 ### Artykuły
-- [ ] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/Monety_Zakonu_Krzyzackiego.md)
-- [ ] [Literatura numizmatyczna](./pages/Literatura.md)
+- [ ]  [Monety Zakonu Krzyżackiego (1226-1525)](./pages/Monety_Zakonu_Krzyzackiego.md)
+- [ ]  [Literatura numizmatyczna](./pages/Literatura.md)
 
 ### Katalogi monet on-line
 - Onebid
@@ -10,7 +10,7 @@
 - Szczecin
 
 ### Prezentacje
-- [x] [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
+- [x]  [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
 
 ### Materiały edukacyjne
 
