@@ -11,8 +11,7 @@
 - [Jak przechowywać monety - klasery, kopertki, tacki czy inne akcesoria](https://www.youtube.com/watch?v=7FQ5fy8F9AU)
 - [Jak przechowywać banknoty](https://www.youtube.com/watch?v=QVHM9z4kYtg)
 - [Warsztat numizmatyka - Latarka do banknotów](https://www.youtube.com/watch?v=nUHeJgFGJ9c)
-
-- [Fałszerstwa monet - jak rozpoznawać falsyfikaty, jakie są ich rodzaje. Jakie są kopie monet]
+- [Fałszerstwa monet - jak rozpoznawać falsyfikaty, jakie są ich rodzaje. Jakie są kopie monet](https://www.youtube.com/watch?v=GyQsq_qQSqE&t=3s)
 - [Grading banknotów - informacje wstępne i ogólne dla początkujących - PMG, GDA, PCGS](https://www.youtube.com/watch?v=eNBnId_xooM&t=10s)
 - [Literatura numizmatyczna - książki i katalogi monet i banknotów użyteczne i warte uwagi na początek](https://www.youtube.com/watch?v=1ncc_ZghpjI)
 
