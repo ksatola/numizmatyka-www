@@ -74,6 +74,8 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 
 `TODO`: dokończyć systemy
 
+<img src="images/SystemZakonK1.png" />
+
 ## Przykładowe typy monet
 
 ### Fenigi (beznapisowe brakteaty) z lat 1466-1525
