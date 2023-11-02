@@ -195,7 +195,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1513 | 1511-1525 | Grosz | Królewiec | Ag | 1,45 | 20 | gładki |
+| 1513 | 1513-1525 | Grosz | Królewiec | Ag | 1,45 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -205,7 +205,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1515 | 1511-1525 | Grosz | Królewiec | Ag | 1,53 | 20 | gładki |
+| 1515 | 1513-1525 | Grosz | Królewiec | Ag | 1,53 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -215,7 +215,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1517 | 1511-1525 | Grosz | Królewiec | Ag | 1,31 | 20 | gładki |
+| 1517 | 1513-1525 | Grosz | Królewiec | Ag | 1,31 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -225,7 +225,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1518 | 1511-1525 | Grosz | Królewiec | Ag | 1,03 | 20 | gładki |
+| 1518 | 1513-1525 | Grosz | Królewiec | Ag | 1,03 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -235,7 +235,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1519 | 1511-1525 | Grosz | Królewiec | Ag | 1,03 | 20 | gładki |
+| 1519 | 1513-1525 | Grosz | Królewiec | Ag | 1,03 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -245,30 +245,40 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1520 | 1511-1525 | Grosz | Królewiec | Ag | 1,35 | 20 | gładki |
+| 1520 | 1513-1525 | Grosz | Królewiec | Ag | 1,35 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
 | W polu orzeł brandenburski, w otoku napis :ALBERT9•D:G•MGR•GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA • NOS • DOMI NA • 1520 | Neumann 34 | Napisy renesansowe | [Niemczyk](https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3) |
 
+<img src="images/zakon_0017_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0017_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1521 | 1520-1521 | Klipa grosza | Królewiec | Ag | 5,06 | 24 | gładki |
 
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza | Tarcza zakonna | Vossenberg 1243 |  | [WCN](https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-klipa-grosza-1521/394771) |
 
+<img src="images/zakon_0015_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0015_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1520 | 1520-1521 | Ćwierćtalar (Viertel-Taler = Achtgroschen) | Królewiec | Ag | 5,06 | 31 | gładki |
 
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Matka Boska z dzieciątkiem na półksiężycu otoczona promieniami, ALBERTV DEI GRA MARCHIO BRAND | Orzeł pruski w tarczy na tle ozdobnego krzyża w rozecie, HONOR MAGISTRI IVSTICIAM DILIGIT 15Z[0] | Neumann 37; Vossenberg 1227; Kop. 9070 | Na monecie widnieje kontrmarka (tarcza z krzyżem), którą nabijano na wybitych monetach w celu obniżenia oficjalnej wartości z ośmiu do sześciu groszy | [WCN](https://onebid.pl/pl/monety-cwierctalar-viertel-taler-achtgroschen-1520-krolew/183267) |
 
+<img src="images/zakon_0016_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0016_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1521 | 1520-1521 | Klipa ćwierćtalarowa (8 groszy) | Królewiec | Ag | 5,06 | 24 | gładki |
 
-https://onebid.pl/pl/monety-cwierctalar-viertel-taler-achtgroschen-1520-krolew/183267
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Madonna z dzieciątkiem na wprost | Orzeł pruski w tarczy na tle ozdobnego krzyża w rozecie | Vossenberg 1242 |  | [WCN](https://onebid.pl/pl/monety-klipa-cwierctalara-8-groszy-1521-krolewiec-aw-mado/192223) |
 
-https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-cwierctalar-na-klipie-1520-krolewiec-rr/1564489
-https://onebid.pl/pl/monety-klipa-cwierctalara-8-groszy-1521-krolewiec-aw-mado/192223
-
-https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-klipa-grosza-1521/394771
-
-https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-hohenzollern-grosz-krolewiec-1523-b-rzadki/1555573
-
-https://onebid.pl/pl/monety-grosz-1524-krolewiec-alber-t9-d-g-m-gie-ralis-salva/6715
-
-https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-von-hohenzollern-grosz-1524-krolewiec/1380055
-
-
-
-
+[Powrót](https://numizmatyka.satola.net)
