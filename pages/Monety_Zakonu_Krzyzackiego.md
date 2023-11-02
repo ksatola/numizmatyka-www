@@ -189,20 +189,63 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGI STER FRID IKVS | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONE TADN ORVM PRVS [Moneta Dominorum Prucie] | Vossberg 1137 |  | [WCN](https://onebid.pl/pl/monety-fryderyk-saski-1498-1510-grosz-magi-ster-frid-ikvs/422162) |
 
-### Fryderyk Saski (1498-1510)
+### Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 
-<img src="images/zakon_0008_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0008_r.jpg" width="500px" height="500px"/>
+<img src="images/zakon_0009_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0009_r.jpg" width="500px" height="500px"/>
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1498-1510 | Grosz | Królewiec | Ag | 1,45 | 25 | gładki |
+| 1513 | 1511-1525 | Grosz | Królewiec | Ag | 1,45 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGI STER FRID IKVS | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONE TADN ORVM PRVS [Moneta Dominorum Prucie] | Vossberg 1137 |  | [WCN](https://onebid.pl/pl/monety-fryderyk-saski-1498-1510-grosz-magi-ster-frid-ikvs/422162) |
+| W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER G | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ⦂ 1513 | Kopiski 9052; Vossberg 1144 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-hohenzollern-grosz-krolewiec-1513-piekny/1798770) |
+
+<img src="images/zakon_0010_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0010_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1515 | 1511-1525 | Grosz | Królewiec | Ag | 1,53 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| W polu orzeł brandenburski, w otoku napis • ALBERTVS ∘ D ⦂ G ∘ MAGR ∘ GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ∘ NOS ∘ DOMIN A ∘ 1515 | Kopiski 9054 | Napisy renesansowe | [Marciniak](https://onebid.pl/pl/monety-albrecht-hohenzollern-1511-1525-grosz-1515/199834) |
+
+<img src="images/zakon_0011_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0011_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1517 | 1511-1525 | Grosz | Królewiec | Ag | 1,31 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGR ⦂ GNERALIS ⦂ | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1515 ⦂ | Kopiski 9054; Vossberg 108; Neumann 34 | Napisy renesansowe | [WCN](https://onebid.pl/pl/monety-grosz-1517-krolewiec-aw-orzel-brandenburski-z-tarcz/286186) |
 
 
 
-https://archiwum.niemczyk.pl/product/292295/zakon-krzyzacki-friedrich-von-sachsen-1498-1510-grosz-rzadki
+
+
+https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-grosz-1518-krolewiec/1564488
+
+https://onebid.pl/pl/monety-rr-zakon-krzyzacki-albrecht-hohenzollern-grosz-1519-krolewiec/1488041
+lub https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-von-hohenzollern-grosz-krolewiec-1519/445562
+
 
 https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3
+
+https://onebid.pl/pl/monety-cwierctalar-viertel-taler-achtgroschen-1520-krolew/183267
+
+https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-cwierctalar-na-klipie-1520-krolewiec-rr/1564489
+https://onebid.pl/pl/monety-klipa-cwierctalara-8-groszy-1521-krolewiec-aw-mado/192223
+
+https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-klipa-grosza-1521/394771
+
+https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-hohenzollern-grosz-krolewiec-1523-b-rzadki/1555573
+
+https://onebid.pl/pl/monety-grosz-1524-krolewiec-alber-t9-d-g-m-gie-ralis-salva/6715
+
+https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-von-hohenzollern-grosz-1524-krolewiec/1380055
+
+
+
+
