@@ -94,7 +94,71 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 1450-1456 - szyling - https://ikmk.smb.museum/object?lang=en&id=18227840
 
 ### Fenigi (beznapisowe brakteaty) z lat 1466-1525
-orzel w tarczy https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-orzel-w-tarczy/1902240
+
+<img src="images/zakon_0001_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0001_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1466-1525 | Fenig (brakteat beznapisowy) | ? | Ag | 0,2 | 12-16 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza krzyżacka | - | Kopicki 9001 |  | [Numimarket](https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-orzel-w-tarczy/1902240) |
+
+### Ludwik von Erlichshausen (1450-1467)
+
+<img src="images/zakon_0002_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0002_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1450-1456 | Szląg | ? | Ag | 1,37 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis MAGS - LVDW - ICVS - PRIM [Magister Ludewicus Primus] | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE-TA DN-ORVM - PRVC [Moneta Dominorum Prucie] | Vossberg 883-886; Bahrfeldt 774-780; Neumann 24b |  | [Bode](https://ikmk.smb.museum/object?lang=en&id=18227840) |
+
+### Henryk Reuss von Plauen (1467-1470)
+
+<img src="images/zakon_0003_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0003_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1467-1470 | Szląg | ? | Ag | 1,27 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis ★ MAGST ∘ HINRICVS ∘ PRI [Magister Hinricus Primus] | W polu tarcza krzyżacka. W otoku napis MONETA ∘ DNORVM ∘ PRV [Moneta Dominorum Prucie] | Vossberg 90; Neumann 28 |  | [WCN](https://wcn.onebid.pl/pl/monety-szelag-magst-hinricvs-pri-moneta-dnorvm-prv-neumann/6708) |
+
+### Henryk Reffle von Richtenberg (1470-1477)
+
+<img src="images/zakon_0004_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0004_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1470-1477 | Szląg | ? | Ag | 1,47 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis ★ MAGST HINRICVS VA • | W polu tarcza krzyżacka. W otoku napis MONETA • DOMI • PRV [Moneta Dominorum Prucie] | Vossberg 93; Neumann 29 |  | [WCN](https://wcn.onebid.pl/pl/monety-szelag-magst-hinriovs-va-moneta-domi-prv-neumann-29/6709) |
+
+### Marcin Truchsess von Wetzhausen (1477–1489)
+
+<img src="images/zakon_0005_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0005_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1477–1489 | Szląg | ? | Ag | 1,16 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis ★ MAGST MARTINV P | W polu tarcza krzyżacka. W otoku napis ♣ MONETA DNORVM P [Moneta Dominorum Prucie] | Neumann 29a |  | [Niemczyk](https://archiwum.niemczyk.pl/product/343647/zakon-krzyzacki-marcin-truchsess-1477-1489-szelag-ladny) |
+
+[Powrót](https://numizmatyka.satola.net)
+
+
+
+
+
 Marcin Truchsess (1477–1489). Szeląg https://archiwum.niemczyk.pl/product/343647/zakon-krzyzacki-marcin-truchsess-1477-1489-szelag-ladny
 1489-1497 - grosz - https://archiwum.niemczyk.pl/product/352499/zakon-krzyzacki-jan-von-tiefen-1489-1497-grosz-rzadki
 https://archiwum.niemczyk.pl/product/343652/zakon-krzyzacki-jan-von-tiefen-1489-1497-grosz-rzadki
@@ -102,17 +166,3 @@ https://archiwum.niemczyk.pl/product/153180/zakon-krzyzacki-johann-v-tiefen-1489
 https://archiwum.niemczyk.pl/product/292295/zakon-krzyzacki-friedrich-von-sachsen-1498-1510-grosz-rzadki
 
 https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3
-
-
-<img src="images/zyg2a_1547_grosz_a.jpg" width="500px" height="500px"/> <img src="images/zyg2a_1547_grosz_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1466-1525 | Fenig (brakteat beznapisowy) | Królewiec | Ag | 0,2 | 12-16 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza krzyżacka | - | Neumann 34; Vossberg 1144 | 0062 | [WCN](https://wcn.pl/auctions/48/561) |
-
-
-[Powrót](https://numizmatyka.satola.net)
