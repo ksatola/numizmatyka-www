@@ -76,12 +76,35 @@ Grzywna, wiardunek, skojec i szeląg były jednostkami obrachunkowymi.
 
 ## Przykładowe typy monet
 
+1233 - https://ikmk.smb.museum/object?lang=en&id=18206607
+https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-ok-1247-1258/1959226
+https://archiwum.niemczyk.pl/product/305482/zakon-krzyzacki-brakteat-1267-1278-arkady-ladny
+https://archiwum.niemczyk.pl/product/323995/zakon-krzyzacki-brakteat-1287-1298-krzyz-lacinski
+https://archiwum.niemczyk.pl/product/323998/zakon-krzyzacki-brakteat-1287-1298-korona
+1290-1345 - https://ikmk.smb.museum/object?lang=en&id=18206608
+https://archiwum.niemczyk.pl/product/324002/zakon-krzyzacki-brakteat-1307-1318-tarcza-zakonna
+https://archiwum.niemczyk.pl/product/317780/zakon-krzyzacki-winrych-von-kniprode-1351-1382-szelag-bardzo-ladny
+https://archiwum.niemczyk.pl/product/311237/zakon-krzyzacki-winrych-von-kniprode-1351-1382-szelag-bardzo-ladny
+https://archiwum.niemczyk.pl/product/154642/zakon-krzyzacki-winrich-1351-90-szelag-st2
+1360-1370 - polskojec - https://ikmk.smb.museum/object?lang=en&id=18206610
+1380 - szyling - https://ikmk.smb.museum/object?lang=en&id=18206611
+https://archiwum.niemczyk.pl/product/323263/zakon-krzyzacki-konrad-iii-von-jungingen-1393-1407-szelag-ladny
+https://archiwum.niemczyk.pl/product/159892/zakon-krzyzacki-ulrich-von-jungingen-szelag-1407-1410
+https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
+1450-1456 - szyling - https://ikmk.smb.museum/object?lang=en&id=18227840
+
 ### Fenigi (beznapisowe brakteaty) z lat 1466-1525
+orzel w tarczy https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-orzel-w-tarczy/1902240
+Marcin Truchsess (1477–1489). Szeląg https://archiwum.niemczyk.pl/product/343647/zakon-krzyzacki-marcin-truchsess-1477-1489-szelag-ladny
+1489-1497 - grosz - https://archiwum.niemczyk.pl/product/352499/zakon-krzyzacki-jan-von-tiefen-1489-1497-grosz-rzadki
+https://archiwum.niemczyk.pl/product/343652/zakon-krzyzacki-jan-von-tiefen-1489-1497-grosz-rzadki
+https://archiwum.niemczyk.pl/product/153180/zakon-krzyzacki-johann-v-tiefen-1489-1497-grosz-bez-daty-krolewiec-r4
+https://archiwum.niemczyk.pl/product/292295/zakon-krzyzacki-friedrich-von-sachsen-1498-1510-grosz-rzadki
+
+https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3
+
 
 <img src="images/zyg2a_1547_grosz_a.jpg" width="500px" height="500px"/> <img src="images/zyg2a_1547_grosz_r.jpg" width="500px" height="500px"/>
-
-
-<div class="tables-end"></div>
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -89,14 +112,7 @@ Grzywna, wiardunek, skojec i szeląg były jednostkami obrachunkowymi.
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
-| Orzeł brandenburski z tarczą Hohenzollernów na piersi i napis: ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER ⦂ G[eneralis] | Orzeł brandenburski z tarczą Hohenzollernów na piersi i napis: ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER ⦂ G[eneralis] | Neumann 34; Vossberg 1144 | 0062 | [WCN](https://wcn.pl/auctions/48/561) |
-
-<div class="tables-begin"></div>
-
-|&nbsp;&nbsp;&nbsp; Skrót &nbsp;&nbsp;&nbsp;| Tytuł | Autor | Rok wydania | Uwagi |
-| :-: | :- | :- | :-: | :- |
-| Kop9-4 | Katalog podstawowych typów monet i banknotów Polski oraz ziem historycznie z Polską związanych - Tom IX cz. 4 - Legendy, znaki mennicze, gatunki monet i inne elementy klasyfikacji | Edmund Kopicki | 1989 |  |
-| LMK | Lenne Monety Krzyżackie | Andrzej Schmidt | 1979 |  |
+| Tarcza krzyżacka | - | Neumann 34; Vossberg 1144 | 0062 | [WCN](https://wcn.pl/auctions/48/561) |
 
 
 [Powrót](https://numizmatyka.satola.net)
