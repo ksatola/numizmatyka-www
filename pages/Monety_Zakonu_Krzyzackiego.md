@@ -153,16 +153,36 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza, w otoku napis ★ MAGST MARTINV P | W polu tarcza krzyżacka. W otoku napis ♣ MONETA DNORVM P [Moneta Dominorum Prucie] | Neumann 29a |  | [Niemczyk](https://archiwum.niemczyk.pl/product/343647/zakon-krzyzacki-marcin-truchsess-1477-1489-szelag-ladny) |
 
+### Marcin Truchsess von Wetzhausen (1477–1489)
+
+<img src="images/zakon_0006_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0006_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1477–1489 | Szląg | ? | Ag | 1,29 | 19,5 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza z długim krzyżem zakonczonym liliami, w otoku napis ♣ MA ♣ GIS ♣ ION ♣ ISP | W polu tarcza krzyżacka. W otoku napis ♣ MONETA DNORVM P [Moneta Dominorum Prucie] |  |  | [RDA](https://onebid.pl/pl/monety-zakon-krzyzacki-jan-von-tiefen-szelag-nieopisany/1591486) |
+
+<img src="images/zakon_0007_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0007_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1477–1489 | Grosz | Królewiec | Ag | 1,58 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGST IOHNS DE TIFENI | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONETA DNORVM PVS [Moneta Dominorum Prucie] | Kopicki 9046; Neumann 32 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/153180/zakon-krzyzacki-johann-v-tiefen-1489-1497-grosz-bez-daty-krolewiec-r4) |
+
 [Powrót](https://numizmatyka.satola.net)
 
 
 
 
 
-Marcin Truchsess (1477–1489). Szeląg https://archiwum.niemczyk.pl/product/343647/zakon-krzyzacki-marcin-truchsess-1477-1489-szelag-ladny
-1489-1497 - grosz - https://archiwum.niemczyk.pl/product/352499/zakon-krzyzacki-jan-von-tiefen-1489-1497-grosz-rzadki
-https://archiwum.niemczyk.pl/product/343652/zakon-krzyzacki-jan-von-tiefen-1489-1497-grosz-rzadki
-https://archiwum.niemczyk.pl/product/153180/zakon-krzyzacki-johann-v-tiefen-1489-1497-grosz-bez-daty-krolewiec-r4
+
+
 https://archiwum.niemczyk.pl/product/292295/zakon-krzyzacki-friedrich-von-sachsen-1498-1510-grosz-rzadki
 
 https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3
