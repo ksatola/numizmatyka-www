@@ -177,9 +177,29 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 
 [Powrót](https://numizmatyka.satola.net)
 
+### Fryderyk Saski (1498-1510)
 
+<img src="images/zakon_0008_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0008_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1498-1510 | Grosz | Królewiec | Ag | 1,45 | 25 | gładki |
 
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGI STER FRID IKVS | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONE TADN ORVM PRVS [Moneta Dominorum Prucie] | Vossberg 1137 |  | [WCN](https://onebid.pl/pl/monety-fryderyk-saski-1498-1510-grosz-magi-ster-frid-ikvs/422162) |
 
+### Fryderyk Saski (1498-1510)
+
+<img src="images/zakon_0008_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0008_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1498-1510 | Grosz | Królewiec | Ag | 1,45 | 25 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGI STER FRID IKVS | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONE TADN ORVM PRVS [Moneta Dominorum Prucie] | Vossberg 1137 |  | [WCN](https://onebid.pl/pl/monety-fryderyk-saski-1498-1510-grosz-magi-ster-frid-ikvs/422162) |
 
 
 
