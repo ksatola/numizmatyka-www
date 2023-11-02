@@ -199,7 +199,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER G | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ⦂ 1513 | Kopiski 9052; Vossberg 1144 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-hohenzollern-grosz-krolewiec-1513-piekny/1798770) |
+| W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER G | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ⦂ 1513 | Kopicki 9052; Vossberg 1144 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-hohenzollern-grosz-krolewiec-1513-piekny/1798770) |
 
 <img src="images/zakon_0010_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0010_r.jpg" width="500px" height="500px"/>
     
@@ -209,7 +209,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis • ALBERTVS ∘ D ⦂ G ∘ MAGR ∘ GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ∘ NOS ∘ DOMIN A ∘ 1515 | Kopiski 9054 | Napisy renesansowe | [Marciniak](https://onebid.pl/pl/monety-albrecht-hohenzollern-1511-1525-grosz-1515/199834) |
+| W polu orzeł brandenburski, w otoku napis • ALBERTVS ∘ D ⦂ G ∘ MAGR ∘ GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ∘ NOS ∘ DOMIN A ∘ 1515 | Kopicki 9054 | Napisy renesansowe | [Marciniak](https://onebid.pl/pl/monety-albrecht-hohenzollern-1511-1525-grosz-1515/199834) |
 
 <img src="images/zakon_0011_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0011_r.jpg" width="500px" height="500px"/>
     
@@ -219,19 +219,42 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGR ⦂ GNERALIS ⦂ | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1515 ⦂ | Kopiski 9054; Vossberg 108; Neumann 34 | Napisy renesansowe | [WCN](https://onebid.pl/pl/monety-grosz-1517-krolewiec-aw-orzel-brandenburski-z-tarcz/286186) |
+| W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGR ⦂ GNERALIS ⦂ | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1517 ⦂ | Kopicki 9054; Vossberg 108; Neumann 34 | Napisy renesansowe | [WCN](https://onebid.pl/pl/monety-grosz-1517-krolewiec-aw-orzel-brandenburski-z-tarcz/286186) |
+
+<img src="images/zakon_0012_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0012_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1518 | 1511-1525 | Grosz | Królewiec | Ag | 1,03 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| W polu orzeł brandenburski, w otoku napis ALBERTVS DG M GNERALIS ⦂ | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1518 ⦂ | Kopicki 9057 | Napisy gotyckie | [PDA](https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-grosz-1518-krolewiec/1564488) |
+
+<img src="images/zakon_0013_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0013_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1519 | 1511-1525 | Grosz | Królewiec | Ag | 1,03 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| W polu orzeł brandenburski, w otoku napis :ALBERT9•D:G•MGR•GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA • NOS • DOMI NA • 1519 | Kopicki 9058 | Napisy renesansowe | [WDA](https://onebid.pl/pl/monety-rr-zakon-krzyzacki-albrecht-hohenzollern-grosz-1519-krolewiec/1488041) |
+
+<img src="images/zakon_0014_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0014_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1520 | 1511-1525 | Grosz | Królewiec | Ag | 1,35 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| W polu orzeł brandenburski, w otoku napis :ALBERT9•D:G•MGR•GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA • NOS • DOMI NA • 1520 | Neumann 34 | Napisy renesansowe | [Niemczyk](https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3) |
 
 
 
 
 
-https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-grosz-1518-krolewiec/1564488
-
-https://onebid.pl/pl/monety-rr-zakon-krzyzacki-albrecht-hohenzollern-grosz-1519-krolewiec/1488041
-lub https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-von-hohenzollern-grosz-krolewiec-1519/445562
-
-
-https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3
 
 https://onebid.pl/pl/monety-cwierctalar-viertel-taler-achtgroschen-1520-krolew/183267
 
