@@ -59,10 +59,12 @@ Tabele zaczerpnięte z Kop9-4.
 
 ### System rachunkowo-pieniężny krzyżacki z 1233 roku
 Grzywna, wiardunek, skojec i szeląg były jednostkami obrachunkowymi. W postaci monetarnej pojawiały się tylko fenigi (denary brakteatowe).
+
 <img src="images/SystemZakonK1.png" width="550px" height="95px"/>
 
 ### System rachunkowo-pieniężny krzyżacki z końca XIV w.
 Grzywna, wiardunek i skojec były jednostkami obrachunkowymi. Oprócz fenigów, w postaci monetarnej pojawiły się półskojce, kwartniki, a następnie szelągi.
+
 <img src="images/SystemZakonK2.png" width="772px" height="130px"/>
 
 ### System rachunkowo-pieniężny krzyżacki z 1456 roku
