@@ -131,11 +131,21 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1233? | 1226-1466 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,27 | 19 | gładki |
+| brak | 1236-1248 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,27 | 19 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
 | Stojący rycerz trzymający przed sobą tarczę w prawej ręce i flagę w lewej ręce | - | E. Waschinski, Brakteaten und Denare des Deutschen Ordens (1934) Nr. 11 |  | [Bode](https://ikmk.smb.museum/object?lang=en&id=18206607) |
+
+<img src="images/zakon_0034_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0034_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1236-1248 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,22 | 21 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Krzyż kawalerski otoczony przez ramię z proporcem, z drzewcem z lewej, a obok drzewca kule | - | Kop. 8983 (R6); Paszkiewicz T1 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-szeroki-ramie-z-proporcem-1236-1248-rzadki/345262) |
 
 <img src="images/zakon_0029_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0029_r.jpg" width="500px" height="500px"/>
     
