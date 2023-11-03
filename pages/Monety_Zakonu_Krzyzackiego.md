@@ -76,7 +76,7 @@ Monety wybijane przez Zakon od 1466 roku powinny być traktowane jako monety len
 
 <a id='sys'></a>
 ## Systemy rachunkowo-pieniężne państwa krzyżackiego
-Tabele zaczerpnięte z Kop9-4.
+Tabele zaczerpnięte z [Kop9-4](./Literatura.html).
 
 ### System rachunkowo-pieniężny krzyżacki z 1233 roku
 Grzywna, wiardunek, skojec i szeląg były jednostkami obrachunkowymi. W postaci monetarnej pojawiały się tylko fenigi (denary brakteatowe).
