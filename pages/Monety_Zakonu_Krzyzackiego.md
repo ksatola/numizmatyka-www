@@ -128,58 +128,181 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <a id='m1-1'></a>
-### Fenigi (beznapisowe brakteaty) z lat 1466-1525
-1233 - https://ikmk.smb.museum/object?lang=en&id=18206607
-https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-ok-1247-1258/1959226
-https://archiwum.niemczyk.pl/product/305482/zakon-krzyzacki-brakteat-1267-1278-arkady-ladny
-https://archiwum.niemczyk.pl/product/323995/zakon-krzyzacki-brakteat-1287-1298-krzyz-lacinski
-https://archiwum.niemczyk.pl/product/323998/zakon-krzyzacki-brakteat-1287-1298-korona
+### Fenigi (beznapisowe brakteaty) z lat 1226-1466
 
-1290-1345 - https://ikmk.smb.museum/object?lang=en&id=18206608
-https://archiwum.niemczyk.pl/product/324002/zakon-krzyzacki-brakteat-1307-1318-tarcza-zakonna
+<img src="images/zakon_0028_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0028_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1233? | 1226-1466 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,27 | 19 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Stojący rycerz trzymający przed sobą tarczę w prawej ręce i flagę w lewej ręce | - | E. Waschinski, Brakteaten und Denare des Deutschen Ordens (1934) Nr. 11 |  | [Bode](https://ikmk.smb.museum/object?lang=en&id=18206607) |
+
+<img src="images/zakon_0029_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0029_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1267-1278 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,23 | 17 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Dwa krzyże pod arkadami | - | BRP Prusy T4; Neumann 1r |  | [Niemczyk](https://archiwum.niemczyk.pl/product/305482/zakon-krzyzacki-brakteat-1267-1278-arkady-ladny) |
+
+<img src="images/zakon_0030_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0030_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1287-1298 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,17 | 17 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Krzyż łaciński | - | BRP Prusy T9 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/323995/zakon-krzyzacki-brakteat-1287-1298-krzyz-lacinski) |
+
+<img src="images/zakon_0031_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0031_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1287-1298 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,20 | 17 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Korona z obręczą, na szczycie środkowego fleurona krzyż | - | BRP Prusy T6 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/323998/zakon-krzyzacki-brakteat-1287-1298-korona) |
+
+<img src="images/zakon_0032_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0032_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1307-1318 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,18 | 17 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza zakonna, powyżej dwie kule | - | Kop. 8996j; Paszkiewicz T8 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/324002/zakon-krzyzacki-brakteat-1307-1318-tarcza-zakonna) |
 
 <a id='m1-2'></a>
 ### Winrych von Kniprode (1351-1382)
 
-https://archiwum.niemczyk.pl/product/317780/zakon-krzyzacki-winrych-von-kniprode-1351-1382-szelag-bardzo-ladny
-https://archiwum.niemczyk.pl/product/311237/zakon-krzyzacki-winrych-von-kniprode-1351-1382-szelag-bardzo-ladny
-https://archiwum.niemczyk.pl/product/154642/zakon-krzyzacki-winrich-1351-90-szelag-st2
+<img src="images/zakon_0025_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0025_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1360-1382 | Ćwiartka | Toruń | Ag | 0,77 | ? | gładki |
 
-1360-1370 - polskojec - https://ikmk.smb.museum/object?lang=en&id=18206610
-1380 - szyling - https://ikmk.smb.museum/object?lang=en&id=18206611
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza mistrzowska w sześciołukowej obwódce, wokół której napis: ✠ MAGISTER × GENERALIS | Krzyż kawalerski w otoku perełkowym, a w otoku napis: ✠ DOMINORVM × PRVSSIE | Vossberg 120-121; Neumann 5 | Wybijane krótko, podobnie jak ćwierćgrosze Kazimierza Wielkiego w Polsce nie sprawdziły się w praktyce | [WCN](https://wcn.pl/archive/26_0131) |
 
-Półskojec A: Tarcza mistrzowska w sześciołukowej obwódce, wokół której napis MONETA DOMINORVM PRVSSIE.
-R: Ozdobny krzyż liliowaty (gigliati), w otoku legenda parafrazująca psalm "HONOR MAGISTRI IVDICIVM DILIGIT (godność mistrza miłuje sprawiedliwość)
+<img src="images/zakon_0026_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0026_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1360-1382 | Półskojec | Toruń | Ag | 2,94 | 26 | gładki |
 
-Ćwiartka A: Tarcza mistrzowska R: krzyż
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza mistrzowska w sześciołukowej obwódce, wokół której znajdował się napis: ✠ MONETA ⦂ DOMINORVM ⦂ PRVSSIE | Krzyż z lilijkami w czteropłatkowej rozecie oraz w otoku legenda: ✠ HONOR ⦂ MAGISTRI ⦂ IVDICIVM ⦂ DILIGIT (godność mistrza miłuje sprawiedliwość) | Dudik 37; Neumann’87 3; Voss. §34 | Wybijane krótko, używane raczej wewnętrznie (niższa zawartość srebra) | [WCN](https://ikmk.smb.museum/object?lang=en&id=18206610) |
+
+<img src="images/zakon_0027_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0027_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1380-1382 | Szeląg | Toruń | Ag | 1,75 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ WYNRICS ⁑ PRIMS [Magister Winricus Primus] | Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie] | Neumann 4 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/317780/zakon-krzyzacki-winrych-von-kniprode-1351-1382-szelag-bardzo-ladny) |
 
 <a id='m1-3'></a>
 ### Konrad I Zöllner von Rothenstein (1382-1390)
 
+<img src="images/zakon_0024_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0024_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1382-1390 | Szeląg | Toruń | Ag | 1,58 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ PRIM9 [Magister Coradus Primus] | Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie] |  Vossberg 144 |  | [WCN](https://onebid.pl/pl/monety-szelag-aw-tarcza-wielkiego-mistrza-i-napis-rw-tarcz/401306) |
+
 <a id='m1-4'></a>
 ### Konrad III von Jungingen (1393-1407)
 
-https://archiwum.niemczyk.pl/product/323263/zakon-krzyzacki-konrad-iii-von-jungingen-1393-1407-szelag-ladny
+<img src="images/zakon_0023_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0023_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1393-1407 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ TERCI [Magister Coradus Tercius] | Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie] | Neumann 7a |  | [Niemczyk](https://archiwum.niemczyk.pl/product/323263/zakon-krzyzacki-konrad-iii-von-jungingen-1393-1407-szelag-ladny) |
 
 <a id='m1-5'></a>
 ### Ulryk von Jungingen (1407-1410)
 
-https://archiwum.niemczyk.pl/product/159892/zakon-krzyzacki-ulrich-von-jungingen-szelag-1407-1410
+<img src="images/zakon_0022_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0022_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1407-1410 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis +MAGST' + VLRICVS + PRIMV [Magister Ulricus Primus] | Tarcza krzyżacka. W otoku napis + MONETA + DNORVM + PRVC [Moneta Dominorum Prucie] | Kop. 9015 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-ulryk-von-jungingen-szelag/853284) |
 
 <a id='m1-6'></a>
 ### Henryk von Plauen (1410-1413)
 
+<img src="images/zakon_0021_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0021_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1410-1413 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST HINRICVS PRIM [Magister Hinricus Primus] | Tarcza krzyżacka. W otoku napis MONETA DNORVM PRVCI [Moneta Dominorum Prucie] | Kop. (BN 2/2004) 298 |  | [Numimarket](https://onebid.pl/pl/monety-zakon-krzyzacki-henryk-i-von-plauen-1410-1414-szelag/1857499) |
+
 <a id='m1-71'></a>
 ### Herman Gans, zarządca (1413-1414)
+
+<img src="images/zakon_0020_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0020_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1413-1414 | Szeląg | Toruń | Ag | 1,36 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza zarządcy, w otoku napis MAGISTER GENERALIS | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie] | Neumann 13; Voss. 63 |  | [WCN](https://onebid.pl/pl/monety-szelag-mennica-gdansk-aw-tarcza-wielkiego-mistrza-m/173551) |
 
 <a id='m1-8'></a>
 ### Michał I Küchmeister von Sternberg (1414–1422)
 
-https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
+<img src="images/zakon_0019_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0019_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1414–1422 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza na długim krzyżu, w otoku napis MAGS T ∘ MIC HAEL PRIM [Magister Michael Primus] | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie] | Kop. 9026 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-michal-kuchmeister-szelag-piekny/1851083) |
 
 <a id='m1-9'></a>
 ### Paweł von Russdorf (1422-1441)
 
+<img src="images/zakon_0018_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0018_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1422-1441 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza na długim krzyżu, w otoku napis MAGS T ∘ PA VLVS PRIM [Magister Paulus Primus] | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie] | Kop. 9028 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-pawel-von-russdorf-szelag/854132) |
 
 
 <a id='m2'></a>
@@ -205,7 +328,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1450-1456 | Szląg | Toruń | Ag | 1,37 | 20 | gładki |
+| brak | 1450-1456 | Szeląg | Toruń | Ag | 1,37 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -218,7 +341,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1467-1470 | Szląg | Królewiec | Ag | 1,27 | 20 | gładki |
+| brak | 1467-1470 | Szeląg | Królewiec | Ag | 1,27 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -231,7 +354,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1470-1477 | Szląg | Królewiec | Ag | 1,47 | 20 | gładki |
+| brak | 1470-1477 | Szeląg | Królewiec | Ag | 1,47 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -244,7 +367,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1477–1489 | Szląg | Królewiec | Ag | 1,16 | 20 | gładki |
+| brak | 1477–1489 | Szeląg | Królewiec | Ag | 1,16 | 20 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -257,7 +380,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1489-1497 | Szląg | Królewiec | Ag | 1,29 | 19,5 | gładki |
+| brak | 1489-1497 | Szeląg | Królewiec | Ag | 1,29 | 19,5 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
@@ -377,7 +500,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
-| Madonna z dzieciątkiem na wprost | Orzeł pruski w tarczy na tle ozdobnego krzyża w rozecie | Vossenberg 1242 |  | [WCN](https://onebid.pl/pl/monety-klipa-cwierctalara-8-groszy-1521-krolewiec-aw-mado/192223) |
+| Orzeł pruski w tarczy na tle ozdobnego krzyża w rozecie | Madonna z dzieciątkiem na wprost | Vossenberg 1242 |  | [WCN](https://onebid.pl/pl/monety-klipa-cwierctalara-8-groszy-1521-krolewiec-aw-mado/192223) |
 
 
 [Powrót](https://numizmatyka.satola.net)
