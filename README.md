@@ -1,5 +1,5 @@
 ### Artykuły
-- [ ] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/Monety_Zakonu_Krzyzackiego.md)
+- [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/Monety_Zakonu_Krzyzackiego.md)
 - [ ] [Literatura numizmatyczna](./pages/Literatura.md)
 
 ### Katalogi numizmatyczne on-line
