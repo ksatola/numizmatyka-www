@@ -24,5 +24,10 @@ table {
     width: 100%;
     font-size: 65%;
     #padding: 1px;
+    #cellpadding: 2px;
+}
+
+th, td {
+    padding: 1px;
     cellpadding: 2px;
 }
