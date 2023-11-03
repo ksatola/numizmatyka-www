@@ -1,6 +1,8 @@
 
 # Katalog monet
 
+[Notatki numizmatyczne](https://numizmatyka.satola.net)
+
 ## Ważne reguły dotyczące monet
 - **Nie wolno dotykać monet gołymi rękami**, na części z nich mogą odbić się odciski palców (nie da się tego zmyć bez zniszczenia naturalnej powłoki monety / patyny lub porysowania warstwy menniczej).
 - **Nie wolno myć ani czyścić monet**. Mycie lub czyszczenie monet zwykle je niszczy (jeśli niezrobione przez fachowca), moneta traci wartość kolekcjonerską (i w ogóle wartość materialną).
