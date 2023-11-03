@@ -68,7 +68,7 @@ W 1380 roku Winrych wprowadził na masową skalę szelągi (solid, Schilling), b
 
 Od 1416 roku na niektórych szelągach pojawia się też tzw. długi krzyż, dzielący pole stempla na cztery części. Poza tą zmianą, szelągi przetrwały w prawie niezmienionej formie do końca XV wieku. Długi krzyż umieszczany był na szelągach o większej zawartości krzuszcu (monety takie powstały jako próba reformy monetarnej). Wytworzyło to monetarny chaos wywołany współobiegiem różnowartościowych monet oraz wychwytywaniem egzemplarzy lepszych i przebijaniem ich na nowe, pogorszony istnieniem różnorodnych kursów wymiennych. Sytuacja ta, dokuczliwa szczególnie dla kupców, była jedną z przesłanek opozycji miast, doprowadzając do powstania Związku Pruskiego i w konsekwencji do wybuchu wojny trzynastoletniej. Sytuację monetarną miała poprawić dopiero reforma groszowa Jana von Tiefen (1489-1497) w 1492 roku. (PG. 293)
 
-Pod koniec XIV wieku za rządów Konrada von Jungingen (1393-1407), pojawia się złota moneta krzyżacka. Niewiele o niej wiadomo (do dzisiaj nie zachował się żaden egzemplarz, a jedynie wzmianka z 1394 roku o mincerzu gdańskim bijącym monety srebrne i złote z wizerunkiem Madonny). Złoty gulden krzyżacki posiadał wizerunek Matki Boskiej i odpowiadał standardowi węgierskiego florena (ok. 3,5 grama czystego złota). (VNM. 33, PG. 293)
+Pod koniec XIV wieku za rządów Konrada von Jungingen (1393-1407), pojawia się złota moneta krzyżacka. Niewiele o niej wiadomo (do dzisiaj nie zachował się żaden egzemplarz, a jedynie wzmianka z 1394 roku o mincerzu gdańskim bijącym monety srebrne i złote z wizerunkiem Madonny). Złoty gulden krzyżacki posiadał wizerunek Matki Boskiej i odpowiadał standardowi węgierskiego florena (ok. 3,5 grama czystego złota). (VNM. 33, PG. 293) Zakon krzyżacki, opierając swą potęge militarną na najemnikach, których usługi musiał opłacać złotem, wystarał się u przychylnego mu stale cesarza Zygmunta Luksemburskiego (1411-1437) o zgodę na wybijanie wiernych imitacji florenów węgierskich. Do produkcji tych monet jednak nie doszło, być może dlatego, że wtedy właśnie doszło do bitwy pod Grunwaldem (1410) i sytuacja Zakonu diametrialnie się zmieniła. Rok później, nowo wybrany wielki mistrz Henryk von Plauen (1410-1413) wrócił do bicia guldenów w celu opłacenia wojsk zaciężnych. Monety takie wybito w Gdańsku. Na stronie głównej miały postać wielkiego mistrza w stroju rycerskim, z orłem na piersi, z mieczem i tarczą w rękach. Na stronie odwrotnej miały Madonnę. Było to pierwsze w jedyne wyobrażenie wielkiego mistrza na monetach krzyżackich. Znane są pojedyncze egzemplarze tej monety. Kolejne próby miały miejsce w 1439 roku, ale do bicia złotych monet na większa skalę nie doszło. (PG. 293)
 
 <a id='len'></a>
 ## Lenne monety krzyżackie (1466-1525)
@@ -124,13 +124,10 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m1'></a>
 ## Przykładowe typy monet (okres I)
 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <a id='m1-1'></a>
 ### Fenigi (beznapisowe brakteaty) z lat 1226-1466
 
-<img src="images/zakon_0028_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0028_r.jpg" width="500px" height="500px"/>
+<img src="images/zakon_0028_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0028_a.jpg" width="500px" height="500px"/>
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -238,6 +235,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ TERCI [Magister Coradus Tercius] | Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie] | Neumann 7a |  | [Niemczyk](https://archiwum.niemczyk.pl/product/323263/zakon-krzyzacki-konrad-iii-von-jungingen-1393-1407-szelag-ladny) |
+
+<img src="images/zakon_0033_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0033_r.jpg" width="500px" height="500px"/>
+    
+| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| brak | 1393-1407 | Szeląg | Malbork? | Ag | 1,3 | 20 | gładki |
+
+| Awers | Rewers | Literatura | Uwagi | Źródło |
+| :- | :- | :-: | :- | :-: |
+| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ TERCI [Magister Coradus Tercius] | Tarcza krzyżacka a nad nią litera M. W otoku napis MONETA ⁑ DNORVM ⁑ PRVSI [Moneta Dominorum Prucie] | Kop. 9014 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-konrad-iii-von-jungingen-szelag-malbork-litera-m/1818606) |
 
 <a id='m1-5'></a>
 ### Ulryk von Jungingen (1407-1410)
