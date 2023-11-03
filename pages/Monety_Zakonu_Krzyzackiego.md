@@ -10,6 +10,27 @@
 - [Rys historyczny](#rys)
 - [Monety krzyżackie (1226-1466)](#mon)
 - [Lenne monety krzyżackie (1466-1525)](#len)
+- [Systemy rachunkowo-pieniężne państwa krzyżackiego](#sys)
+- [Emitenci monet chronologicznie](#emi)
+- [Przykładowe typy monet (okres I)](#m1)
+    - [Fenigi (beznapisowe brakteaty) z lat 1466-1525](#m1-1)
+    - [Winrych von Kniprode (1351-1382)](#m1-2)
+    - [Konrad I Zöllner von Rothenstein (1382-1390)](#m1-3)
+    - [Konrad III von Jungingen (1393-1407)](#m1-4)
+    - [Ulryk von Jungingen (1407-1410)](#m1-5)
+    - [Henryk von Plauen (1410-1413)](#m1-6)
+    - [Herman Gans, zarządca (1413-1414)](#m1-7)
+    - [Michał I Küchmeister von Sternberg (1414–1422)](#m1-8)
+    - [Paweł von Russdorf (1422-1441)](#m1-9)
+- [Przykładowe typy monet (okres II)](#m2)
+    - [Fenigi (beznapisowe brakteaty) z lat 1466-1525](#m2-1)
+    - [Ludwik von Erlichshausen (1450-1467)](#m2-2)
+    - [Henryk Reuss von Plauen (1467-1470)](#m2-3)
+    - [Henryk Reffle von Richtenberg (1470-1477)](#m2-4)
+    - [Marcin Truchsess von Wetzhausen (1477–1489)](#m2-5)
+    - [Jan von Tiefen (1489-1497)](#m2-6)
+    - [Fryderyk Saski (1498-1510)](#m2-7)
+    - [Albrecht von Hohenzollern ks. brandenburski (1511-1525)](#m2-8)
 
 <a id='rys'></a>
 ## Rys historyczny
@@ -53,7 +74,7 @@ Pod koniec XIV wieku za rządów Konrada von Jungingen (1393-1407), pojawia się
 ## Lenne monety krzyżackie (1466-1525)
 Monety wybijane przez Zakon od 1466 roku powinny być traktowane jako monety lenne państwa polskiego (mimo, że nie było na nich symboli podległości lennej, jak polskie herby czy inicjały króla, a ich stopa mennicza nie była zgodną z polską). (LMK. 12) Po zakończeniu wojny trzynastoletniej, Kazimierz Jagiellończyk próbował przeprowadzić unię monetarną między Polską, Zakonem a Litwą. Mimo, iż monety bite przez króla i miasta pruskie dla Prus oraz monety bite przez krzyżaków miały podobną zawartość kruszcu, po obu stronach istniała nieufność co do jakości pieniądza. Przez lata (już od przegranej bitwy pod Grunwaldem w 1410 roku), kolejni wielcy mistrzowie obniżali zawartość kruszcu w szelągach (z początkowych 4 do 3 łutów srebra) oraz wprowadzając różnorodne pod względem wartości szelągi. Po śmierci króla Kazimierza w 1492 roku, wielki mistrz Jan von Tiefen (1489-1497), nie oglądając się na stronę polską przeprowadził reformę groszową. W 1492 roku wstrzymał produkcję szelągów i wprowadził do obiegu grosze krzyżackie o wartości 3 dotychczasowych szelągów (były bite w jedynej mennicy zakonnej w Królewcu). Grosze te pod względem zawartości kruszczu odpowiadały szelągom wybijanym przez Winryha von Kniprode nieco ponad 100 lat wcześniej. Reforma ta skomplikowała jeszcze bardziej polsko-krzyżackie relacje monetarne. Jan von Tiefen był ostatnim wielkim mistrzem za którego rządów bito szelągi. (VNM. 33, PG. 293)
 
-
+<a id='sys'></a>
 ## Systemy rachunkowo-pieniężne państwa krzyżackiego
 Tabele zaczerpnięte z Kop9-4.
 
@@ -79,8 +100,8 @@ Grzywna, wiardunek i skojec były jednostkami obrachunkowymi. Oprócz fenigów, 
 ### System rachunkowo-pieniężny krzyżacki Albrechta von Hohenzollern Brandenburskiego (1511-1525)
 <img src="images/SystemZakonK6.png" width="882px" height="147px"/>
 
-
-## Emitenci chronologicznie
+<a id='emi'></a>
+## Emitenci monet chronologicznie
 Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety Zakonu wraz z przykładowymi zapisami ich imienia (oczywiście istnieje wiele odmian). Zapis imienia emitenta na szelągach zawsze poprzedza słowo MAGISTER, występujące w różnych formach, czasami skróceniach, czy przeinaczeniach typu MAGIST, MAGS, MGR... W przypadku groszy (od 1492 roku), zmienia się też formuła napisów otokowych (zob. opisy monet poniżej), a od 1513 roku na monetach pojawia się data umożliwiająca jednoznaczną identyfikację pana menniczego [więcej](https://marciniakaukcje.pl/szelagi-zakonu-krzyzackiego/):
 - Winrych von Kniprode (1351-1382) … WYNRICVS PRIMVS
 - Konrad I Zöllner von Rothenstein (1382-1390) … CORADVS PRIM9
@@ -100,13 +121,13 @@ Poniżej poczet tych wielkich mistrzów i zarządców, którzy emitowali monety 
 - Fryderyk ks. saski (1498-1510) … FRID IKVS
 - Albrecht von Hohenzollern ks. brandenburski (1511-1525) ALBERTVS DG M GNERALIS …
 
-
+<a id='m1'></a>
 ## Przykładowe typy monet (okres I)
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<a id='m1-1'></a>
 ### Fenigi (beznapisowe brakteaty) z lat 1466-1525
 1233 - https://ikmk.smb.museum/object?lang=en&id=18206607
 https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-ok-1247-1258/1959226
@@ -117,7 +138,7 @@ https://archiwum.niemczyk.pl/product/323998/zakon-krzyzacki-brakteat-1287-1298-k
 1290-1345 - https://ikmk.smb.museum/object?lang=en&id=18206608
 https://archiwum.niemczyk.pl/product/324002/zakon-krzyzacki-brakteat-1307-1318-tarcza-zakonna
 
-
+<a id='m1-2'></a>
 ### Winrych von Kniprode (1351-1382)
 
 https://archiwum.niemczyk.pl/product/317780/zakon-krzyzacki-winrych-von-kniprode-1351-1382-szelag-bardzo-ladny
@@ -132,29 +153,39 @@ R: Ozdobny krzyż liliowaty (gigliati), w otoku legenda parafrazująca psalm "HO
 
 Ćwiartka A: Tarcza mistrzowska R: krzyż
 
-
+<a id='m1-3'></a>
 ### Konrad I Zöllner von Rothenstein (1382-1390)
+
+<a id='m1-4'></a>
 ### Konrad III von Jungingen (1393-1407)
 
 https://archiwum.niemczyk.pl/product/323263/zakon-krzyzacki-konrad-iii-von-jungingen-1393-1407-szelag-ladny
 
+<a id='m1-5'></a>
 ### Ulryk von Jungingen (1407-1410)
 
 https://archiwum.niemczyk.pl/product/159892/zakon-krzyzacki-ulrich-von-jungingen-szelag-1407-1410
 
+<a id='m1-6'></a>
 ### Henryk von Plauen (1410-1413)
+
+<a id='m1-71'></a>
 ### Herman Gans, zarządca (1413-1414)
+
+<a id='m1-8'></a>
 ### Michał I Küchmeister von Sternberg (1414–1422)
 
 https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 
+<a id='m1-9'></a>
 ### Paweł von Russdorf (1422-1441)
 
 
 
-
+<a id='m2'></a>
 ## Przykładowe typy monet (okres II)
 
+<a id='m2-1'></a>
 ### Fenigi (beznapisowe brakteaty) z lat 1466-1525
 
 <img src="images/zakon_0001_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0001_r.jpg" width="500px" height="500px"/>
@@ -167,6 +198,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza krzyżacka | - | Kop. 9001 |  | [Numimarket](https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-orzel-w-tarczy/1902240) |
 
+<a id='m2-2'></a>
 ### Ludwik von Erlichshausen (1450-1467)
 
 <img src="images/zakon_0002_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0002_r.jpg" width="500px" height="500px"/>
@@ -179,6 +211,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza, w otoku napis MAGS - LVDW - ICVS - PRIM [Magister Ludewicus Primus] | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE-TA DN-ORVM - PRVC [Moneta Dominorum Prucie] | Vossberg 883-886; Bahrfeldt 774-780; Neumann 24b |  | [Bode](https://ikmk.smb.museum/object?lang=en&id=18227840) |
 
+<a id='m2-3'></a>
 ### Henryk Reuss von Plauen (1467-1470)
 
 <img src="images/zakon_0003_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0003_r.jpg" width="500px" height="500px"/>
@@ -191,6 +224,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza, w otoku napis ★ MAGST ∘ HINRICVS ∘ PRI [Magister Hinricus Primus] | W polu tarcza krzyżacka. W otoku napis MONETA ∘ DNORVM ∘ PRV [Moneta Dominorum Prucie] | Vossberg 90; Neumann 28 |  | [WCN](https://wcn.onebid.pl/pl/monety-szelag-magst-hinricvs-pri-moneta-dnorvm-prv-neumann/6708) |
 
+<a id='m2-4'></a>
 ### Henryk Reffle von Richtenberg (1470-1477)
 
 <img src="images/zakon_0004_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0004_r.jpg" width="500px" height="500px"/>
@@ -203,6 +237,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza, w otoku napis ★ MAGST HINRICVS VA • | W polu tarcza krzyżacka. W otoku napis MONETA • DOMI • PRV [Moneta Dominorum Prucie] | Vossberg 93; Neumann 29 |  | [WCN](https://wcn.onebid.pl/pl/monety-szelag-magst-hinriovs-va-moneta-domi-prv-neumann-29/6709) |
 
+<a id='m2-5'></a>
 ### Marcin Truchsess von Wetzhausen (1477–1489)
 
 <img src="images/zakon_0005_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0005_r.jpg" width="500px" height="500px"/>
@@ -215,6 +250,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza, w otoku napis ★ MAGST MARTINV P | W polu tarcza krzyżacka. W otoku napis ♣ MONETA DNORVM P [Moneta Dominorum Prucie] | Neumann 29a |  | [Niemczyk](https://archiwum.niemczyk.pl/product/343647/zakon-krzyzacki-marcin-truchsess-1477-1489-szelag-ladny) |
 
+<a id='m2-6'></a>
 ### Jan von Tiefen (1489-1497)
 
 <img src="images/zakon_0006_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0006_r.jpg" width="500px" height="500px"/>
@@ -237,8 +273,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGST IOHNS DE TIFENI | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONETA DNORVM PVS [Moneta Dominorum Prucie] | Kop. 9046; Neumann 32 | Odpowiednik kwartnika polskiego (półgrosza), stały się u schyłki XIV w. podstawową monetą Zakonu | [Niemczyk](https://archiwum.niemczyk.pl/product/153180/zakon-krzyzacki-johann-v-tiefen-1489-1497-grosz-bez-daty-krolewiec-r4) |
 
-[Powrót](https://numizmatyka.satola.net)
-
+<a id='m2-7'></a>
 ### Fryderyk Saski (1498-1510)
 
 <img src="images/zakon_0008_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0008_r.jpg" width="500px" height="500px"/>
@@ -251,6 +286,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGI STER FRID IKVS | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONE TADN ORVM PRVS [Moneta Dominorum Prucie] | Vossberg 1137 |  | [WCN](https://onebid.pl/pl/monety-fryderyk-saski-1498-1510-grosz-magi-ster-frid-ikvs/422162) |
 
+<a id='m2-8'></a>
 ### Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 
 <img src="images/zakon_0009_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0009_r.jpg" width="500px" height="500px"/>
