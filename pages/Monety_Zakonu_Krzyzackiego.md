@@ -229,7 +229,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis ALBERTVS DG M GNERALIS ⦂ | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1518 ⦂ | Kopicki 9057 | Napisy gotyckie | [PDA](https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-grosz-1518-krolewiec/1564488) |
+| W polu orzeł brandenburski, w otoku napis ALBERTVS DG M GNERALIS ⦂ | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1518 | Kopicki 9057 | Napisy gotyckie | [PDA](https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-grosz-1518-krolewiec/1564488) |
 
 <img src="images/zakon_0013_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0013_r.jpg" width="500px" height="500px"/>
     
@@ -255,7 +255,7 @@ https://archiwum.niemczyk.pl/product/154646/zakon-krzyzacki-michal-1414-1422-st3
     
 | Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1521 | 1520-1521 | Klipa grosza | Królewiec | Ag | 5,06 | 24 | gładki |
+| 1521 | 1520-1521 | Klipa grosza | Królewiec | Ag | 1,42 | 15 | gładki |
 
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |

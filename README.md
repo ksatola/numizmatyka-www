@@ -2,12 +2,17 @@
 - [ ] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/Monety_Zakonu_Krzyzackiego.md)
 - [ ] [Literatura numizmatyczna](./pages/Literatura.md)
 
-### Katalogi monet on-line
-- Onebid
-- Niemczyk
-- WCN
-- Bode
-- Szczecin
+### Katalogi numizmatyczne on-line
+- [Onebid - aukcje monet, banknotów i medali](https://onebid.pl/pl/auctions/Monety)
+- [Archiwum Numizmatyczne Antykwariatu Numizmatycznego M. Niemczyk](https://archiwum.niemczyk.pl/)
+- [Archiwum aukcji domu aukcyjnego i gabinetu numizmatycznego Marciniak](https://marciniak.onebid.pl/pl/archive)
+- [Archiwum Warszawskiego centrum numizmatycznego Marka Kondrata](https://wcn.pl/archive)
+- [Katalog zbiorów numizmatycznych Muzeum Bode'go w Berlinie](https://ikmk.smb.museum/home?lang=en)
+- [Zbiory cyfrowe Muzeum Narodowego w Krakowie w kategorii Numizmatyka](https://zbiory.mnk.pl/pl/wyniki-wyszukiwania?phrase=moneta)
+- [Zbiory numizmatyczne Muzeum Narodowego w Szczecinie](https://e-zbiory.muzeum.szczecin.pl/numizmatyka.html)
+- [CoinArchives](https://www.coinarchives.com/)
+- [Katalog on-line Stack's Bowers Galleries](https://archive.stacksbowers.com/?q=a4169f92-d551-4ff6-954f-820c2bb37cfb)
+- [Katalogi aukcyjne domu aukcyjnego Künker](https://www.kuenker.de/en/auktionen/katalogarchiv)
 
 ### Prezentacje
 - [x] [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
