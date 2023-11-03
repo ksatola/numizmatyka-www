@@ -7,10 +7,11 @@
 
 ## Table of Contents
 
-- [Rys historyczny](#rys-historyczny)
-- [Monety krzyżackie (1226-1466)](#monety-krzyżackie-(1226-1466))
-- [Data Transformation](#trans)
+- [Rys historyczny](#rys)
+- [Monety krzyżackie (1226-1466)](#mon)
+- [Lenne monety krzyżackie (1466-1525)](#len)
 
+<a id='rys'></a>
 ## Rys historyczny
 Terytorium późniejszych Prus przed podbojem krzyżackim zamieszkiwały ludy bałtyjskie, spokrewnione z zamieszkującym dalej na północ Litwinami, Kurami, Zemgalami, Zelami i Łetgalami. Liczebność plemion pruskich ocenia się na ok. 170 tys., co daje siłę wojskową rzędu 17 tys. wojowników. Aż do podboju Prus przez krzyżaków Prusowie wykształcili jedynie szczątkowe formy państwowości, swą organizację opierając na ustroju wiecowym.
 
@@ -34,7 +35,7 @@ Mennictwo krzyżackie z punktu widzenia numizmatyki polskiej można podzielić n
 - **Monety krzyżackie** - od powstania państwa zakonnego w 1228 roku do zawarcia traktatu toruńskiego w 1466 r. monety tego okresu powinny być traktowane jako monety obcego państwa znajdujące się w obiegu na ziemiach polskich.
 - **Lenne monety krzyżackie** - od roku 1466 gdy Zakon został lennikiem króla polskiego do jego sekularyzacji w 1525 r. Monety tego okresu należą do jednego z systemów monetarnych państwa polskiego, obok monet koronnych, litewskich, a później także księstw pruskiego i kurlandzkiego.
 
-
+<a id='mon'></a>
 ## Monety krzyżackie (1226-1466)
 System monetarny krzyżaków był dopasowany do systemu zachodnio- (opartego na grzywnie kolońskiej) i wschodnioniemieckiego (opartego na grzywnie chełmińskiej o wadze 190-195 gramów, podobnej do polskiej (stopa mennicza ustalona w akcie lokacji Chemłna w 1233 roku - GumP. 44). Pięć zakonnych brakteatów ważyło tyle samo ile ważył jeden denar koloński, czyli niespełna 1,4 grama. Monety bito w kilku mennicach, z którch najważniejsza umiejscowiona była w Toruniu. Łamliwe brakteaty były wymieniane na nowe co 10 lat w stosunku 14 starych za 12 nowych. Stabilna moneta krzyżacka zadomowiła się na ziemiach polskich sąsiadujących z zakonnymi, głównie na Mazowszu i Kujawach gdzie nazywano je monetą "toruńską" lub "niemiecką". (PG. 293)
 
@@ -48,7 +49,7 @@ Od 1416 roku na niektórych szelagach pojawia się też tzw. długi krzyż, dzie
 
 Pod koniec XIV wieku za rządów Konrada von Jungingen (1393-1407), pojawia się złota moneta krzyżacka. Niewiele o niej wiadomo (do dzisiaj nie zachowal się żaden egzemplarz, a jedynie wzmianka z 1394 roku o mincerzu gdańskim bijącym monety srebrne i złote z wizerunkiem Madonny). Złoty gulden krzyzacki posiadał wizerunek Matki Boskiej i odpowiadał standardowi węgierskiego florena (ok. 3,5 grama czystego złota). (VNM. 33, PG. 293)
 
-
+<a id='len'></a>
 ## Lenne monety krzyżackie (1466-1525)
 Monety wybijane przez Zakon od 1466 roku powinny być traktowane jako monety lenne państwa polskiego (mimo, że nie było na nich symboli podległości lennej, jak polskie herby czy inicjały króla, a ich stopa mennicza nie była zgodną z polską). (LMK. 12) Po zakończeniu wojny trzynastoletniej, Kazimierz Jagiellończyk próbował przeprowadzić unię monetarną między Polską, Zakonem a Litwą. Mimo, iż monety bite przez króla i miasta pruskie dla Prus oraz monety bite przez krzyżaków miały podobną zawartość kruszcu, po obu stronach istniała nieufność co do jakości pieniądza. Przez lata (już od przegranej bitwy pod Grunwaldem w 1410 roku), kolejni wielcy mistrzowie obniżali zawartość kruszcu w szelągach (z początkowych 4 do 3 łutów srebra) oraz wprowadzając różnorodne pod względem wartości szelągi. Po śmierci króla Kazimierza w 1492 roku, wielki mistrz Jan von Tiefen (1489-1497), nie oglądając się na stronę polską przeprowadził reformę groszową. W 1492 roku wstrzymał produkcję szelągów i wprowadził do obiegu grosze krzyżackie o wartości 3 dotychczasowych szelągów (były bite w jedynej mennicy zakonnej w Królewcu). Grosze te pod względem zawartości kruszczu odpowiadały szelągom wybijanym przez Winryha von Kniprode nieco ponad 100 lat wcześniej. Reforma ta skomplikowała jeszcze bardziej polsko-krzyżackie relacje monetarne. Jan von Tiefen był ostatnim wielkim mistrzem za którego rządów bito szelągi. (VNM. 33, PG. 293)
 
