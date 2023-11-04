@@ -4,15 +4,15 @@
 [Notatki numizmatyczne](https://numizmatyka.satola.net)
 
 ## Ważne reguły dotyczące monet
-- **Nie wolno dotykać monet gołymi rękami**, na części z nich mogą odbić się odciski palców (nie da się tego zmyć bez zniszczenia naturalnej powłoki monety / patyny lub porysowania warstwy menniczej).
-- **Nie wolno myć ani czyścić monet**. Mycie lub czyszczenie monet zwykle je niszczy (jeśli niezrobione przez fachowca), moneta traci wartość kolekcjonerską (i w ogóle wartość materialną).
-- **Nie wolno wyciągać monet z opakowań gradingowych**, moneta oceniona przez firmę gradingową, ma zwykle wiekszą wartość przy sprzedaży od monety, która takiej oceny nie ma. Moneta wyjęta z pudełka traci wartość gradingową.
-- Monety na sprzedaż, najlepiej oddać na aukcję do jednego ze znanych domów aukcyjnych (w Warszawie: GNDM, Niemczyk, we Wrocławiu SNMW). Oni obsłużą cały proces. Ponieważ ich zarobek to procent z kwoty sprzedaży, zależy im na dobrej cenie. **Nie wolno sprzedawać monet bezpośrednio**, bo prawie na pewno ich wartość zostanie zaniżona.
-- **Aby sprawdzić przybliżoną wartość monety** najlepiej wyszukać monety podobne w [onebid.pl](https://onebid.pl/pl). Należy zwrócić uwagę na datę zakupu monety w onebid, rocznik oraz stan zachowania monety (ceny sprzed kilku lat mogą być niższe niż obecne). Ceny podobnie wyglądających monet mogą się bardzo różnić, może to zależeć od rzadkości odmiany monety oraz jej stanu zachowania. Więcej na temat [wyceniania monet](https://www.youtube.com/watch?v=y3ImnHK4lhc).
+- **Dotykanie monet gołymi rękami grozi ich uszkodzeniem i utratą ich wartości**, na części monet mogą odbić się odciski palców (nie da się tego zmyć bez zniszczenia naturalnej powłoki monety / patyny lub porysowania warstwy menniczej).
+- **Mycie, polerowanie, wycierani lub czyszczenie monety powoduje utratę jej wartości kolekcjonerskiej i materialnej**. Niefachowe zastosowanie czyszczących środków chemicznych, szmatek, wycieranie, polerowanie, a nawet polanie monety wodą mogą doprowadzić do nieodracalnych zmian na powierzchni monety (kolor, rysy, zmiana faktury, utrata warstwy menniczej lub patyny).
+- **Otwieranie opakowania gradingowego obniża wartość monety w nim zamkniętej**. Moneta oceniona przez firmę gradingową i zamrożona w czasie poprzez zapakowanie do pudełka, ma zwykle wiekszą wartość przy sprzedaży od monety, która takiej oceny nie ma. Moneta wyjęta z pudełka traci wartość jaką daje jej grading.
+- **Monety na sprzedaż najlepiej oddać na aukcję** do jednego ze znanych domów aukcyjnych (w Warszawie: GNDM, Niemczyk, we Wrocławiu SNMW). Oni obsłużą cały proces, ponieważ ich zarobek to procent z kwoty sprzedaży, zależy im na dobrej cenie. Na aukcji moneta ma szansę na uzyskanie właściwej ceny rynkowej, bo będa o nią zabiegać różni kolekcjonerzy, a czasem też inwestorzy. Bezpośrednia sprzedaż monet (np. oddanie w komis lub na targu) prawie na pewno spowoduje niedoszacowanie ich rzeczywistej wartości.
+- **Aby sprawdzić przybliżoną wartość monety** najlepiej wyszukać monety podobne w serwisie [onebid.pl](https://onebid.pl/pl). Należy zwrócić uwagę na datę zakupu porównywanej monety w onebid, częstość jej wystąpienia na aukcjach, rocznik oraz stan zachowania monety (ceny sprzed kilku lat mogą być niższe niż obecne). Ceny podobnie wyglądających monet mogą się bardzo różnić, może to zależeć od rzadkości odmiany monety, rocznika oraz jej stanu zachowania. Więcej na temat wyceniania monet można znaleźć [tutaj](https://www.youtube.com/watch?v=y3ImnHK4lhc).
 
 ## Katalog
 
-- [ ] [Monety antyczne - Grecja, Rzym, Celtowie]()
+- [ ] [Monety antyczne - Greckie, Rzymskie, Celtyckie, Islamskie]()
 - [ ] [Monety polskie do 1795 roku]()
     - [ ] [Średniowiecze polskie do 1506]()
     - [ ] [Polska królewska 1506-1795]()

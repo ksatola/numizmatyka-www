@@ -1,6 +1,10 @@
-### Artykuły
+### Artykuły (referaty obcych badań)
+- [ ] [Podstawowe pojęcia i informacje na temat monet]()
 - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/Monety_Zakonu_Krzyzackiego.md)
 - [ ] [Literatura numizmatyczna](./pages/Literatura.md)
+
+### Prezentacje
+- [x] [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
 
 ### Katalogi numizmatyczne on-line
 - [Onebid - aukcje monet, banknotów i medali](https://onebid.pl/pl/auctions/Monety)
@@ -14,13 +18,10 @@
 - [Katalog on-line Stack's Bowers Galleries](https://archive.stacksbowers.com/?q=a4169f92-d551-4ff6-954f-820c2bb37cfb)
 - [Katalogi aukcyjne domu aukcyjnego Künker](https://www.kuenker.de/en/auktionen/katalogarchiv)
 
-### Prezentacje
-- [x] [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
-
 ### Materiały edukacyjne
 
-#### Genialne filmy instruktażowe
-Wybrane cenne porady [Damiana Marciniaka](https://marciniakaukcje.pl/) (i nie tylko) dotyczące obchodzenia się z numizmatami pozwalające na uniknięcie błędów powodujących nieodracalne szkody:
+#### Filmy instruktażowe
+Wybrane cenne porady [Damiana Marciniaka](https://marciniakaukcje.pl/) (i nie tylko) dotyczące obchodzenia się z numizmatami pozwalające na uniknięcie błędów i nieodracalnych szkód:
 - [Czyszczenie monet - jakie monety można samemu umyć i jak to zrobić, aby ich nie zepsuć](https://www.youtube.com/watch?v=WZ_PQnDGfew&t=1096s)
 - [CzyszczeNIE monet - nie uczymy jak czyścić monety, ale pokazujemy jakie szkody przynosi czyszczenie](https://www.youtube.com/watch?v=Z1mrEJugMk0)
 - [Jak przechowywać monety - klasery, kopertki, tacki czy inne akcesoria](https://www.youtube.com/watch?v=7FQ5fy8F9AU)
@@ -39,7 +40,7 @@ Wybrane cenne porady [Damiana Marciniaka](https://marciniakaukcje.pl/) (i nie ty
 - [Monety Antyczne - Trzy BŁĘDY początkującego numizmatyka - Krzysztof Pakuła](https://www.youtube.com/watch?v=had4Khi_PMU)
 
 #### Przegląd numizmatów
-Wartościowe filmiki pozwalające zobaczyć rzadkie monety w towarzystwie innych, porównać je z innymi należącymi do tej samej grupy, typu, systemu rachunkowo-pieniężnego, itp.:
+Filmy poglądowe pozwalające zobaczyć rzadkie monety w towarzystwie innych i porównać je pod względem metrologicznym, stanów zachowania lub przekrojowo wg nominałów, itp.:
 - [Srebrne monety obiegowe II Rzeczypospolitej (II RP) - przegląd wszystkich typów](https://www.youtube.com/watch?v=ILT2mtjJnz0)
 - [Od Antyku do Średniowiecza - cz.1 przeglądu wybranych pozycji z Aukcji jesiennej 2023](https://www.youtube.com/watch?v=_xybMbOh1a0)
 - [Zbiorek pięknych monet Starej Polski - unboxing i pierwszy ogląd](https://www.youtube.com/watch?v=wxmKJehNnX0)
@@ -52,13 +53,13 @@ Wartościowe filmiki pozwalające zobaczyć rzadkie monety w towarzystwie innych
 - [Pierwsze Polskie Banknoty - Banknoty Insurekcji Kościuszkowskiej 1794 roku](https://www.youtube.com/watch?v=yUry_m8sntc)
 
 #### O monetach w kontekście historycznym
-Nie można tego nie wiedzieć:
-- [Pierwsze monety polskie - prof. Suchodolski](https://www.youtube.com/watch?v=WtA_3wVGjZQ)
-- [Renovatio Monetae - prof. Stanisław Suchodolski](https://www.youtube.com/watch?v=VVjs4_yzZqY)
-- [Polskie czy obce? Problem pochodzenia krzyżówek i różnych emisji naśladowczych - prof. Stanisław Suchodolski](https://www.youtube.com/watch?v=v6NIUtjPuc4)
+Ciekawe wykłady:
+- [Pierwsze monety polskie - Stanisław Suchodolski](https://www.youtube.com/watch?v=WtA_3wVGjZQ)
+- [Renovatio Monetae - Stanisław Suchodolski](https://www.youtube.com/watch?v=VVjs4_yzZqY)
+- [Polskie czy obce? Problem pochodzenia krzyżówek i różnych emisji naśladowczych - Stanisław Suchodolski](https://www.youtube.com/watch?v=v6NIUtjPuc4)
 - [Numizmatyka dla początkujących - Dariusz Marzęta w przystępnych słowach o monetach Starej Polski](https://www.youtube.com/watch?v=p8KcZZZsvJ4)
-- [Monety obiegowe II RP - co wiemy, a czego nie wiemy - J. Chałupski o monetach Polski międzywojennej](https://www.youtube.com/watch?v=zpLhEkasqvQ)
-- [Monety antyczne świata greckiego - od początków do Aleksandra Wielkiego - B. Awianowicz](https://www.youtube.com/watch?v=TcowSEwzmk8)
-- [Jak się robi pieniądze - przegląd technik menniczych na przestrzeni wieków - prof. Borys Paszkiewicz](https://www.youtube.com/watch?v=kNF8Cg-iIys)
-- [Denary i Brakteaty - Opowieść o monetach średniowiecznych inspirowana wspaniałym zbiorem z 10 aukcji - dr Witold Garbaczewski](https://www.youtube.com/watch?v=JQpVtrOpefY)
-- [Pozostałe sesje numizmatyczne - W numizmatyce widzisz tyle, ile wiesz](https://www.youtube.com/playlist?list=PL2sVlus9pnlgZs5xhvJ2hS9pNKKMrYRjw)
+- [Monety obiegowe II RP - co wiemy, a czego nie wiemy - Janusz Chałupski o monetach Polski międzywojennej](https://www.youtube.com/watch?v=zpLhEkasqvQ)
+- [Monety antyczne świata greckiego - od początków do Aleksandra Wielkiego - Bartosz Awianowicz](https://www.youtube.com/watch?v=TcowSEwzmk8)
+- [Jak się robi pieniądze - przegląd technik menniczych na przestrzeni wieków - Borys Paszkiewicz](https://www.youtube.com/watch?v=kNF8Cg-iIys)
+- [Denary i Brakteaty - Opowieść o monetach średniowiecznych inspirowana wspaniałym zbiorem z 10 aukcji - Witold Garbaczewski](https://www.youtube.com/watch?v=JQpVtrOpefY)
+- [ ] [Pozostałe sesje numizmatyczne - W numizmatyce widzisz tyle, ile wiesz](https://www.youtube.com/playlist?list=PL2sVlus9pnlgZs5xhvJ2hS9pNKKMrYRjw)

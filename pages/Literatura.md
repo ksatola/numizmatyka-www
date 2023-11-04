@@ -13,6 +13,7 @@
 | **LMK** | Lenne monety krzyżackie | Andrzej Schmidt | 1979 |  |
 | **PG** | Pradzieje grosza | Ryszard Kiersnowski | 1914 |  |
 | **VNM** | Varia numizmatyczne | Dariusz Marzęta | 2016 |  |
+| **WRM** | Wielka reforma monetarna XIII-XIV w. | Ryszard Kiersnowski | 1969 |  |
 
 ## Biblioteki cyfrowe
 `TODO`
