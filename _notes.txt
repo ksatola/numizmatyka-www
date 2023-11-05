@@ -4,7 +4,7 @@ Kopernik - PG. 310-311
 
 
 
-
+<table><tbody><tr><td><img src="images/0001 - VI-V pne - obol - awers.jpg"/></td><td><img src="images/0001 - VI-V pne - obol - rewers.jpg"/></td></tr></tbody></table>
 
 <table><tbody><tr><td><img src="images/0001 - VI-V pne - obol - awers.jpg" width="500px" height="500px"/></td><td><img src="images/0001 - VI-V pne - obol - rewers.jpg" width="500px" height="500px"/></td></tr></tbody></table>
 

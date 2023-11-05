@@ -10,7 +10,7 @@ img {
     #height: 50%;
     #display: block;
     #max-width: 100%;
-    max-width: 250px;
+    max-width: 300px;
     #object-fit: contain;
     align: center;
 }
@@ -27,10 +27,16 @@ th, td {
     #cellpadding: 2px;
 }
 
-.center {
+.center table {
   display: flex;
   justify-content: center;
   align-items: center;
   #height: 200px;
   #border: 3px solid green;
+}
+
+.center img {        
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
