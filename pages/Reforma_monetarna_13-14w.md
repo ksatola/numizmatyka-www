@@ -23,7 +23,7 @@ Od czasów karolińskich do czasu reformy monetarnej jednostkami obrachunkowymi 
 
 Jednym z aspektów wprowadzenia monety grubej, a zwłaszcza złotej, był prestiż emitentów. Z tradycji antyku wywodziło się przekonanie, że bicie monety złotej jest rezerwatem praw cesarskich, a sama moneta stanowi wyraz wysokiego potencjału nie tylko gospodarczego, ale i politycznego emitującego je państwa, symbol potęgi jego władcy i pełnej jego suwerenności. (WRM. 36) Poszczególne miasta, książęta czy też przedstawiciele kościoła zabiegali o posiadanie własnej monety. Pojawiają się więc na monetach wyobrażenia religijne, władcy, godła państw i herby miast. Pojawiają się napisy wzmacniające i precyzujące wyobrażenia figuratywne. Jednak najważniejszym pozostawał aspekt jakości kruszczowej oraz zgodności ze standardem jednostek monetarnych, które miały wzbudzać zaufanie u partnerów handlowych oraz upraszczać przeliczenia związane z dokonywaniem płatności za towary lub usługi. Świądczą o tym naśladownictwa gatunków przewodnich (głównie monet złotych, florenow i dukatów), które niejednokrotnie przyswajały nawet obce godło lub obcego patrona, rezygnując z własnego prestiżu politycznego na rzecz prestiżu ekonomicznego danej monety oraz wygody w handlu (zwykle jednak wprowadzano jakieś drobne różnice w wyglądzie stempli lub elementy dodatkowe pozwalające odróżnić oryginał od naśladownictwa oraz właściwego pana menniczego).
 
-Mimo iż złote mennictwo zachodnioeuropejskie wygasło w zasadzie już w epoce merowińskiej, to przecież przez całe wcześniejsze średniowiecze moneta złota nie była tu całkowicie nieznaną kategorią ekonomiczną. Stanowiła jedynie element mało dostępny, niepodatny na włączenie do lokalnych systemów gospodarczych. Podejmowane przez Karolingów (i w okresach późniejszych) sporadyczne próby wznowienia tej produkcji warunkowane były okazjonalnym dopływem kruszcu. Natomiast na śródziemnomorskich obrzeżach Europy, w Bizancjum, na Bliskim Wschodzie, w Afryce i w muzułmańskiej Hiszpanii produkcja monety złotej trwała niemal bez przerwy, zasilana przez kruszec afrykański. Aż do XIII w. było zbyt mało złotego kruszcu, aby dał się ująć on w ramy regaliów i poddać suwerenności miejscowych władców. Dopiero poprawa bilansu wymiany ze światem arabskim powiększyła zasoby złota w Europie (przede wszystkim w Italii) do poziomu umożliwiającego aktywne gospodarowanie tym kruszcem. Istotą pierwszego etapu reformy monetarnej było zorganizowanie obrotu monetą złotą na własnych (europejskich) warunkach wynikającego z przekucia obcego kruszcu pod własnym stemplem. Dopiero odkryte w wieku XIV złoża złota w Europie (głównie na Węgrzech) oraz od wieku XV złoto z zamorskich kolonii amerykańskich dostarczyły europejskiemu mennictwu złotemu niezależnej bazy kruszcowej. (WRM. 35)
+Mimo iż złote mennictwo zachodnioeuropejskie wygasło w zasadzie już w epoce merowińskiej (VII-VIII w.), to przecież przez całe wcześniejsze średniowiecze moneta złota nie była tu całkowicie nieznaną kategorią ekonomiczną. Stanowiła jedynie element mało dostępny, niepodatny na włączenie do lokalnych systemów gospodarczych. Podejmowane przez Karolingów (i w okresach późniejszych) sporadyczne próby wznowienia tej produkcji warunkowane były okazjonalnym dopływem kruszcu. Natomiast na śródziemnomorskich obrzeżach Europy, w Bizancjum, na Bliskim Wschodzie, w Afryce i w muzułmańskiej Hiszpanii produkcja monety złotej trwała niemal bez przerwy, zasilana przez kruszec afrykański. Aż do XIII w. było zbyt mało złotego kruszcu, aby dał się ująć on w ramy regaliów i poddać suwerenności miejscowych władców. Dopiero poprawa bilansu wymiany ze światem arabskim powiększyła zasoby złota w Europie (przede wszystkim w Italii) do poziomu umożliwiającego aktywne gospodarowanie tym kruszcem. Istotą pierwszego etapu reformy monetarnej było zorganizowanie obrotu monetą złotą na własnych (europejskich) warunkach wynikającego z przekucia obcego kruszcu pod własnym stemplem. Dopiero odkryte w wieku XIV złoża złota w Europie (głównie na Węgrzech) oraz od wieku XV złoto z zamorskich kolonii amerykańskich dostarczyły europejskiemu mennictwu złotemu niezależnej bazy kruszcowej. (WRM. 35)
 
 O ile w reformie monety srebrnej chodziło głównie o jej przewidywalną dobroć (i przez to łatwiejszą wymianę bez potrzeby przetapiania w czasie jej ewaluacji) i wykorzystanie raczej lokalne (nominały srebrne były zbyt niskie, żeby zaspokoić w sposób wygodny potrzeby wielkiego handlu - w większych transakcjach korzystano początkowo ze srebna niemonetarnego, ale i ten typ płatności zaczął być ograniczany w XIII w.), o tyle pojawiająca się w Europie po kilku wiekach przerwy moneta złota miała już charakter czysto międzynarodowy służąc do regulowania większych transakcji. Wprowadzenie złotych monet mogło być też jedną z przyczyn wyeliminowania potrzeby wykorzystywania sztabek srebra. 
 
@@ -31,10 +31,23 @@ Objęcie złota europejskiego produkcją menniczą, mimo całej zbieżności teg
 
 Tak więc w XIII i XIV w. wytworzył się po raz pierwszy w średniowieczu dwuwarstwowy układ pieniężny, przy czym każda z jego warstw przejęła niezależnie część dotychczasowych funkcji systemu denarowego, rozbudowując je stosownie do potrzeb i bez wewnętrznych sprzeczności. (WRM. 18)
 
+-----
+
+## Reforma monetarna we Włoszech
+Dzieje pieniądza średniowiecznego w basenie śródziemnomorskim i rozwój monety włoskiej w XIII stuleciu jest w przybliżeniu równoległy z upadkiem monety Cesarstwa Wschodniego i państw arabskich, a dziejom reformy monetarnej w świecie zachodnim odpowiada, niby jej negatyw, wielki kryzys mennictwa wschodniego. W Italii zbiegały się linie wymiany masy kruszcowej (głównie złota) i mieszały się handlowe wpływy obszarów łacińskiego, biznatyjskiego i muzułmańskiego. (WRM. 39)
 
 
 
+-----
 
+Średniowieczna moneta bizantyjska
+Średniowieczna moneta bizantyjska sięga nieprzerwaną tradycją do IV w. Zasadniczy układ systemu monetarnego Cesarstwa Wschodniego, wykształcony niewiele później, przetrwał aż do kryzysu wywołanego krucjatą i opanowaniem KOnstantynopola przez krzyżowców w 1204 r., a i potem, acz nieco zmieniony, utrzymywał się jeszcze do czasu ostatecznego upadku Bizancjum.
+WRM. 40 o solidzie i karacie jako pomiar masy zlota
+
+histamenon nomisma nie później niż z 1028, mennica Konstantynopol, wypukle z obu stron (lub miseczkowate od XI w.), średnica 26mm, 4,5g, 23-24 karaty, próba ok. 0,980 - prawie czyste złoto (potem byly dewaluowane) 
+
+
+Moneta islamska (WRM. 49)
 
 ------------------------------------------------------------
 

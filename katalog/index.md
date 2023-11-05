@@ -12,7 +12,7 @@
 
 ## Katalog
 
-- [ ] [Monety antyczne - Greckie, Rzymskie, Celtyckie, Islamskie]()
+- [ ] [Monety - Greckie, Rzymskie, Celtyckie, Islamskie i Bizantyjskie (VI w. p.n.e. - VIII w. n.e.)](./pages/k2_.md)
 - [ ] [Monety polskie do 1795 roku]()
     - [ ] [Średniowiecze polskie do 1506]()
     - [ ] [Polska królewska 1506-1795]()
