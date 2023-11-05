@@ -3,29 +3,60 @@
 
 # Europejska reforma monetarna w XIII-XIV wieku
 
-W historii pieniądza europejskiego wieki XII i XIV stanowią okres przełomowy. We wszystkich niemalże krajach, od Sycylii po Szkocję i od Portugalii po Mołdawię, nastąpiło w tym czasie gruntowne przekształcenie istniejących tam systemów pieniężnych, wyrażające się przede wszystkim w powstaniu i upowszechnieniu się nowych, znacznie większych jednostek monetarnych, zarówno srebrnych jak złotych. (WRM. 5) Proces ten przebiegał fazami od południa do północnego wschodu kontunentu i przybierał różne formy w zależności od lokalnych warunków gospodarczych, społecznych i kulturalnych.
+W historii pieniądza europejskiego wieki XIII i XIV stanowią okres przełomowy. We wszystkich niemalże krajach, od Sycylii po Szkocję i od Portugalii po Mołdawię, nastąpiło w tym czasie gruntowne przekształcenie istniejących tam systemów pieniężnych, wyrażające się przede wszystkim w powstaniu i upowszechnieniu się nowych, znacznie większych jednostek monetarnych, zarówno srebrnych jak złotych. (WRM. 5) Proces ten przebiegał fazami od południa do północnego wschodu kontunentu i przybierał różne formy w zależności od lokalnych warunków gospodarczych, społecznych i kulturalnych.
 
-Dzieje pieniądza, jak żadej inny nurt procesu historycznego, ma aspekt międzynarodowy (WRM 6): drzewo genealogiczne:
+Dzieje pieniądza, jak żadnej inny nurt procesu historycznego, ma aspekt międzynarodowy (WRM 6): drzewo genealogiczne:
 - Pień we Włoszech
 - Gałęzie to kraje Europy
 - Korzenie to Bizancjum, Afryka i Azja
 
+## Spis treści
+
+- [Ogólnie o reformie](#rys)
+
+
+<a id='rys'></a>
+## Ogólnie o reformie
 Europejska reforma monetarna XIII i XIV w. charakteryzuje się utworzeniem "grubej" monety srebrnej oraz powrotem do monety złotej o wartości kruszczowej znacznie przewyższającej wartość monet produkowanych uprzednio. Do tego czasu we wszystkich prawie krajach, które przyswoiły post-karoliński system pieniężny bity był jeden gatunek monet zwanych denarem. Nie był to gatunek jednorodny, w różnych krajach denary miały inne właściwości metrologiczne, formę, technikę wytwarzania oraz mogły być liczone i scalane w większe jednostki wagowe (niemonetarne) i obrachunkowe na różne sposoby. Hegemonię monety denarowej czasami i gdzieniegdzie zaburzały jedynie monety drobniejsze, o wartości pół denara, zwane obolami.
 
-Wczesnośredniowieczna solidna moneta denarowa, wykreowana w toku tzw. reformy karolińskiej u schyłku VIII stulecia, przyswojona następnie przez całą Europę łacińską, stopniowo zdewaluowała się w wyniku czerpiących zyski z jej wybijania panów mennicznych często zwiększających stopę menniczą lub zmniejszających zawartości kruszcu. Dodatkowo, moneta denarowa przestała już odpowiadać na zapotrzebowanie związane z rozwijającą się gospodarką i międzynarodową wymianą handlową. Chodziło więc o wprowadzenie monety nie tylko o zawartości kruszcu bliskiej czystemu srebru (podniesieniu próby), ale także monetę o większej wartości i zachowującej niezmiennie dobrą wartość w czasie. Idąc tym tropem dalej, można też dodać, że w ramach reformy monetarnej, w miejscu denara, powstały nie tylko nominały grubsze, ale też szereg nominałów drobniejszych, które miały być bardziej dopasowane do potrzeb drobnego handlu. Moneta drobra utworzona w XIII-XIV w., głównie ze względu na większy jednostkowy koszt jej produkcji w porównaniu z monetą grubszą, stała się pieniądzem kredytowym, posiadającym tylko częściowo własne pokrycie kruszcowe; część brakującą pokrywał kruszec zawarty w "pełnowartościowych" monetach grubych, z którymi była ona związana nominalnym stosunkiem wymiennym.
+Wczesnośredniowieczna solidna moneta denarowa, wykreowana w toku tzw. reformy karolińskiej u schyłku VIII stulecia, przyswojona następnie przez całą Europę łacińską, stopniowo zdewaluowała się w wyniku czerpiących zyski z jej wybijania panów mennicznych często zwiększających stopę menniczą lub zmniejszających zawartości kruszcu. Dodatkowo, moneta denarowa przestała już odpowiadać na zapotrzebowanie związane z rozwijającą się gospodarką i międzynarodową wymianą handlową. Chodziło więc o wprowadzenie monety nie tylko o zawartości kruszcu bliskiej czystemu srebru (podniesieniu próby), ale także monetę o większej wartości i zachowującej niezmiennie dobrą wartość w czasie. Idąc tym tropem dalej, można też dodać, że w ramach reformy monetarnej, w miejscu denara, powstały nie tylko nominały grubsze, ale też szereg nominałów drobniejszych, które miały być bardziej dopasowane do potrzeb drobnego handlu. Moneta drobra utworzona w XIII-XIV w., głównie ze względu na większy jednostkowy koszt jej produkcji w porównaniu z monetą grubszą, stała się pieniądzem kredytowym, posiadającym tylko częściowo własne pokrycie kruszcowe; część brakującą pokrywał kruszec zawarty w "pełnowartościowych" monetach grubych, z którymi była ona związana nominalnym stosunkiem wymiennym. Warunkiem jej wymienialności było jednak ograniczenie globalnej jej ilości w obrocie. Limit ten wyznaczały rzeczywiste i niezbędne potrzeby rynku drobnotowarowego na danych terytorium. Przy zachowaniu tego warunku, określanego choćby w sposób empiryczny, zawartość kruszcowa monety drobnej mogła być niemal dowolnie obniżana nie pociagając za sobą dewaluacji monet grubych. Nie był to wprawdzie jeszcze etap monety zdawkowej, pozbawionej w ogóle pokrycia wewnętrznego i o ograniczonej sile zwalniania od zobowiązań, ale pierwszy krok w tym kierunku. (WRM. 19)
 
-O ile w reformie monety srebrnej chodziło głównie o jej przewidywalną dobroć (i przez to łatwiejszą wymianę bez potrzeby przetapiania w czasie ich ewaluacji) i wykorzystanie lokalne (nominały srebrne były raczej zbyt niskie, żeby zaspokoić potrzeby wielkiego handlu - w większych transakcjach korzystano początkowo ze srebna niemonetarnego, ale i ten typ płatności zaczął być ograniczany w XIII w.), o tyle pojawiająca się w Europie po kilku wiekach przerwy moneta złota miała już charakter czysto międzynarodowy służąc do regulowania większych transakcji. Wprowadzenie złotych monet mogło być też jedną z przyczyn wyeliminowania potrzeby wykorzystywania sztabek srebra. 
+Moneta groszowa nie uniknęła stopniowej deprecjacji, której w epoce średniowiecza podlegały wszystkie srebrne jednostki monetarne, podobnie zresztą jak to się działo także w okresach późniejszych. Zjawisko to, jakkolwiek powszechne, jest nader złożone i nie da się wyjaśnić samą "chciwością" panów menniczych (obniżających zawartość kruszczu), czy nawet prawem Kopernika-Greshama (moneta gorsza wypiera monetę lepszą). Bardziej istotnymi czynnikami wpływającymi na deprecjację monety srebrnej są zmiany relacji rynkowej srebra do złota czy też niezrównoważone bilansy handlu zewnętrznego poszczególnych krajów (powodujące okresowe niedobory srebra na mniejszych lub większych obszarach), a także stały stopniowy wzrost zapotrzebowania na środki pieniężne powiększającej się liczby ludności, podnoszenia poziomu jej dochodów oraz ciągły wzrost upieniężenia gospodarki wynikającego z większych kosztów inwestycji, prowadzenie wojen i z presją grup społecznych zainteresowanych umiarkowaną inflacją. Najszybciej deprecjacji ulegała srebrna moneta drobna, wolniej moneta groszowa. Monety złote utrzymywały się mniej więcej na tym samym poziomie (przynajmniej do czasu upowszechnienia się jej na rynkach wewnętrznych poszczególnych państw). Ta nierównomierność postępu deprecjacji poszczególnych warstw tego bimetalicznego układu monetarnego odbijał się z kolei na systemie pieniężnych jednostek obrachunkowych stanowiących podstawowy instrument wymiaru wartości. (WRM. 20)
 
-W XIII i XIV w. wytworzył się po raz pierwszy w średniowieczu dwuwarstwowy układ pieniężny, przy czym każda z jego warstw przejęła część dotychczasowych funkcji systemu denarowego, rozbudowując je stosownie do potrzeb i bez wewnętrznych sprzeczności. (WRM. 18)
+Od czasów karolinskich do czasu reformy monetarnej jednostkami obrachunkowymi były libra (funt) i solid (szyling), które reprezentowały odpowiednio liczbę 240 i 12 denarów (układ L.S.d. 240:12:1). Od XI wieku układ ten zaczął podlegać rozbudowie, uzupełnieniom i przekształceniom, zwłaszcza na obszarach wpływów bizantyjsko-arabskich oraz w Europie środkowej i północnej, gdzie wykształciło się pojęcie marki (grzywny) oraz jej frakcji, jak wiardunek (1/4), szkojec (1/24), kwarta (1/96), w Skandynawii öre (1/8) i örtug (1/24), a na Węgrzech pensa (30, a od XII w. 40 denarów), itd. Na początku reformy, próbowano zrealizować monetarnie powyższe jednostki obrachunkowe, ale z reguły nie udało się to głównie w skutek deprecjacji wartości monet opisanej wyżej. Jednostki obrachunkowe i pieniężne zaczęły stanowić osobne byty.
+
+Jednym z aspektów wprowadzenia monety grubej a zwłaszcza złotej był prestiż emitentów. Z tradycji antyku wywodziło się przekonanie, że bicie monety złotej jest rezerwatem praw cesarskich, a sama moneta stanowi wyraz wysokiego potencjału nie tylko gospodarczego, ale i politycznego emitującego je państwa, symbol potęgi jego władcy i pełnej jego suwerenności. (WRM. 36) Poszczególne miasta, książęta czy też przedstawiciele kościoła zabiegali o posiadanie własnej monety. Pojawiają się więc na monetach wyobrażenia religijne, władcy, godła państw i herby miast. Pojawiają się napisy wzmacniające i precyzujące wyobrażenia figuratywne. Jednak najważniejszym pozostawał aspekt jakości kruszczowej oraz zgodności ze standardem jednostek monetarnych, ktore miały wzbudzać zaufanie u partnerów handlowych oraz upraszczać przeliczenia związane z dokonywaniem płatności za towary lub usługi. Świądczą o tym naśladownictwa gatunków przewodnich (głównie monet złotych, florenow i dukatów), które niejednokrotnie przyswajały nawet obce godło lub obcego patrona, rezygnując z własnego prestiżu politycznego na rzecz prestiżu ekonomicznego danej monety (zwykle jednak wprowadzano jakieś drobne różnice w wyglądzie stempli lub elementy dodatkowe pozwalające odróżnić oryginał od naśladownictwa oraz właściwego pana menniczego).
+
+Mimo iż złote mennictwo zachodnioeuropejskie wygasło w zasadzie już w epoce merowinskiej, to przecież przez całe wcześniejsze średniowiecze moneta złota nie była tu całkowicie nieznaną kategorią ekonomiczną. Stanowiła jedynie element mało dostępny, niepodatny na włączenie do lokalnych systemów gospodarczych. Podejmowane przez Karolingów (i w okresach późniejszych) sporadyczne próby wznowienia tej produkcji warunkowane były okazjonalnym dopływem kruszcu. Natomiast na śródziemnomorskich obrzeżach Europy, w Bizancjum, na Bliskim Wschodzie, w Afryce i w muzułmańskiej Hiszpanii produkcja monety złotej trwała niemal bez przerwy, zasilana przez kruszec afrykański. Aż do XIII w. było zbyt mało złotego kruszcu, aby dał się ująć on w ramy regaliów i poddać suwerenności miejscowych władców. Dopiero poprawa bilansu wymiany ze światem arabskim powiększyła zasoby złota w Europie (przede wszystkim w Italii) do poziomu umożliwiającego aktywne gospodarowanie tym kruszcem. Istotą pierwszego etapu reformy monetarnej było zorganizowanie obrotu monetą złotą na własnych (europejskich) warunkach wynikającego z przekucia obcego kruszcu pod własnym stemplem. Dopiero odkryte w wieku XIV złoża złota w Europie (głównie na Węgrzech) dostarczyły europejskiemu mennictwu złotemu niezależnej bazy kruszcowej. (WRM. 35)
+
+O ile w reformie monety srebrnej chodziło głównie o jej przewidywalną dobroć (i przez to łatwiejszą wymianę bez potrzeby przetapiania w czasie ich ewaluacji) i wykorzystanie raczej lokalne (nominały srebrne były zbyt niskie, żeby zaspokoić w sposób wygodny potrzeby wielkiego handlu - w większych transakcjach korzystano początkowo ze srebna niemonetarnego, ale i ten typ płatności zaczął być ograniczany w XIII w.), o tyle pojawiająca się w Europie po kilku wiekach przerwy moneta złota miała już charakter czysto międzynarodowy służąc do regulowania większych transakcji głównie w handlu międzynarodowym. Wprowadzenie złotych monet mogło być też jedną z przyczyn wyeliminowania potrzeby wykorzystywania sztabek srebra. 
+
+Objęcie złota europejskiego produkcją menniczą, mimo całej zbieżności tego zjawiska z reformą groszową, nie spowodowało jednak pełnej integracji monety srebrnej i złotej w ramach systemów pieniężnych (i stworzenia w pełnizintegrowanego systemu bimetalicznego). Monety srebrne i złote egzystowały w sposób równoległy, a ich wzajemna relacja zmieniała się nieustannie głównie z powodu nierównomiernej podaży obu kruszców, a zwłaszcza złota, którego wartość ze względu na bardziej ograniczoną dostępność rosła szybciej niż srebra.
+
+Tak więc w XIII i XIV w. wytworzył się po raz pierwszy w średniowieczu dwuwarstwowy układ pieniężny, przy czym każda z jego warstw przejęła niezależnie część dotychczasowych funkcji systemu denarowego, rozbudowując je stosownie do potrzeb i bez wewnętrznych sprzeczności. (WRM. 18)
+
+
+
+
+
+
+------------------------------------------------------------
+
+
+
+
+
+
+W odnowionym Cesarstwie Zachodnim dopiero Fryderyk II (XXXXX) próbował wznowić na Sycylii dawną tradycję, sięgając bezpośrednio do wzorów rzymskich i niejako demonstracyjnie akcentując swą cesarską suwerenność nad monetą złotą. Zasda to nie zostala jednak zaakceptowana przez innych władców. Własna złota moneta cesarska następców Fryderyka II pojawia się dopiero pod koniec pierwszej połowy XIV w. (WRM 37)
+
 
 
 Reforma groszowa - dotyczy monety srebrnej
 Mnożnik 12 był zgodny z podstawową jednostką systemu obrachunkowego, solidem
 System waluty bimetalicznej
 
-## Spis treści
 
-- [Rys historyczny](#rys)
+
 - [Monety krzyżackie (1226-1466)](#mon)
 - [Lenne monety krzyżackie (1466-1525)](#len)
 - [Systemy rachunkowo-pieniężne państwa krzyżackiego](#sys)
@@ -49,6 +80,7 @@ System waluty bimetalicznej
     - [Jan von Tiefen (1489-1497)](#m2-6)
     - [Fryderyk Saski (1498-1510)](#m2-7)
     - [Albrecht von Hohenzollern ks. brandenburski (1511-1525)](#m2-8)
+
 
 <a id='rys'></a>
 ## Rys historyczny

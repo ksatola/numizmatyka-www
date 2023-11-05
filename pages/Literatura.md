@@ -5,7 +5,7 @@
 
 ## Druk
 
-|&nbsp;&nbsp;&nbsp; Skrót &nbsp;&nbsp;&nbsp;| Tytuł | Autor | Rok wydania | Uwagi |
+|&nbsp;&nbsp; Skrót &nbsp;&nbsp;| Tytuł | Autor | Rok wydania | Uwagi |
 | :-: | :- | :- | :-: | :- |
 | **GumP** | Podręcznik Numizmatyki Polskiej | Marian Gumowski | 1914 | Dostępny reprint PTN |
 | **Kop** | Ilustrowany skorowidz pieniędzu polskich i z Polską związanych | Edmund Kopicki | 1995 |  |
