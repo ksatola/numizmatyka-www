@@ -70,5 +70,4 @@ Płacidłami były m.in.: muszle, tkaniny, zboże, sól, futra. Niekiety śladem
 
 
 
-
 [Powrót](../)
