@@ -11,7 +11,7 @@ img {
     #display: block;
     #max-width: 100%;
     #max-width: 300px;
-    max-width: 100%;
+    max-width: 280px;
     #object-fit: contain;
     align: center;
 }
@@ -40,4 +40,9 @@ th, td {
   display:block;
   margin-left:auto;
   margin-right:auto;
+}
+
+.inner {
+  #width: 100%;
+  max-width: 1006px;
 }
