@@ -48,7 +48,7 @@ Płacidłami były m.in.: muszle, tkaniny, zboże, sól, futra. Niekiety śladem
   </tr>
   <tr>
     <th>Średnica [mm]</th>
-    <td>555 77 855</td>
+    <td>8x10</td>
   </tr>
   <tr>
     <th>Awers</th>
