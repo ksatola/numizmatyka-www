@@ -17,6 +17,8 @@ Płacidłami były m.in.: muszle, tkaniny, zboże, sól, futra. Niekiety śladem
 
 <table><tbody><tr><td><img src="images/0001 - VI-V pne - obol - awers.jpg"/></td><td><img src="images/0001 - VI-V pne - obol - rewers.jpg"/></td></tr></tbody></table>
 
+<img src="images/0001 - VI-V pne - obol - awers.jpg"/> <img src="images/0001 - VI-V pne - obol - rewers.jpg"/>
+
 <table style="width:100%">
   <tr>
     <th>Nr katalogowy</th>
