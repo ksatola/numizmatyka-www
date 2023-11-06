@@ -127,65 +127,359 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m1-1'></a>
 ### Fenigi (beznapisowe brakteaty) z lat 1226-1466
 
-<img src="images/zakon_0028_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0028_a.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1236-1248 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,27 | 19 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1236-1248</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Fenig (brakteat beznapisowy)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>0,27</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>19</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0028_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Stojący rycerz trzymający przed sobą tarczę w prawej ręce i flagę w lewej ręce</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0028_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Negatyw awersu</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>E. Waschinski, Brakteaten und Denare des Deutschen Ordens (1934) Nr. 11</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://ikmk.smb.museum/object?lang=en&id=18206607">Bode</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Stojący rycerz trzymający przed sobą tarczę w prawej ręce i flagę w lewej ręce | - | E. Waschinski, Brakteaten und Denare des Deutschen Ordens (1934) Nr. 11 |  | [Bode](https://ikmk.smb.museum/object?lang=en&id=18206607) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1236-1248</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Fenig (brakteat beznapisowy)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>0,22</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>21</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0034_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Krzyż kawalerski otoczony przez ramię z proporcem, z drzewcem z lewej, a obok drzewca kule</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0034_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Negatyw awersu</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 8983 (R6); Paszkiewicz T1</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-szeroki-ramie-z-proporcem-1236-1248-rzadki/345262">Marciniak</a></td>
+  </tr>
+</table>
 
-<img src="images/zakon_0034_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0034_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1236-1248 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,22 | 21 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1267-1278</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Fenig (brakteat beznapisowy)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>0,23</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>17</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0029_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Dwa krzyże pod arkadami</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0029_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Negatyw awersu</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>BRP Prusy T4; Neumann 1r</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/305482/zakon-krzyzacki-brakteat-1267-1278-arkady-ladny">Niemczyk</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Krzyż kawalerski otoczony przez ramię z proporcem, z drzewcem z lewej, a obok drzewca kule | - | Kop. 8983 (R6); Paszkiewicz T1 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-szeroki-ramie-z-proporcem-1236-1248-rzadki/345262) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1287-1298</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Fenig (brakteat beznapisowy)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>0,17</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>17</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0030_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Krzyż łaciński</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0030_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Negatyw awersu</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>BRP Prusy T9</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/323995/zakon-krzyzacki-brakteat-1287-1298-krzyz-lacinski">Niemczyk</a></td>
+  </tr>
+</table>
 
-<img src="images/zakon_0029_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0029_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1267-1278 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,23 | 17 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1287-1298</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Fenig (brakteat beznapisowy)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>0,20</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>17</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0031_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Korona z obręczą, na szczycie środkowego fleurona krzyż</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0031_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Negatyw awersu</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>BRP Prusy T6</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/323998/zakon-krzyzacki-brakteat-1287-1298-korona">Niemczyk</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Dwa krzyże pod arkadami | - | BRP Prusy T4; Neumann 1r |  | [Niemczyk](https://archiwum.niemczyk.pl/product/305482/zakon-krzyzacki-brakteat-1267-1278-arkady-ladny) |
-
-<img src="images/zakon_0030_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0030_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1287-1298 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,17 | 17 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Krzyż łaciński | - | BRP Prusy T9 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/323995/zakon-krzyzacki-brakteat-1287-1298-krzyz-lacinski) |
-
-<img src="images/zakon_0031_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0031_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1287-1298 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,20 | 17 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Korona z obręczą, na szczycie środkowego fleurona krzyż | - | BRP Prusy T6 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/323998/zakon-krzyzacki-brakteat-1287-1298-korona) |
-
-<img src="images/zakon_0032_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0032_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1307-1318 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,18 | 17 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza zakonna, powyżej dwie kule | - | Kop. 8996j; Paszkiewicz T8 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/324002/zakon-krzyzacki-brakteat-1307-1318-tarcza-zakonna) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1307-1318</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Fenig (brakteat beznapisowy)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>0,18</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>17</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0032_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza zakonna, powyżej dwie kule</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0032_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Negatyw awersu</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 8996j; Paszkiewicz T8</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/324002/zakon-krzyzacki-brakteat-1307-1318-tarcza-zakonna">Niemczyk</a></td>
+  </tr>
+</table>
 
 <a id='m1-2'></a>
 ### Winrych von Kniprode (1351-1382)
