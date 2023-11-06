@@ -14,9 +14,10 @@
 ## Katalog
 
 - [x] [Monety greckie, rzymskie, celtyckie, bizantyjskie i islamskie (VI w. p.n.e. - X w. n.e.)](./pages/k2.md)
-- [.] [Monety na ziemiach polskich od X do XIII w.](./pages/k3.md)
+- [.] [Monety na ziemiach polskich (X-XIII w.)](./pages/k3.md)
 - [ ] [Monety Królestwa Polskiego 1306-1506]()
-- [ ] [Monety polskie (1506-1795) roku]()
+    - detale: https://onebid.pl/pl/auction/1423354/2343/Sredniowiecze-Krolestwo-Polskie-1306-1506
+- [ ] [Monety polskie (1506-1795)]()
     - [ ] [Zygmunt I Stary (1506-1548)]()
     - [ ] [Zygmunt II August (1548-1575)]()
     - [ ] [Bezkrólewie i oblężenie Gdańska]()
