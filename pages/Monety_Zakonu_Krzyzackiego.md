@@ -1223,16 +1223,6 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m2-2'></a>
 ### Ludwik von Erlichshausen (1450-1467)
 
-<img src="images/zakon_0002_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0002_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1450-1456 | Szeląg | Toruń | Ag | 1,37 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis MAGS - LVDW - ICVS - PRIM [Magister Ludewicus Primus] | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE-TA DN-ORVM - PRVC [Moneta Dominorum Prucie] | Vossberg 883-886; Bahrfeldt 774-780; Neumann 24b |  | [Bode](https://ikmk.smb.museum/object?lang=en&id=18227840) |
-
 <table class="center">
   <tr>
     <th>Rok</th>
@@ -1295,170 +1285,907 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m2-3'></a>
 ### Henryk Reuss von Plauen (1467-1470)
 
-<img src="images/zakon_0003_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0003_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1467-1470 | Szeląg | Królewiec | Ag | 1,27 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis ★ MAGST ∘ HINRICVS ∘ PRI [Magister Hinricus Primus] | W polu tarcza krzyżacka. W otoku napis MONETA ∘ DNORVM ∘ PRV [Moneta Dominorum Prucie] | Vossberg 90; Neumann 28 |  | [WCN](https://wcn.onebid.pl/pl/monety-szelag-magst-hinricvs-pri-moneta-dnorvm-prv-neumann/6708) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1467-1470</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,27</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0003_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis ★ MAGST ∘ HINRICVS ∘ PRI [Magister Hinricus Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0003_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>W polu tarcza krzyżacka. W otoku napis MONETA ∘ DNORVM ∘ PRV [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Vossberg 90; Neumann 28</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://wcn.onebid.pl/pl/monety-szelag-magst-hinricvs-pri-moneta-dnorvm-prv-neumann/6708">WCN</a></td>
+  </tr>
+</table>
 
 <a id='m2-4'></a>
 ### Henryk Reffle von Richtenberg (1470-1477)
 
-<img src="images/zakon_0004_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0004_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1470-1477 | Szeląg | Królewiec | Ag | 1,47 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis ★ MAGST HINRICVS VA • | W polu tarcza krzyżacka. W otoku napis MONETA • DOMI • PRV [Moneta Dominorum Prucie] | Vossberg 93; Neumann 29 |  | [WCN](https://wcn.onebid.pl/pl/monety-szelag-magst-hinriovs-va-moneta-domi-prv-neumann-29/6709) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1470-1477</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,47</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0004_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis ★ MAGST HINRICVS VA •</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0004_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>W polu tarcza krzyżacka. W otoku napis MONETA • DOMI • PRV [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Vossberg 93; Neumann 29</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://wcn.onebid.pl/pl/monety-szelag-magst-hinriovs-va-moneta-domi-prv-neumann-29/6709">WCN</a></td>
+  </tr>
+</table>
 
 <a id='m2-5'></a>
 ### Marcin Truchsess von Wetzhausen (1477–1489)
 
 <img src="images/zakon_0005_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0005_r.jpg" width="500px" height="500px"/>
     
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1477–1489 | Szeląg | Królewiec | Ag | 1,16 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis ★ MAGST MARTINV P | W polu tarcza krzyżacka. W otoku napis ♣ MONETA DNORVM P [Moneta Dominorum Prucie] | Neumann 29a |  | [Niemczyk](https://archiwum.niemczyk.pl/product/343647/zakon-krzyzacki-marcin-truchsess-1477-1489-szelag-ladny) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1477–1489</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,16</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0005_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis ★ MAGST MARTINV P</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0005_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>W polu tarcza krzyżacka. W otoku napis ♣ MONETA DNORVM P [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Neumann 29a</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/343647/zakon-krzyzacki-marcin-truchsess-1477-1489-szelag-ladny">Niemczyk</a></td>
+  </tr>
+</table>
 
 <a id='m2-6'></a>
 ### Jan von Tiefen (1489-1497)
 
-<img src="images/zakon_0006_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0006_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1489-1497 | Szeląg | Królewiec | Ag | 1,29 | 19,5 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1489-1497</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,29</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0006_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem zakonczonym liliami, w otoku napis ♣ MA ♣ GIS ♣ ION ♣ ISP</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0006_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>W polu tarcza krzyżacka. W otoku napis ♣ MONETA DNORVM P [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-jan-von-tiefen-szelag-nieopisany/1591486">RDA</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza z długim krzyżem zakonczonym liliami, w otoku napis ♣ MA ♣ GIS ♣ ION ♣ ISP | W polu tarcza krzyżacka. W otoku napis ♣ MONETA DNORVM P [Moneta Dominorum Prucie] |  |  | [RDA](https://onebid.pl/pl/monety-zakon-krzyzacki-jan-von-tiefen-szelag-nieopisany/1591486) |
-
-<img src="images/zakon_0007_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0007_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1489-1497 | Grosz | Królewiec | Ag | 1,58 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGST IOHNS DE TIFENI | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONETA DNORVM PVS [Moneta Dominorum Prucie] | Kop. 9046; Neumann 32 | Odpowiednik kwartnika polskiego (półgrosza), stały się u schyłki XIV w. podstawową monetą Zakonu | [Niemczyk](https://archiwum.niemczyk.pl/product/153180/zakon-krzyzacki-johann-v-tiefen-1489-1497-grosz-bez-daty-krolewiec-r4) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1489-1497</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,58</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0007_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGST IOHNS DE TIFENI</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0007_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONETA DNORVM PVS [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9046; Neumann 32</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Odpowiednik kwartnika polskiego (półgrosza), stał się u schyłki XIV w. podstawową monetą Zakonu</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/153180/zakon-krzyzacki-johann-v-tiefen-1489-1497-grosz-bez-daty-krolewiec-r4">Niemczyk</a></td>
+  </tr>
+</table>
 
 <a id='m2-7'></a>
 ### Fryderyk Saski (1498-1510)
 
-<img src="images/zakon_0008_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0008_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1498-1510 | Grosz | Królewiec | Ag | 1,45 | 25 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGI STER FRID IKVS | W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONE TADN ORVM PRVS [Moneta Dominorum Prucie] | Vossberg 1137 |  | [WCN](https://onebid.pl/pl/monety-fryderyk-saski-1498-1510-grosz-magi-ster-frid-ikvs/422162) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1498-1510</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,45</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>25</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0008_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem, w otoku napis MAGI STER FRID IKVS</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0008_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>W polu tarcza krzyżacka na długim krzyżu. W otoku napis MONE TADN ORVM PRVS [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Vossberg 1137</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-fryderyk-saski-1498-1510-grosz-magi-ster-frid-ikvs/422162">WCN</a></td>
+  </tr>
+</table>
 
 <a id='m2-8'></a>
 ### Albrecht von Hohenzollern ks. brandenburski (1511-1525)
 
-<img src="images/zakon_0009_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0009_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1513 | 1513-1525 | Grosz | Królewiec | Ag | 1,45 | 20 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1513</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1513-1525</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,45</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>25</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0009_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER G</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0009_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ⦂ 1513</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9052; Vossberg 1144</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-hohenzollern-grosz-krolewiec-1513-piekny/1798770">Marciniak</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGISTER G | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ⦂ 1513 | Kop. 9052; Vossberg 1144 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-albrecht-hohenzollern-grosz-krolewiec-1513-piekny/1798770) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1515</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1513-1525</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,53</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0010_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>W polu orzeł brandenburski, w otoku napis • ALBERTVS ∘ D ⦂ G ∘ MAGR ∘ GNRALS</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0010_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ∘ NOS ∘ DOMIN A ∘ 1515</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9054</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Napisy renesansowe</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-albrecht-hohenzollern-1511-1525-grosz-1515/199834">Marciniak</a></td>
+  </tr>
+</table>
 
-<img src="images/zakon_0010_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0010_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1515 | 1513-1525 | Grosz | Królewiec | Ag | 1,53 | 20 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1517</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1513-1525</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,31</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0011_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGR ⦂ GNERALIS ⦂</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0011_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1517 ⦂</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9054; Vossberg 108; Neumann 34</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Napisy renesansowe</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-grosz-1517-krolewiec-aw-orzel-brandenburski-z-tarcz/286186">WCN</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis • ALBERTVS ∘ D ⦂ G ∘ MAGR ∘ GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ∘ NOS ∘ DOMIN A ∘ 1515 | Kop. 9054 | Napisy renesansowe | [Marciniak](https://onebid.pl/pl/monety-albrecht-hohenzollern-1511-1525-grosz-1515/199834) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1518</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1513-1525</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,03</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0012_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>W polu orzeł brandenburski, w otoku napis ALBERTVS DG M GNERALIS ⦂</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0012_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1518</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9057</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Napisy gotyckie</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-grosz-1518-krolewiec/1564488">PDA</a></td>
+  </tr>
+</table>
 
-<img src="images/zakon_0011_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0011_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1517 | 1513-1525 | Grosz | Królewiec | Ag | 1,31 | 20 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1519</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1513-1525</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,03</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0013_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>W polu orzeł brandenburski, w otoku napis : ALBERT9 • D : G • MGR • GNRALS</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0013_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA • NOS • DOMI NA • 1519</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9058</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Napisy renesansowe</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-rr-zakon-krzyzacki-albrecht-hohenzollern-grosz-1519-krolewiec/1488041">WDA</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis ✠ ALBERTVS ⦂ D ⦂ G ⦂ MAGR ⦂ GNERALIS ⦂ | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1517 ⦂ | Kop. 9054; Vossberg 108; Neumann 34 | Napisy renesansowe | [WCN](https://onebid.pl/pl/monety-grosz-1517-krolewiec-aw-orzel-brandenburski-z-tarcz/286186) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1520</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1513-1525</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,35</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0014_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>W polu orzeł brandenburski, w otoku napis :ALBERT9 • D : G • MGR • GNRALS</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0014_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA • NOS • DOMI NA • 1520</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Neumann 34</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Napisy renesansowe</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3">Niemczyk</a></td>
+  </tr>
+</table>
 
-<img src="images/zakon_0012_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0012_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1518 | 1513-1525 | Grosz | Królewiec | Ag | 1,03 | 20 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1521</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1520-1521</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Klipa grosza</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,42</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>15</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0017_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0017_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza zakonna</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Vossenberg 1243</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-klipa-grosza-1521/394771">WCN</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis ALBERTVS DG M GNERALIS ⦂ | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA ⦂ NOS ⦂ DOMIN A ∘ 1518 | Kop. 9057 | Napisy gotyckie | [PDA](https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-grosz-1518-krolewiec/1564488) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1520</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1520-1521</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Ćwierćtalar (Viertel-Taler = Achtgroschen)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>5,06</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>31</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0015_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Matka Boska z dzieciątkiem na półksiężycu otoczona promieniami, ALBERTV DEI GRA MARCHIO BRAND</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0015_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Orzeł pruski w tarczy na tle ozdobnego krzyża w rozecie, HONOR MAGISTRI IVSTICIAM DILIGIT 15Z[0]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Neumann 37; Vossenberg 1227; Kop. 9070</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Na monecie widnieje kontrmarka (tarcza z krzyżem), którą nabijano na wybitych monetach w celu obniżenia oficjalnej wartości z ośmiu do sześciu groszy</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-cwierctalar-viertel-taler-achtgroschen-1520-krolew/183267">WCN</a></td>
+  </tr>
+</table>
 
-<img src="images/zakon_0013_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0013_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1519 | 1513-1525 | Grosz | Królewiec | Ag | 1,03 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis :ALBERT9•D:G•MGR•GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA • NOS • DOMI NA • 1519 | Kop. 9058 | Napisy renesansowe | [WDA](https://onebid.pl/pl/monety-rr-zakon-krzyzacki-albrecht-hohenzollern-grosz-1519-krolewiec/1488041) |
-
-<img src="images/zakon_0014_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0014_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1520 | 1513-1525 | Grosz | Królewiec | Ag | 1,35 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| W polu orzeł brandenburski, w otoku napis :ALBERT9•D:G•MGR•GNRALS | Tarcza wielkiego mistrza z długim krzyżem, w otoku napis SALVA • NOS • DOMI NA • 1520 | Neumann 34 | Napisy renesansowe | [Niemczyk](https://archiwum.niemczyk.pl/product/157815/zakon-krzyzacki-albrecht-grosz-1520-krolewiec-st3) |
-
-<img src="images/zakon_0017_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0017_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1521 | 1520-1521 | Klipa grosza | Królewiec | Ag | 1,42 | 15 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza | Tarcza zakonna | Vossenberg 1243 |  | [WCN](https://onebid.pl/pl/monety-albrecht-von-hohenzollern-1511-1525-klipa-grosza-1521/394771) |
-
-<img src="images/zakon_0015_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0015_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1520 | 1520-1521 | Ćwierćtalar (Viertel-Taler = Achtgroschen) | Królewiec | Ag | 5,06 | 31 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Matka Boska z dzieciątkiem na półksiężycu otoczona promieniami, ALBERTV DEI GRA MARCHIO BRAND | Orzeł pruski w tarczy na tle ozdobnego krzyża w rozecie, HONOR MAGISTRI IVSTICIAM DILIGIT 15Z[0] | Neumann 37; Vossenberg 1227; Kop. 9070 | Na monecie widnieje kontrmarka (tarcza z krzyżem), którą nabijano na wybitych monetach w celu obniżenia oficjalnej wartości z ośmiu do sześciu groszy | [WCN](https://onebid.pl/pl/monety-cwierctalar-viertel-taler-achtgroschen-1520-krolew/183267) |
-
-<img src="images/zakon_0016_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0016_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1521 | 1520-1521 | Klipa ćwierćtalarowa (8 groszy) | Królewiec | Ag | 5,06 | 24 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Orzeł pruski w tarczy na tle ozdobnego krzyża w rozecie | Madonna z dzieciątkiem na wprost | Vossenberg 1242 |  | [WCN](https://onebid.pl/pl/monety-klipa-cwierctalara-8-groszy-1521-krolewiec-aw-mado/192223) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>1521</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1520-1521</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Klipa ćwierćtalarowa (8 groszy)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Królewiec</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>5,06</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>24</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0016_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Orzeł pruski w tarczy na tle ozdobnego krzyża w rozecie</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0016_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Madonna z dzieciątkiem na wprost</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Vossenberg 1242</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-klipa-cwierctalara-8-groszy-1521-krolewiec-aw-mado/192223">WCN</a></td>
+  </tr>
+</table>
 
 
 [Powrót](https://numizmatyka.satola.net)
