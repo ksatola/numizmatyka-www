@@ -16,8 +16,6 @@ Pieniądz to towar uniwersalny, który można wymienić na dowolny inny. W czasa
 Płacidłami były m.in.: muszle, tkaniny, zboże, sól, futra. Niekiety śladem po dawnym, przedmonetarnym pieniądzu jest nazwa aktualnej waluty. Słowo rubel (nazwa waluty rosyjskiej) pierwotnie oznaczało odrąbany kawałek srebra, a kuna (dawna waluta Chorwacji) to pamiątka po czasach, gdy płacono skórkami kun. Miernikiem wartości i środkiem wymiany były też metale, zwłaszcza szlachetne. Szczególnie cenne były srebro i złoto; w handlu posługiwano się ich bryłkami, lanymi plackami lub sztabkami. Przejście do pieniądza monetarnego dokonało się w chwili, gdy na bryłce metalu pojawił się znak emitenta (pana menniczego), np. króla, który gwarantował jej urzędową wartość.
 
 
-<img src="images/0001 - VI-V pne - obol - awers.jpg"/> <img src="images/0001 - VI-V pne - obol - rewers.jpg"/>
-
 <table class="center" style="width:100%">
   <tr>
     <th>Nr katalogowy</th>
@@ -53,10 +51,18 @@ Płacidłami były m.in.: muszle, tkaniny, zboże, sól, futra. Niekiety śladem
   </tr>
   <tr>
     <th>Awers</th>
+    <td><img src="images/0001 - VI-V pne - obol - awers.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
     <td>Protoma (przednia część ciała) ryczącego lwa w lewo (lew w prawo, ale z odwróconą do tyłu głową?) - znak rodowy królów Lidii</td>
   </tr>
   <tr>
     <th>Rewers</th>
+    <td><img src="images/0001 - VI-V pne - obol - rewers.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
     <td>W quadratum incusum (w kwadracie wgłębionym) gwiazda lub ornament kwiatowy</td>
   </tr>
   <tr>
