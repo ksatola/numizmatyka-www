@@ -42,7 +42,7 @@ W 1226 r. książę mazowiecki Konrad zaprosił za namową Jadwigi Śląskiej za
 
 W 1308 r. książę Władysław Łokietek wezwał na pomoc Krzyżaków w celu odparcia ataku Brandenburczyków na Pomorze Gdańskie. Ci pomocy udzielili, ale Pomorza i Gdańska nie opuścili. Po wymordowaniu polskiej załogi i rzezi w mieście zajęli także kolejne grody pomorskie i odkupili od Brandenburczyków prawa do Pomorza. Wkrótce zakon sprzymierzył się z księciem Janem Luksemburskim oraz władcą Meklemburgii i w 1327 r. zaatakował Kujawy oraz Wielkopolskę, przeprowadzając wiele łupieżczych najazdów, terroryzując mieszkańców, paląc wsie i mordując ludność. Wtedy stoczono w 1331 r. nierozstrzygniętą bitwę pod Płowcami, która mimo że nie zmusiła zakonu do oddania Pomorza, obaliła mit, o niezwyciężonych Krzyżakach. 
 
-Działania dyplomatyczne Kazimierza Wielkiego (1333-1370) rozbijające w czasie zjazdu w Wyszehradzie w 1335 r. ich sojusz z Czechami (i pozywając ich przed polubowny sąd papieski w Warszawie w 1339 r.), chcąc też zająć tereny Rusi Czerwonej, skłonił zakon do podpisania pokoju w Kaliszu w 1343 r., w którym zakon zwrócił Kujawy i ziemię dobrzyńską, zaś warunkowo jako jałmużnę zatrzymywał Pomorze, ziemię chełmińską i michałowską. Pomimo trzech kolejnych wyroków sądu papieskiego, nakazujących zwrot Pomorza, zakon nie oddał nigdy dobrowolnie zasądzonej ziemi. Pokój w Kaliszu zmusił zakon do zaprzestania ataków na Polskę. Wtedy zakon skierował siły przeciw Litwie, zajmując częściowo Żmudź. Zmusiło to księcia litewskiego Jagiełłę do przyjęcia chrztu, na którym otrzymał imię Władysław oraz ożenku z córką Ludwika Węgierskiego – Jadwigą Andegaweńską, zapoczątkowując unię polsko-litewską (1386).
+Działania dyplomatyczne Kazimierza Wielkiego (1333-1370) rozbijające w czasie zjazdu w Wyszehradzie w 1335 r. ich sojusz z Czechami (i pozywając ich przed polubowny sąd papieski w Warszawie w 1339 r.), chcąc też zająć tereny Rusi Czerwonej, skłoniły Zakon do podpisania pokoju w Kaliszu w 1343 r., w którym zakon zwrócił Kujawy i ziemię dobrzyńską, zaś warunkowo jako jałmużnę zatrzymywał Pomorze, ziemię chełmińską i michałowską. Pomimo trzech kolejnych wyroków sądu papieskiego, nakazujących zwrot Pomorza, zakon nie oddał nigdy dobrowolnie zasądzonej ziemi. Pokój w Kaliszu zmusił zakon do zaprzestania ataków na Polskę. Wtedy zakon skierował siły przeciw Litwie, zajmując częściowo Żmudź. Zmusiło to księcia litewskiego Jagiełłę do przyjęcia chrztu, na którym otrzymał imię Władysław oraz ożenku z córką Ludwika Węgierskiego – Jadwigą Andegaweńską, zapoczątkowując unię polsko-litewską (1386).
 
 Władysław Jagiełło (1386-1434) wskutek ciągłych walk podjazdowych na Kujawach i na Litwie prowadzonych przez zakon, zdecydował się ostatecznie na rozpoczęcie wielkiej wojny (1409–1411), której kulminacyjnym momentem była bitwa pod Grunwaldem, a uwieńczeniem pokój w Toruniu (1411). Pokój ten został mimo zwycięskiej kampanii wojskowej wymuszony na Jagielle ogólną sytuacją polityczną Polski, gdyż w obronie zakonu stanęła koalicja władców z dynastii Luksemburskiej – Jana, ks. zgorzeleckiego, Wacława, króla Czech oraz króla Węgier Zygmunta. Pokój ten ponownie nie przyznał Polsce Pomorza Gdańskiego ani ziemi chełmińskiej, zmusił jednak zakon do zaprzestania ataków na Litwę i Polskę. Zakon zaczął od tego czasu tracić na sile, a jego sytuacja ekonomiczna pogorszyła się na skutek blokady wymiany handlowej, którą zastosowała strona polsko-litewska.
 
@@ -653,7 +653,7 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
   </tr>
   <tr>
     <th>Uwagi</th>
-    <td>Wybijane krótko, używane raczej wewnętrznie (niższa zawartość srebra w porównaniu z groszem praskim lub krakowskim)</td>
+    <td></td>
   </tr>
   <tr>
     <th>Źródło</th>
@@ -664,51 +664,247 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m1-3'></a>
 ### Konrad I Zöllner von Rothenstein (1382-1390)
 
-<img src="images/zakon_0024_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0024_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1382-1390 | Szeląg | Toruń | Ag | 1,58 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ PRIM9 [Magister Coradus Primus] | Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie] |  Vossberg 144 |  | [WCN](https://onebid.pl/pl/monety-szelag-aw-tarcza-wielkiego-mistrza-i-napis-rw-tarcz/401306) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1382-1390</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,58</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0024_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ PRIM9 [Magister Coradus Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0024_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Vossberg 144</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-szelag-aw-tarcza-wielkiego-mistrza-i-napis-rw-tarcz/401306">WCN</a></td>
+  </tr>
+</table>
 
 <a id='m1-4'></a>
 ### Konrad III von Jungingen (1393-1407)
 
-<img src="images/zakon_0023_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0023_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1393-1407 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1393-1407</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,3</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0023_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ PRIM9 [Magister Coradus Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0023_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Neumann 7a</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/323263/zakon-krzyzacki-konrad-iii-von-jungingen-1393-1407-szelag-ladny">Niemczyk</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ TERCI [Magister Coradus Tercius] | Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie] | Neumann 7a |  | [Niemczyk](https://archiwum.niemczyk.pl/product/323263/zakon-krzyzacki-konrad-iii-von-jungingen-1393-1407-szelag-ladny) |
-
-<img src="images/zakon_0033_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0033_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1393-1407 | Szeląg | Malbork? | Ag | 1,3 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ TERCI [Magister Coradus Tercius] | Tarcza krzyżacka a nad nią litera M. W otoku napis MONETA ⁑ DNORVM ⁑ PRVSI [Moneta Dominorum Prucie] | Kop. 9014 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-konrad-iii-von-jungingen-szelag-malbork-litera-m/1818606) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1393-1407</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Malbork?</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,3</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0033_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ CORADVS ⁑ TERCI [Magister Coradus Tercius]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0033_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka a nad nią litera M. W otoku napis MONETA ⁑ DNORVM ⁑ PRVSI [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9014</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-konrad-iii-von-jungingen-szelag-malbork-litera-m/1818606">Marciniak</a></td>
+  </tr>
+</table>
 
 <a id='m1-5'></a>
 ### Ulryk von Jungingen (1407-1410)
 
-<img src="images/zakon_0022_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0022_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1407-1410 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis +MAGST' + VLRICVS + PRIMV [Magister Ulricus Primus] | Tarcza krzyżacka. W otoku napis + MONETA + DNORVM + PRVC [Moneta Dominorum Prucie] | Kop. 9015 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-ulryk-von-jungingen-szelag/853284) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1407-1410</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,3</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0023_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis +MAGST' + VLRICVS + PRIMV [Magister Ulricus Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0023_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka. W otoku napis + MONETA + DNORVM + PRVC [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9015</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-ulryk-von-jungingen-szelag/853284">Marciniak</a></td>
+  </tr>
+</table>
 
 <a id='m1-6'></a>
 ### Henryk von Plauen (1410-1413)
@@ -722,6 +918,65 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza, w otoku napis ✠ MAGST HINRICVS PRIM [Magister Hinricus Primus] | Tarcza krzyżacka. W otoku napis MONETA DNORVM PRVCI [Moneta Dominorum Prucie] | Kop. (BN 2/2004) 298 |  | [Numimarket](https://onebid.pl/pl/monety-zakon-krzyzacki-henryk-i-von-plauen-1410-1414-szelag/1857499) |
+
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1410-1413</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,3</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0021_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis ✠ MAGST HINRICVS PRIM [Magister Hinricus Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0021_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka. W otoku napis MONETA DNORVM PRVCI [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. (BN 2/2004) 298</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-henryk-i-von-plauen-1410-1414-szelag/1857499">Numimarket</a></td>
+  </tr>
+</table>
 
 <a id='m1-71'></a>
 ### Herman Gans, zarządca (1413-1414)
