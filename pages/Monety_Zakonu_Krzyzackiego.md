@@ -166,7 +166,7 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
   </tr>
   <tr>
     <th>Rewers</th>
-    <td><img src="images/zakon_0028_r.jpg"/></td>
+    <td></td>
   </tr>
   <tr>
     <th>Opis rewersu</th>
@@ -484,35 +484,182 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m1-2'></a>
 ### Winrych von Kniprode (1351-1382)
 
-<img src="images/zakon_0025_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0025_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1360-1382 | Ćwiartka | Toruń | Ag | 0,77 | ? | gładki |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1360-1382</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Ćwiartka</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>0,77</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>???</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0025_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza mistrzowska w sześciołukowej obwódce, wokół której napis: ✠ MAGISTER × GENERALIS</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0025_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Krzyż kawalerski w otoku perełkowym, a w otoku napis: ✠ DOMINORVM × PRVSSIE</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Vossberg 120-121; Neumann 5</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Wybijane krótko, podobnie jak ćwierćgrosze Kazimierza Wielkiego w Polsce nie sprawdziły się w praktyce</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://wcn.pl/archive/26_0131">WCN</a></td>
+  </tr>
+</table>
 
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza mistrzowska w sześciołukowej obwódce, wokół której napis: ✠ MAGISTER × GENERALIS | Krzyż kawalerski w otoku perełkowym, a w otoku napis: ✠ DOMINORVM × PRVSSIE | Vossberg 120-121; Neumann 5 | Wybijane krótko, podobnie jak ćwierćgrosze Kazimierza Wielkiego w Polsce nie sprawdziły się w praktyce | [WCN](https://wcn.pl/archive/26_0131) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1360-1382</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Półskojec</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>2,94</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>26</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0026_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza mistrzowska w sześciołukowej obwódce, wokół której znajdował się napis: ✠ MONETA ⦂ DOMINORVM ⦂ PRVSSIE</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0026_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Krzyż z lilijkami w czteropłatkowej rozecie oraz w otoku legenda: ✠ HONOR ⦂ MAGISTRI ⦂ IVDICIVM ⦂ DILIGIT (godność mistrza miłuje sprawiedliwość)</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Dudik 37; Neumann’87 3; Voss. §34</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Wybijane krótko, używane raczej wewnętrznie (niższa zawartość srebra w porównaniu z groszem praskim lub krakowskim)</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://ikmk.smb.museum/object?lang=en&id=18206610">WCN</a></td>
+  </tr>
+</table>
 
-<img src="images/zakon_0026_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0026_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1360-1382 | Półskojec | Toruń | Ag | 2,94 | 26 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza mistrzowska w sześciołukowej obwódce, wokół której znajdował się napis: ✠ MONETA ⦂ DOMINORVM ⦂ PRVSSIE | Krzyż z lilijkami w czteropłatkowej rozecie oraz w otoku legenda: ✠ HONOR ⦂ MAGISTRI ⦂ IVDICIVM ⦂ DILIGIT (godność mistrza miłuje sprawiedliwość) | Dudik 37; Neumann’87 3; Voss. §34 | Wybijane krótko, używane raczej wewnętrznie (niższa zawartość srebra) | [WCN](https://ikmk.smb.museum/object?lang=en&id=18206610) |
-
-<img src="images/zakon_0027_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0027_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1380-1382 | Szeląg | Toruń | Ag | 1,75 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ WYNRICS ⁑ PRIMS [Magister Winricus Primus] | Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie] | Neumann 4 |  | [Niemczyk](https://archiwum.niemczyk.pl/product/317780/zakon-krzyzacki-winrych-von-kniprode-1351-1382-szelag-bardzo-ladny) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1380-1382</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,75</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0027_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis ✠ MAGST ⁑ WYNRICS ⁑ PRIMS [Magister Winricus Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0027_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka. W otoku napis MONETA ⁑ DNORVM ⁑ PRVCI [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Neumann 4</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Wybijane krótko, używane raczej wewnętrznie (niższa zawartość srebra w porównaniu z groszem praskim lub krakowskim)</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://archiwum.niemczyk.pl/product/317780/zakon-krzyzacki-winrych-von-kniprode-1351-1382-szelag-bardzo-ladny">Niemczyk</a></td>
+  </tr>
+</table>
 
 <a id='m1-3'></a>
 ### Konrad I Zöllner von Rothenstein (1382-1390)
