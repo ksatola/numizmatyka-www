@@ -166,7 +166,7 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
   </tr>
   <tr>
     <th>Rewers</th>
-    <td></td>
+    <td>brak zdjęcia</td>
   </tr>
   <tr>
     <th>Opis rewersu</th>
@@ -1409,8 +1409,6 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m2-5'></a>
 ### Marcin Truchsess von Wetzhausen (1477–1489)
 
-<img src="images/zakon_0005_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0005_r.jpg" width="500px" height="500px"/>
-    
 <table class="center">
   <tr>
     <th>Rok</th>
