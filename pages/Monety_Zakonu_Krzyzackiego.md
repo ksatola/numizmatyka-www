@@ -909,16 +909,6 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m1-6'></a>
 ### Henryk von Plauen (1410-1413)
 
-<img src="images/zakon_0021_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0021_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1410-1413 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza, w otoku napis ✠ MAGST HINRICVS PRIM [Magister Hinricus Primus] | Tarcza krzyżacka. W otoku napis MONETA DNORVM PRVCI [Moneta Dominorum Prucie] | Kop. (BN 2/2004) 298 |  | [Numimarket](https://onebid.pl/pl/monety-zakon-krzyzacki-henryk-i-von-plauen-1410-1414-szelag/1857499) |
-
 <table class="center">
   <tr>
     <th>Rok</th>
@@ -981,41 +971,188 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m1-71'></a>
 ### Herman Gans, zarządca (1413-1414)
 
-<img src="images/zakon_0020_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0020_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1413-1414 | Szeląg | Toruń | Ag | 1,36 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza zarządcy, w otoku napis MAGISTER GENERALIS | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie] | Neumann 13; Voss. 63 |  | [WCN](https://onebid.pl/pl/monety-szelag-mennica-gdansk-aw-tarcza-wielkiego-mistrza-m/173551) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1413-1414</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,36</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0020_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza zarządcy, w otoku napis MAGISTER GENERALIS</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0020_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Neumann 13; Voss. 63</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-szelag-mennica-gdansk-aw-tarcza-wielkiego-mistrza-m/173551">WCN</a></td>
+  </tr>
+</table>
 
 <a id='m1-8'></a>
 ### Michał I Küchmeister von Sternberg (1414–1422)
 
-<img src="images/zakon_0019_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0019_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1414–1422 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza na długim krzyżu, w otoku napis MAGS T ∘ MIC HAEL PRIM [Magister Michael Primus] | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie] | Kop. 9026 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-michal-kuchmeister-szelag-piekny/1851083) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1414–1422</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,3</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0019_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza na długim krzyżu, w otoku napis MAGS T ∘ MIC HAEL PRIM [Magister Michael Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0019_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9026</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-michal-kuchmeister-szelag-piekny/1851083">Marciniak</a></td>
+  </tr>
+</table>
 
 <a id='m1-9'></a>
 ### Paweł von Russdorf (1422-1441)
 
-<img src="images/zakon_0018_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0018_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1422-1441 | Szeląg | Toruń | Ag | 1,3 | 20 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza wielkiego mistrza na długim krzyżu, w otoku napis MAGS T ∘ PA VLVS PRIM [Magister Paulus Primus] | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie] | Kop. 9028 |  | [Marciniak](https://onebid.pl/pl/monety-zakon-krzyzacki-pawel-von-russdorf-szelag/854132) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1422-1441</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,3</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0018_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza na długim krzyżu, w otoku napis MAGS T ∘ PA VLVS PRIM [Magister Paulus Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0018_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE TADN ORVM PRVC [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9028</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-pawel-von-russdorf-szelag/854132">Marciniak</a></td>
+  </tr>
+</table>
 
 
 <a id='m2'></a>
@@ -1024,15 +1161,64 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 <a id='m2-1'></a>
 ### Fenigi (beznapisowe brakteaty) z lat 1466-1525
 
-<img src="images/zakon_0001_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0001_r.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1466-1525 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,2 | 12-16 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Tarcza krzyżacka | - | Kop. 9001 |  | [Numimarket](https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-orzel-w-tarczy/1902240) |
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1466-1525</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Fenig (brakteat beznapisowy)</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>0,2</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>12-16</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0001_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza krzyżacka</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0001_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Negatyw awersu</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Kop. 9001</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-zakon-krzyzacki-brakteat-orzel-w-tarczy/1902240">Numimarket</a></td>
+  </tr>
+</table>
 
 <a id='m2-2'></a>
 ### Ludwik von Erlichshausen (1450-1467)
@@ -1046,6 +1232,65 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
 | Awers | Rewers | Literatura | Uwagi | Źródło |
 | :- | :- | :-: | :- | :-: |
 | Tarcza wielkiego mistrza, w otoku napis MAGS - LVDW - ICVS - PRIM [Magister Ludewicus Primus] | Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE-TA DN-ORVM - PRVC [Moneta Dominorum Prucie] | Vossberg 883-886; Bahrfeldt 774-780; Neumann 24b |  | [Bode](https://ikmk.smb.museum/object?lang=en&id=18227840) |
+
+<table class="center">
+  <tr>
+    <th>Rok</th>
+    <td>brak</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1450-1456</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>Szeląg</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Toruń</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Ag</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,37</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/zakon_0002_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Tarcza wielkiego mistrza, w otoku napis MAGS - LVDW - ICVS - PRIM [Magister Ludewicus Primus]</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/zakon_0002_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Tarcza krzyżacka na długim krzyżu, korona w prawym górnym rogu. W otoku napis MONE-TA DN-ORVM - PRVC [Moneta Dominorum Prucie]</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Vossberg 883-886; Bahrfeldt 774-780; Neumann 24b</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://ikmk.smb.museum/object?lang=en&id=18227840">Bode</a></td>
+  </tr>
+</table>
 
 <a id='m2-3'></a>
 ### Henryk Reuss von Plauen (1467-1470)
