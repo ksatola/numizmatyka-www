@@ -5,7 +5,7 @@
 
 ## Druk
 
-|&nbsp;&nbsp; Skrót &nbsp;&nbsp;| Tytuł | Autor | Rok wydania | Uwagi |
+| Skrót | Tytuł | Autor | Rok wydania | Uwagi |
 | :-: | :- | :- | :-: | :- |
 | **CNG** | Corpvs Nvmmorvm Gedanensis | Jarosław Dutkowski, Adam Suchanek | 2000 |  |
 | **DMK** | Dzieje mennicy krakowskiej | Marian Gumowski | 1927 | Dostępny jest reprint |
