@@ -40,7 +40,7 @@ Na początku XIII wieku polscy książęta dzielnicowi prowadzili akcję chrysti
 
 W 1226 r. książę mazowiecki Konrad zaprosił za namową Jadwigi Śląskiej zakon na swoje ziemie, przyznając mu w 1228 r. w dzierżawę ziemię chełmińską oraz ziemię michałowską. Pomimo tego Konrad zachował całość swoich prerogatyw książęcych. Ziemia chełmińska i michałowska miała stanowić dla zakonu bazę do rozpoczęcia walk z plemionami Prusów, które zagrażały północnym rubieżom Mazowsza. Od 1230 do 1249 r. zakon, dzięki stale napływającemu wsparciu i posiłkom przysyłanym przez Fryderyka II, zdołał całkowicie zająć i spacyfikować dawne tereny Prusów aż do rzeki Pasłęki (Pomezania). System walki Krzyżaków polegał na stopniowym eliminowaniu rozproszonych gniazd oporu Prusów i umacnianiu dopiero co zdobytej władzy terrorem prowadzonym z systemu błyskawicznie budowanych fortyfikacji.
 
-W 1308 r. książę Władysław Łokietek wezwał na pomoc Krzyżaków w celu odparcia ataku Brandenburczyków na Pomorze Gdańskie. Ci pomocy udzielili, ale Pomorza i Gdańska nie opuścili. Po wymordowaniu polskiej załogi i rzezi w mieście zajęli także kolejne grody pomorskie i odkupili od Brandenburczyków prawa do Pomorza. Wkrótce zakon sprzymierzył się z księciem Janem Luksemburskim oraz władcą Meklemburgii i w 1327 r. zaatakował Kujawy oraz Wielkopolskę, przeprowadzając wiele łupieżczych najazdów, terroryzując mieszkańców, paląc wsie i mordując ludność. Wtedy stoczono w 1331 r. nierozstrzygniętą bitwę pod Płowcami, która mimo że nie zmusiła zakonu do oddania Pomorza, obaliła mit, o niezwyciężonych Krzyżakach. 
+W 1308 r. książę Władysław Łokietek wezwał na pomoc Krzyżaków w celu odparcia ataku Brandenburczyków na Pomorze Gdańskie. Ci pomocy udzielili, ale Pomorza i Gdańska nie opuścili. Po wymordowaniu polskiej załogi i rzezi w mieście zajęli także kolejne grody pomorskie i odkupili od Brandenburczyków prawa do Pomorza. Wkrótce Zakon sprzymierzył się z księciem Janem Luksemburskim oraz władcą Meklemburgii i w 1327 r. zaatakował Kujawy oraz Wielkopolskę, przeprowadzając wiele łupieżczych najazdów, terroryzując mieszkańców, paląc wsie i mordując ludność. Wtedy stoczono w 1331 r. nierozstrzygniętą bitwę pod Płowcami, która mimo że nie zmusiła zakonu do oddania Pomorza, obaliła mit, o niezwyciężonych Krzyżakach. 
 
 Działania dyplomatyczne Kazimierza Wielkiego (1333-1370) rozbijające w czasie zjazdu w Wyszehradzie w 1335 r. ich sojusz z Czechami (i pozywając ich przed polubowny sąd papieski w Warszawie w 1339 r.), chcąc też zająć tereny Rusi Czerwonej, skłoniły Zakon do podpisania pokoju w Kaliszu w 1343 r., w którym zakon zwrócił Kujawy i ziemię dobrzyńską, zaś warunkowo jako jałmużnę zatrzymywał Pomorze, ziemię chełmińską i michałowską. Pomimo trzech kolejnych wyroków sądu papieskiego, nakazujących zwrot Pomorza, zakon nie oddał nigdy dobrowolnie zasądzonej ziemi. Pokój w Kaliszu zmusił zakon do zaprzestania ataków na Polskę. Wtedy zakon skierował siły przeciw Litwie, zajmując częściowo Żmudź. Zmusiło to księcia litewskiego Jagiełłę do przyjęcia chrztu, na którym otrzymał imię Władysław oraz ożenku z córką Ludwika Węgierskiego – Jadwigą Andegaweńską, zapoczątkowując unię polsko-litewską (1386).
 
@@ -68,7 +68,7 @@ W 1380 roku Winrych wprowadził na masową skalę szelągi (solid, Schilling), b
 
 Od 1416 roku na niektórych szelągach pojawia się też tzw. długi krzyż, dzielący pole stempla na cztery części. Poza tą zmianą, szelągi przetrwały w prawie niezmienionej formie do końca XV wieku. Długi krzyż umieszczany był na szelągach o większej zawartości krzuszcu (monety takie powstały jako próba reformy monetarnej). Wytworzyło to monetarny chaos wywołany współobiegiem różnowartościowych monet oraz wychwytywaniem egzemplarzy lepszych i przebijaniem ich na nowe, pogorszony istnieniem różnorodnych kursów wymiennych. Sytuacja ta, dokuczliwa szczególnie dla kupców, była jedną z przesłanek opozycji miast, doprowadzając do powstania Związku Pruskiego i w konsekwencji do wybuchu wojny trzynastoletniej. Sytuację monetarną miała poprawić dopiero reforma groszowa Jana von Tiefen (1489-1497) w 1492 roku. (PG. 293)
 
-Pod koniec XIV wieku za rządów Konrada von Jungingen (1393-1407), pojawia się złota moneta krzyżacka. Niewiele o niej wiadomo (do dzisiaj nie zachował się żaden egzemplarz, a jedynie wzmianka z 1394 roku o mincerzu gdańskim bijącym monety srebrne i złote z wizerunkiem Madonny). Złoty gulden krzyżacki posiadał wizerunek Matki Boskiej i odpowiadał standardowi węgierskiego florena (ok. 3,5 grama czystego złota). (VNM. 33, PG. 293) Zakon krzyżacki, opierając swą potęge militarną na najemnikach, których usługi musiał opłacać złotem, wystarał się u przychylnego mu stale cesarza Zygmunta Luksemburskiego (1411-1437) o zgodę na wybijanie wiernych imitacji florenów węgierskich. Do produkcji tych monet jednak nie doszło, być może dlatego, że wtedy właśnie doszło do bitwy pod Grunwaldem (1410) i sytuacja Zakonu diametrialnie się zmieniła. Rok później, nowo wybrany wielki mistrz Henryk von Plauen (1410-1413) wrócił do bicia guldenów w celu opłacenia wojsk zaciężnych. Monety takie wybito w Gdańsku. Na stronie głównej miały postać wielkiego mistrza w stroju rycerskim, z orłem na piersi, z mieczem i tarczą w rękach. Na stronie odwrotnej miały Madonnę. Było to pierwsze w jedyne wyobrażenie wielkiego mistrza na monetach krzyżackich. Znane są pojedyncze egzemplarze tej monety. Kolejne próby miały miejsce w 1439 roku, ale do bicia złotych monet na większa skalę nie doszło. (PG. 293)
+Pod koniec XIV wieku za rządów Konrada von Jungingen (1393-1407), pojawia się złota moneta krzyżacka. Niewiele o niej wiadomo (do dzisiaj nie zachował się żaden egzemplarz, a jedynie wzmianka z 1394 roku o mincerzu gdańskim (Dietzu Mynlein CNG. 23) bijącym monety srebrne i złote z wizerunkiem Madonny). Złoty gulden krzyżacki posiadał wizerunek Matki Boskiej i odpowiadał standardowi węgierskiego florena (ok. 3,5 grama czystego złota). (VNM. 33, PG. 293) Zakon krzyżacki, opierając swą potęge militarną na najemnikach, których usługi musiał opłacać złotem, wystarał się u przychylnego mu stale cesarza Zygmunta Luksemburskiego (1411-1437) o zgodę na wybijanie wiernych imitacji florenów węgierskich. Do produkcji tych monet jednak nie doszło, być może dlatego, że wtedy właśnie doszło do bitwy pod Grunwaldem (1410) i sytuacja Zakonu diametrialnie się zmieniła. Rok później, nowo wybrany wielki mistrz Henryk von Plauen (1410-1413) wrócił do bicia guldenów w celu opłacenia wojsk zaciężnych. Monety takie wybito w Gdańsku. Na stronie głównej miały postać wielkiego mistrza w stroju rycerskim, z orłem na piersi, z mieczem i tarczą w rękach. Na stronie odwrotnej miały Madonnę. Było to pierwsze w jedyne wyobrażenie wielkiego mistrza na monetach krzyżackich. Znane są pojedyncze egzemplarze tej monety. Kolejne próby miały miejsce w 1439 roku, ale do bicia złotych monet na większa skalę nie doszło. (PG. 293)
 
 <a id='len'></a>
 ## Lenne monety krzyżackie (1466-1525)
@@ -617,7 +617,7 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
   </tr>
   <tr>
     <th>Mennica</th>
-    <td>Toruń</td>
+    <td>Toruń lub Gdańsk?</td>
   </tr>
   <tr>
     <th>Materiał</th>
@@ -649,7 +649,7 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
   </tr>
   <tr>
     <th>Literatura</th>
-    <td>Neumann 4</td>
+    <td>Neumann 4, CNG. 15b</td>
   </tr>
   <tr>
     <th>Uwagi</th>
@@ -679,7 +679,7 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
   </tr>
   <tr>
     <th>Mennica</th>
-    <td>Toruń</td>
+    <td>Toruń lub Gdańsk?</td>
   </tr>
   <tr>
     <th>Materiał</th>
@@ -711,7 +711,7 @@ Poniżej znajduje się poczet tych wielkich mistrzów i zarządców, którzy emi
   </tr>
   <tr>
     <th>Literatura</th>
-    <td>Vossberg 144</td>
+    <td>Vossberg 144, CNG. 16</td>
   </tr>
   <tr>
     <th>Uwagi</th>
