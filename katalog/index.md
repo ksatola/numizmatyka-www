@@ -44,5 +44,5 @@
     - [ ] [Wacław II Przemyślida (1300-1305)]()
     - [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
     - [ ] [Ober-Ost (1916-1917)]()
-    - [.] [Wolne Miasto Gdańsk (1920-1939)](./pages/k4.md)
+    - [X] [Wolne Miasto Gdańsk (1920-1939)](./pages/k4.md)
 - [.] [Literatura](../pages/Literatura.md)
