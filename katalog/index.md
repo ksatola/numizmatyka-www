@@ -15,13 +15,13 @@
 
 - [x] [Monety greckie, rzymskie, celtyckie, bizantyjskie i islamskie (VI w. p.n.e. - X w. n.e.)](./pages/k2.md)
 - [x] [Monety na ziemiach polskich (X-XIII w.)](./pages/k3.md)
-- [ ] [Monety Królestwa Polskiego 1306-1506]()
+- [x] Monety Królestwa Polskiego 1306-1506
     - [x] [Władysław II Jagiełło (1386-1434, koronowany w 1386)](./pages/k5.md)
     - [x] [Władysław III Warneńczyk (1434-1444, koronowany w 1434)](./pages/k6.md)
     - [x] [Kazimierz IV Jagiellończyk (1447-1492, koronowany w 1447)](./pages/k7.md)
     - [x] [Jan I Olbracht Jagiellończyk (1492-1501, koronowany w 1492)](./pages/k8.md)
     - [x] [Aleksander I Jagiellończyk (1501-1506, koronowany w 1501)](./pages/k9.md)
-- [ ] [Monety polskie (1506-1795)]()
+- [ ] Monety polskie (1506-1795)
     - [ ] [Zygmunt I Stary (1506-1548)]()
     - [ ] [Zygmunt II August (1548-1575)]()
     - [ ] [Bezkrólewie i oblężenie Gdańska]()
@@ -33,13 +33,13 @@
     - [ ] [August II Mocny (1697-1733)]()
     - [ ] [August III Sas (1733-1763)]()
     - [ ] [Stanisław August Poniatowski (1764-1795)]()
-- [ ] [Polska pod zaborami 1772-1864]()
-- [ ] [Monety na ziemiach polskich (1916-1945)]()
+- [ ] Polska pod zaborami 1772-1864
+- [ ] Monety na ziemiach polskich (1916-1945)
     - [ ] [II RP (1924-1932)]()
     - [ ] [II RP (1932-1939)]()
     - [ ] [Generalna Gubernia (1939-1945)]()
     - [ ] [Getto w Łodzi (1940-1944)]() - opis: https://www.jhi.pl/artykuly/lodzkie-getto-najwiekszy-oboz-pracy-niewolniczej,253
-- [ ] [Monety z Polską związane]()
+- [ ] Monety z Polską związane
     - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k1.md)
     - [ ] [Wacław II z Przemyślidów (1300-1305)]()
     - [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
