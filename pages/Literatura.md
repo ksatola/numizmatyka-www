@@ -8,6 +8,7 @@
 | Skrót | Tytuł | Autor | Rok wydania | Uwagi |
 | :-: | :- | :- | :-: | :- |
 | **CNG** | Corpvs Nvmmorvm Gedanensis | Jarosław Dutkowski, Adam Suchanek | 2000 |  |
+| **Cyw** | Dziesięć wieków pieniądza polskiego | Henryk Cywiński | 1982 |  |
 | **DMK** | Dzieje mennicy krakowskiej | Marian Gumowski | 1927 | Dostępny jest reprint |
 | **GumP** | Podręcznik Numizmatyki Polskiej | Marian Gumowski | 1914 | Dostępny jest reprint PTN |
 | **Kop** | Ilustrowany skorowidz pieniędzu polskich i z Polską związanych | Edmund Kopicki | 1995 |  |
@@ -17,7 +18,9 @@
 | **PG** | Pradzieje grosza | Ryszard Kiersnowski | 1914 |  |
 | **PGWMG** | Pieniądz gdański 1814-1939 | Marian Gumowski, Marian Pelczar | 1960 |  |
 | **PPP** | Początki pieniądza polskiego | Ryszard Kiersnowski | 1962 |  |
+| **Str** | Dawne monety polskie Dynastii Piastów i Jagiellonów cz. 1-3 | Kazimierz Stronczyński | 2021 | Reprint |
 | **VNM** | Varia numizmatyczne | Dariusz Marzęta | 2016 |  |
+| **WCN65** | Katalog WCN, aukcja nr 65, 14 maja 2016 - Piękno monety polskiej - Opowieść o władcach, artystach i symbolach | Witold Garbaczewski | 2016 |  |
 | **WMM** | Wielkopolska w monetach i medalach. Podróż przez tysiąclecie - katalog wystawy Muzeum Narodowego w Poznaniu | Witold Garbaczewski, Agnieszka Murawska | 2022 |  |
 | **WRM** | Wielka reforma monetarna XIII-XIV w. | Ryszard Kiersnowski | 1969 |  |
 
