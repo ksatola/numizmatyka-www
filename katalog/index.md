@@ -20,7 +20,7 @@
     - [x] [Władysław III Warneńczyk (1434-1444, koronowany w 1434)](./pages/k6.md)
     - [x] [Kazimierz IV Jagiellończyk (1447-1492, koronowany w 1447)](./pages/k7.md)
     - [x] [Jan I Olbracht Jagiellończyk (1492-1501, koronowany w 1492)](./pages/k8.md)
-    - [ ] [Aleksander I Jagiellończyk (1501-1506)]()
+    - [x] [Aleksander I Jagiellończyk (1501-1506, koronowany w 1501)](./pages/k9.md)
 - [ ] [Monety polskie (1506-1795)]()
     - [ ] [Zygmunt I Stary (1506-1548)]()
     - [ ] [Zygmunt II August (1548-1575)]()

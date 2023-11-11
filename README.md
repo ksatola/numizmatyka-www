@@ -1,6 +1,6 @@
 ### Artykuły (referaty obcych badań)
 - [ ] [Podstawowe pojęcia i informacje na temat monet]()
-- [ ] [Narodziny złotego](./pages/Narodziny_zlotego.md)
+- [.] [Narodziny złotego](./pages/Narodziny_zlotego.md)
 - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/Monety_Zakonu_Krzyzackiego.md)
 - [ ] [Literatura numizmatyczna](./pages/Literatura.md)
 
