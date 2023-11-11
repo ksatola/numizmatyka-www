@@ -17,7 +17,7 @@
 - [x] [Monety na ziemiach polskich (X-XIII w.)](./pages/k3.md)
 - [ ] [Monety Królestwa Polskiego 1306-1506]()
     - [x] [Władysław II Jagiełło (1386-1434, koronowany w 1386)](./pages/k5.md)
-    - [ ] [Władysław III Warneńczyk (1434-1444)]()
+    - [x] [Monety Władysława III Warneńczyka (1434-1444, koronowany w 1434)](./pages/k6.md)
     - [ ] [Kazimierz IV Jagiellończyk (1447-1492)]()
     - [ ] [Jan I Olbracht Jagiellończyk (1492-1501)]()
     - [ ] [Aleksander I Jagiellończyk (1501-1506)]()
