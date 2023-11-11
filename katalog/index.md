@@ -41,8 +41,8 @@
     - [ ] [Getto w Łodzi (1940-1944)]() - opis: https://www.jhi.pl/artykuly/lodzkie-getto-najwiekszy-oboz-pracy-niewolniczej,253
 - [ ] [Monety z Polską związane]()
     - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k1.md)
-    - [ ] [Wacław II Przemyślida (1300-1305)]()
+    - [ ] [Wacław II z Przemyślidów (1300-1305)]()
     - [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
     - [ ] [Ober-Ost (1916-1917)]()
-    - [X] [Wolne Miasto Gdańsk (1920-1939)](./pages/k4.md)
+    - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k4.md)
 - [.] [Literatura](../pages/Literatura.md)
