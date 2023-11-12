@@ -23,9 +23,8 @@
     - [x] [Aleksander I Jagiellończyk (1501-1506)](./pages/k09.md)
 - [ ] Monety polskie (1506-1795)
     - [x] [Zygmunt I Stary (1507-1548)](./pages/k10.md)
-    - [.] [Zygmunt II August (1548-1572)](./pages/k10.md)
-    - Henryk Walezy
-    - [ ] [Bezkrólewie i oblężenie Gdańska]()
+    - [x] [Zygmunt II August (1548-1572)](./pages/k11.md)
+    - Henryk III Walezy (1574-1575), bezkrólewie i oblężenie Gdańska
     - [ ] [Stefan Batory (1576-1586)]()
     - [ ] [Zygmunt III Waza (1587-1632)]()
     - [ ] [Władysław IV Waza (1632-1648)]()
