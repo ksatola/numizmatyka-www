@@ -2,6 +2,9 @@
 - [ ] [Podstawowe pojęcia i informacje na temat monet]()
 - [.] [Narodziny złotego](./pages/Narodziny_zlotego.md)
 - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/Monety_Zakonu_Krzyzackiego.md)
+- [.] [Monety Zygmunta I Starego (1506-1548)](./pages/Monety_Zygmunta_Starego.md)
+- [.] [Monety lenne Prus Książęcych (1525-1657)](./pages/Monety_Lenne_Prus_Ksiazecych.md)
+- [.] [Monety lenne Kurlandii i Semigalii (1561-1795)](./pages/Monety_Lenne_Kurlandii.md)
 - [ ] [Literatura numizmatyczna](./pages/Literatura.md)
 
 ### Prezentacje

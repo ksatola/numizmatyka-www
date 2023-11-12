@@ -13,16 +13,16 @@
 
 ## Katalog
 
-- [x] [Monety greckie, rzymskie, celtyckie, bizantyjskie i islamskie (VI w. p.n.e. - X w. n.e.)](./pages/k2.md)
-- [x] [Monety na ziemiach polskich (X-XIII w.)](./pages/k3.md)
+- [x] [Monety greckie, rzymskie, celtyckie, bizantyjskie i islamskie (VI w. p.n.e. - X w. n.e.)](./pages/k02.md)
+- [x] [Monety na ziemiach polskich (X-XIII w.)](./pages/k03.md)
 - [x] Monety Królestwa Polskiego 1306-1506
-    - [x] [Władysław II Jagiełło (1386-1434)](./pages/k5.md)
-    - [x] [Władysław III Warneńczyk (1434-1444)](./pages/k6.md)
-    - [x] [Kazimierz IV Jagiellończyk (1447-1492)](./pages/k7.md)
-    - [x] [Jan I Olbracht Jagiellończyk (1492-1501)](./pages/k8.md)
-    - [x] [Aleksander I Jagiellończyk (1501-1506)](./pages/k9.md)
+    - [x] [Władysław II Jagiełło (1386-1434)](./pages/k05.md)
+    - [x] [Władysław III Warneńczyk (1434-1444)](./pages/k06.md)
+    - [x] [Kazimierz IV Jagiellończyk (1447-1492)](./pages/k07.md)
+    - [x] [Jan I Olbracht Jagiellończyk (1492-1501)](./pages/k08.md)
+    - [x] [Aleksander I Jagiellończyk (1501-1506)](./pages/k09.md)
 - [ ] Monety polskie (1506-1795)
-    - [ ] [Zygmunt I Stary (1506-1548)]()
+    - [ ] [Zygmunt I Stary (1506-1548)](./pages/k10.md)
     - [ ] [Zygmunt II August (1548-1575)]()
     - [ ] [Bezkrólewie i oblężenie Gdańska]()
     - [ ] [Stefan Batory (1576-1586)]()
@@ -40,9 +40,9 @@
     - [ ] [Generalna Gubernia (1939-1945)]()
     - [ ] [Getto w Łodzi (1940-1944)]() - opis: https://www.jhi.pl/artykuly/lodzkie-getto-najwiekszy-oboz-pracy-niewolniczej,253
 - [ ] Monety z Polską związane
-    - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k1.md)
+    - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k01.md)
     - [ ] [Wacław II z Przemyślidów (1300-1305)]()
     - [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
     - [ ] [Ober-Ost (1916-1917)]()
-    - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k4.md)
+    - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
 - [.] [Literatura](../pages/Literatura.md)
