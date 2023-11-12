@@ -3,6 +3,7 @@
 
 # Monety Zygmunta I Starego (1506-1548, koronowany w 1507)
 
+Nie ma sensu tego opisywać, skoro wszystko jest w Wikipedii? Można co najzwyżej wybrać monety i umieścić ich zdjęcia? Mam dosyć długi opis tutaj.
 XXXXXXXX
 
 https://pl.wikipedia.org/wiki/Monety_Zygmunta_I_Starego

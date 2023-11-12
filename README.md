@@ -5,7 +5,9 @@
 - [.] [Monety Zygmunta I Starego (1506-1548)](./pages/Monety_Zygmunta_Starego.md)
 - [.] [Monety lenne Prus Książęcych (1525-1657)](./pages/Monety_Lenne_Prus_Ksiazecych.md)
 - [.] [Monety lenne Kurlandii i Semigalii (1561-1795)](./pages/Monety_Lenne_Kurlandii.md)
-- [ ] [Literatura numizmatyczna](./pages/Literatura.md)
+- [.] [Decjusza i Kopernika traktaty o monecie](./pages/Decjusz_i_Kopernik.md)
+- [.] [Monety Zygmunta II Augusta (1548-1575)](./pages/Monety_Zygmunta_Augusta.md)
+- [.] [Literatura numizmatyczna](./pages/Literatura.md)
 
 ### Prezentacje
 - [x] [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
