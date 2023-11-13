@@ -3,19 +3,16 @@
 
 # Monety Zygmunta I Starego (1506-1548, koronowany w 1507)
 
-Nie ma sensu tego opisywać, skoro wszystko jest w Wikipedii? Można co najzwyżej wybrać monety i umieścić ich zdjęcia? Mam dosyć długi opis tutaj.
-XXXXXXXX
-
-https://pl.wikipedia.org/wiki/Monety_Zygmunta_I_Starego
+Szczegółowy opis mennictwa Zygmunta Starego znajduje się na stronie [Monety Zygmunta I Starego](https://pl.wikipedia.org/wiki/Monety_Zygmunta_I_Starego).
 
 
 ## Spis treści
 
-- [Ogólnie o reformie](#rys)
+- [Moje notatki](#rys)
 
 
 <a id='rys'></a>
-## Ogólnie o reformie
+## Moje notatki
 
 ### Rys historyczny
 Zygmunt I Stary (ur. 1 stycznia 1467 w Kozienicach, zm. 1 kwietnia 1548 w Krakowie) – od roku 1506 wielki książę litewski, od 1507 roku król Polski. Był przedostatnim z dynastii Jagiellonów. Na tronie polskim zasiadł po śmierci swego brata Aleksandra Jagiellończyka. Był przedostatnim z sześciu synów Kazimierza IV Jagiellończyka i Elżbiety Rakuszanki, ojcem Zygmunta II Augusta. Dwukrotnie żonaty: z Barbarą Zápolyą (1512), a po jej śmierci z Boną z rodu Sforzów (1518).
@@ -68,60 +65,6 @@ Za Zygmunta I, dukat (czerwony złoty) = 1,5 złotego polskiego (jednostka obrac
 
 
 XXXXXXXX TODO: Więcej w Podręczniku Numizmatyki Polskiej M.Gumowskiego, str. 51 oraz Dziesięć wieków pieniądza polskiego H.Cywińskiego, od str. 62.      
-
-
-------------------------------------------------------------
-
-
-
-- [Monety krzyżackie (1226-1466)](#mon)
-- [Lenne monety krzyżackie (1466-1525)](#len)
-- [Systemy rachunkowo-pieniężne państwa krzyżackiego](#sys)
-- [Emitenci monet chronologicznie](#emi)
-- [Przykładowe typy monet (okres I)](#m1)
-    - [Fenigi (beznapisowe brakteaty) z lat 1466-1525](#m1-1)
-    - [Winrych von Kniprode (1351-1382)](#m1-2)
-    - [Konrad I Zöllner von Rothenstein (1382-1390)](#m1-3)
-    - [Konrad III von Jungingen (1393-1407)](#m1-4)
-    - [Ulryk von Jungingen (1407-1410)](#m1-5)
-    - [Henryk von Plauen (1410-1413)](#m1-6)
-    - [Herman Gans, zarządca (1413-1414)](#m1-7)
-    - [Michał I Küchmeister von Sternberg (1414–1422)](#m1-8)
-    - [Paweł von Russdorf (1422-1441)](#m1-9)
-- [Przykładowe typy monet (okres II)](#m2)
-    - [Fenigi (beznapisowe brakteaty) z lat 1466-1525](#m2-1)
-    - [Ludwik von Erlichshausen (1450-1467)](#m2-2)
-    - [Henryk Reuss von Plauen (1467-1470)](#m2-3)
-    - [Henryk Reffle von Richtenberg (1470-1477)](#m2-4)
-    - [Marcin Truchsess von Wetzhausen (1477–1489)](#m2-5)
-    - [Jan von Tiefen (1489-1497)](#m2-6)
-    - [Fryderyk Saski (1498-1510)](#m2-7)
-    - [Albrecht von Hohenzollern ks. brandenburski (1511-1525)](#m2-8)
-
-
-<a id='rys'></a>
-## Rys historyczny
-Terytorium późniejszych Prus przed podbojem krzyżackim zamieszkiwały ludy bałtyjskie, spokrewnione z zamieszkującym dalej na północ Litwinami, Kurami, Zemgalami, Zelami i Łetgalami. Liczebność plemion pruskich ocenia się na ok. 170 tys., co daje siłę wojskową rzędu 17 tys. wojowników. Aż do podboju Prus przez krzyżaków Prusowie wykształcili jedynie szczątkowe formy państwowości, swą organizację opierając na ustroju wiecowym.
-
-<a id='mon'></a>
-## Monety krzyżackie (1226-1466)
-System monetarny krzyżaków był dopasowany do systemu zachodnio- (opartego na grzywnie kolońskiej) i wschodnioniemieckiego (opartego na grzywnie chełmińskiej o wadze 190-195 gramów, podobnej do polskiej (stopa mennicza ustalona w akcie lokacji Chemłna w 1233 roku - GumP. 44)). Wg tego systemu, pięć zakonnych brakteatów (fenigów, denarów) ważyło tyle samo ile ważył jeden denar koloński, czyli niespełna 1,4 grama. Monety bito w kilku mennicach, z którch najważniejsza umiejscowiona była w Toruniu. Łamliwe brakteaty były wymieniane na nowe co 10 lat w stosunku 14 starych za 12 nowych. Stabilna moneta krzyżacka zadomowiła się też na ziemiach polskich sąsiadujących z zakonnymi, głównie na Mazowszu i Kujawach gdzie nazywano ją monetą "toruńską" lub "niemiecką". (PG. 293)
-
-
-<a id='m1-1'></a>
-### Fenigi (beznapisowe brakteaty) z lat 1226-1466
-
-<img src="images/zakon_0028_a.jpg" width="500px" height="500px"/> <img src="images/zakon_0028_a.jpg" width="500px" height="500px"/>
-    
-| Rok | Lata emisji | Nominał | Mennica | Materiał | Waga [g] | Średnica [mm] | Rant |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| brak | 1236-1248 | Fenig (brakteat beznapisowy) | Toruń | Ag | 0,27 | 19 | gładki |
-
-| Awers | Rewers | Literatura | Uwagi | Źródło |
-| :- | :- | :-: | :- | :-: |
-| Stojący rycerz trzymający przed sobą tarczę w prawej ręce i flagę w lewej ręce | - | E. Waschinski, Brakteaten und Denare des Deutschen Ordens (1934) Nr. 11 |  | [Bode](https://ikmk.smb.museum/object?lang=en&id=18206607) |
-
------------------------------------------------------------------
 
 
 [Powrót](https://numizmatyka.satola.net)
