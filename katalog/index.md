@@ -25,7 +25,7 @@
     - [x] [Zygmunt I Stary (1507-1548)](./pages/k10.md)
     - [x] [Zygmunt II August (1548-1572)](./pages/k11.md)
     - Henryk III Walezy (1574-1575), bezkrólewie i oblężenie Gdańska
-    - [.] [Stefan Batory (1576-1586)](./pages/k12.md)
+    - [x] [Stefan Batory (1576-1586)](./pages/k12.md)
     - [ ] [Zygmunt III Waza (1587-1632)]()
     - Władysław IV Waza (1632-1648)
     - [ ] [Jan II Kazimierz (1648-1668)]()
