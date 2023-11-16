@@ -26,9 +26,10 @@
     - [x] [Zygmunt II August (1548-1572)](./pages/k11.md)
     - Henryk III Walezy (1574-1575), bezkrólewie i oblężenie Gdańska
     - [x] [Stefan Batory (1576-1586)](./pages/k12.md)
-    - [ ] [Zygmunt III Waza (1587-1632)]()
+    - [.] [Zygmunt III Waza (1587-1632)](./pages/k13.md)
     - Władysław IV Waza (1632-1648)
     - [ ] [Jan II Kazimierz (1648-1668)]()
+    - Michał Korybut Wiśniowiecki (1669-1673)
     - [ ] [Jan III Sobieski (1674-1696)]()
     - [ ] [August II Mocny (1697-1733)]()
     - [ ] [August III Sas (1733-1763)]()
