@@ -12,9 +12,11 @@
 | **DMK** | Dzieje mennicy krakowskiej | Marian Gumowski | 1927 | Dostępny jest reprint |
 | **GGK** | Grosze głogowskie i krakowski Zygmunta I Starego z lat 1505-1548 | Grzegorz Romańczyk | 2022 |  |
 | **GumP** | Podręcznik Numizmatyki Polskiej | Marian Gumowski | 1914 | Dostępny jest reprint PTN |
+| **IVAN** | Coins of Lithuania 1386-2009 | E. Ivanauskas | 2022 |  |
 | **Kop** | Ilustrowany skorowidz pieniędzu polskich i z Polską związanych | Edmund Kopicki | 1995 |  |
 | **Kop9-4** | Katalog podstawowych typów monet i banknotów Polski oraz ziem historycznie z Polską związanych - Tom IX cz. 4 - Legendy, znaki mennicze, gatunki monet i inne elementy klasyfikacji | Edmund Kopicki | 1989 |  |
 | **LMK** | Lenne monety krzyżackie | Andrzej Schmidt | 1979 |  |
+| **Marz** | Herby i znaki mennicze na szelągach polskich i z Polską związanych | Dariusz Marzęta | 2014 |  |
 | **NSS** | Numizmatyka średniowieczna | Stanisław Suchodolski | 2012 |  |
 | **PG** | Pradzieje grosza | Ryszard Kiersnowski | 1914 |  |
 | **PGWMG** | Pieniądz gdański 1814-1939 | Marian Gumowski, Marian Pelczar | 1960 |  |
