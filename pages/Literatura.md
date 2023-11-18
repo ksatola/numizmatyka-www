@@ -14,6 +14,7 @@
 | **GumP** | Podręcznik Numizmatyki Polskiej | Marian Gumowski | 1914 | Dostępny jest reprint PTN |
 | **IVAN** | Coins of Lithuania 1386-2009 | E. Ivanauskas | 2022 |  |
 | **Kop** | Ilustrowany skorowidz pieniędzu polskich i z Polską związanych | Edmund Kopicki | 1995 |  |
+| **Kop2** | Monety Zygmunta III Wazy | Edmund Kopicki | 2021 |  |
 | **Kop9-4** | Katalog podstawowych typów monet i banknotów Polski oraz ziem historycznie z Polską związanych - Tom IX cz. 4 - Legendy, znaki mennicze, gatunki monet i inne elementy klasyfikacji | Edmund Kopicki | 1989 |  |
 | **LMK** | Lenne monety krzyżackie | Andrzej Schmidt | 1979 |  |
 | **Marz** | Herby i znaki mennicze na szelągach polskich i z Polską związanych | Dariusz Marzęta | 2014 |  |
