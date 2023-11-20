@@ -35,6 +35,11 @@
     - [ ] [August III Sas (1733-1763)]()
     - [ ] [Stanisław August Poniatowski (1764-1795)]()
 - [ ] Polska pod zaborami 1772-1864
+    - [ ] [Księstwo Warszawskie (1807-1815)]()
+    - [ ] [Królewstwo Polskie (1815-1835)]()
+    - [ ] [Powstanie listopadowe (1830-1831)]()
+    - [ ] [Wolne Miasto Kraków (1835)]()
+    - [ ] [Zabór rosyjski (1832-1864)]()
 - [ ] Monety na ziemiach polskich (1916-1945)
     - [ ] [II RP (1924-1932)]()
     - [ ] [II RP (1932-1939)]()
