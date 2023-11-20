@@ -28,6 +28,7 @@
 | **WCN50** | Katalog WCN, aukcja nr 50, 24 lutego 2012 - Podobna jest moneta nasza do urodnej panny - Mała historia pieniądza polskiego | Borys Paszkiewicz | 2012 |  |
 | **WCN65** | Katalog WCN, aukcja nr 65, 14 maja 2016 - Piękno monety polskiej - Opowieść o władcach, artystach i symbolach | Witold Garbaczewski | 2016 |  |
 | **WMM** | Wielkopolska w monetach i medalach. Podróż przez tysiąclecie - katalog wystawy Muzeum Narodowego w Poznaniu | Witold Garbaczewski, Agnieszka Murawska | 2022 |  |
+| **WMS** | Miedziane szelągi Jana Kazimierza Wazy z lat 1659-1667 | Cezary Wolski | 2016 |  |
 | **WRM** | Wielka reforma monetarna XIII-XIV w. | Ryszard Kiersnowski | 1969 |  |
 
 ## Biblioteki cyfrowe
