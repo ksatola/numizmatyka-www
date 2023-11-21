@@ -32,7 +32,7 @@
     - Michał Korybut Wiśniowiecki (1669-1673)
     - [x] [Jan III Sobieski (1674-1696)](./pages/k15.md)
     - [.] [August II Mocny (1697-1706, 1709-1733)](./pages/k16.md)
-    - [ ] [August III Sas (1733-1763)]()
+    - [.] [August III Sas (1733-1763)](./pages/k17.md)
     - [ ] [Stanisław August Poniatowski (1764-1795)]()
 - [ ] Polska pod zaborami 1772-1864
     - [ ] [Księstwo Warszawskie (1807-1815)]()
