@@ -21,6 +21,9 @@
 | **NSS** | Numizmatyka średniowieczna | Stanisław Suchodolski | 2012 |  |
 | **PG** | Pradzieje grosza | Ryszard Kiersnowski | 1914 |  |
 | **PGWMG** | Pieniądz gdański 1814-1939 | Marian Gumowski, Marian Pelczar | 1960 |  |
+| **Plage1** | Okres Stanisława Augusta w historii numizmatyki polskiej | Karol Plage | 1970 | Reprint |
+| **Plage2** | Monety bite dla prowincyi polskich, przez Austrię i Prusy oraz monety Wolnego Miasta Gdańska, Księstwa Warszawskiego i w oblężeniu Zamościa | Karol Plage | 1970 | Reprint |
+| **Plage3** | Monety bite dla Królestwa Polskiego w latach 1815-1864 i monety bite dla Miasta Krakowa w roku 1835 | Karol Plage | 1972 | Reprint |
 | **PPP** | Początki pieniądza polskiego | Ryszard Kiersnowski | 1962 |  |
 | **PSM** | Silesiorum moneta czyli mennictwo śląskie w późnym średniowieczu (1419-1526) z katalogiem monet śląskich, kłodzkich i łużyckich z lat 1327-1526 | Borys Paszkiewicz | 2021 |  |
 | **Str** | Dawne monety polskie Dynastii Piastów i Jagiellonów cz. 1-3 | Kazimierz Stronczyński | 2021 | Reprint |

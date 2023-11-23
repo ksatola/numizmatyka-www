@@ -35,7 +35,10 @@
     - [.] [August III Sas (1733-1763)](./pages/k17.md)
     - [.] [Stanisław August Poniatowski (1764-1795)](./pages/k18.md)
 - [ ] Polska pod zaborami 1772-1864
-    - [ ] [Księstwo Warszawskie (1807-1815)]()
+    - Zabór austryjacki (1774-1777, 1794) - Galicja i Lodomeria, Księstwo Oświęcimsko-Zatorskie
+    - Zabór pruski (1796-1798, 1801, 1816-1818) - Prusy Południowe, Gdańsk, Wielkie Księstwo Poznańskie
+    - [.] [Księstwo Warszawskie (1807-1815)](./pages/k19.md)
+    - Wolne Miasto Gdańsk (1808-1812)
     - [ ] [Królewstwo Polskie (1815-1835)]()
     - [ ] [Powstanie listopadowe (1830-1831)]()
     - [ ] [Wolne Miasto Kraków (1835)]()
