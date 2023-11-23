@@ -33,7 +33,7 @@
     - [x] [Jan III Sobieski (1674-1696)](./pages/k15.md)
     - [.] [August II Mocny (1697-1706, 1709-1733)](./pages/k16.md)
     - [.] [August III Sas (1733-1763)](./pages/k17.md)
-    - [ ] [Stanisław August Poniatowski (1764-1795)]()
+    - [.] [Stanisław August Poniatowski (1764-1795)](./pages/k18.md)
 - [ ] Polska pod zaborami 1772-1864
     - [ ] [Księstwo Warszawskie (1807-1815)]()
     - [ ] [Królewstwo Polskie (1815-1835)]()
