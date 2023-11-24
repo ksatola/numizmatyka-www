@@ -21,7 +21,7 @@
     - [x] [Kazimierz IV Jagiellończyk (1447-1492)](./pages/k07.md)
     - [x] [Jan I Olbracht Jagiellończyk (1492-1501)](./pages/k08.md)
     - [x] [Aleksander I Jagiellończyk (1501-1506)](./pages/k09.md)
-- [ ] Monety polskie (1506-1795)
+- [x] Monety polskie (1506-1795)
     - [x] [Zygmunt I Stary (1507-1548)](./pages/k10.md)
     - [x] [Zygmunt II August (1548-1572)](./pages/k11.md)
     - Henryk III Walezy (1574-1575), bezkrólewie i oblężenie Gdańska
@@ -37,7 +37,7 @@
 - [ ] Polska pod zaborami 1772-1864
     - Zabór austryjacki (1774-1777, 1794) - Galicja i Lodomeria, Księstwo Oświęcimsko-Zatorskie
     - Zabór pruski (1796-1798, 1801, 1816-1818) - Prusy Południowe, Gdańsk, Wielkie Księstwo Poznańskie
-    - [.] [Księstwo Warszawskie (1807-1815)](./pages/k19.md)
+    - [x] [Księstwo Warszawskie (1807-1815)](./pages/k19.md)
     - Wolne Miasto Gdańsk (1808-1812)
     - Oblężenie Zamościa (1813)
     - [ ] [Królestwo Polskie Kongresowe - okres autonomii (1815-1830)]()
