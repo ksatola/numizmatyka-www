@@ -32,8 +32,8 @@
     - Michał Korybut Wiśniowiecki (1669-1673)
     - [x] [Jan III Sobieski (1674-1696)](./pages/k15.md)
     - [x] [August II Mocny (1697-1706, 1709-1733)](./pages/k16.md)
-    - [.] [August III Sas (1733-1763)](./pages/k17.md)
-    - [.] [Stanisław August Poniatowski (1764-1795)](./pages/k18.md)
+    - [x] [August III Sas (1733-1763)](./pages/k17.md)
+    - [x] [Stanisław August Poniatowski (1764-1795)](./pages/k18.md)
 - [ ] Polska pod zaborami 1772-1864
     - Zabór austryjacki (1774-1777, 1794) - Galicja i Lodomeria, Księstwo Oświęcimsko-Zatorskie
     - Zabór pruski (1796-1798, 1801, 1816-1818) - Prusy Południowe, Gdańsk, Wielkie Księstwo Poznańskie
