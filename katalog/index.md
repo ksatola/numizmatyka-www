@@ -40,7 +40,7 @@
     - [x] [Księstwo Warszawskie (1807-1815)](./pages/k19.md)
     - Wolne Miasto Gdańsk (1808-1812)
     - Oblężenie Zamościa (1813)
-    - [.] [Królestwo Polskie Kongresowe - okres autonomii (1815-1830)]((./pages/k20.md)
+    - [.] [Królestwo Polskie Kongresowe - okres autonomii (1815-1830)](./pages/k20.md)
     - [ ] [Powstanie listopadowe (1830-1831)]()
     - [ ] [Królestwo Polskie Kongresowe (1832-1864)]()
     - [ ] [Wolne Miasto Kraków (1835)]()
