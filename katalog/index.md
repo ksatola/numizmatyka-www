@@ -56,5 +56,5 @@
     - [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
     - [ ] [Ober-Ost (1916-1917)]()
     - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
-    - [ ] [Pieniądz zastępczy i dominialny]()
+    - [.] [Pieniądz zastępczy i dominialny](./pages/k25.md)
 - [.] [Literatura](../pages/Literatura.md)
