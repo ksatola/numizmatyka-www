@@ -42,7 +42,7 @@
     - Oblężenie Zamościa (1813)
     - [.] [Królestwo Polskie Kongresowe - okres autonomii (1815-1830)](./pages/k20.md)
     - [.] [Powstanie listopadowe (1830-1831)](./pages/k21.md)
-    - [ ] [Królestwo Polskie Kongresowe (1832-1864)]()
+    - [.] [Królestwo Polskie Kongresowe (1832-1864)](./pages/k22.md)
     - [ ] [Wolne Miasto Kraków (1835)]()
     - [ ] [Monety niepolskie na ziemiach polskich (1864-1916)]()
 - [ ] Monety na ziemiach polskich (1916-1945)
