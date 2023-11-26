@@ -49,8 +49,8 @@
     - [x] [Królestwo Polskie Kongresowe - okres autonomii (1815-1830)](./pages/k20.md)
     - [x] [Powstanie listopadowe (1830-1831)](./pages/k21.md)
     - [x] [Królestwo Polskie Kongresowe (1832-1864)](./pages/k22.md)
-    - [.] [Wolne Miasto Kraków (1835)](./pages/k23.md)
-    - [.] [Monety niepolskie na ziemiach polskich (1864-1916)](./pages/k24.md)
+    - [x] [Wolne Miasto Kraków (1835)](./pages/k23.md)
+    - [x] [Monety niepolskie na ziemiach polskich (1864-1916)](./pages/k24.md)
     
 - [.] [Pieniądz zastępczy i dominialny](./pages/k25.md)
 - [ ] [Ober-Ost (1916-1917)]()
