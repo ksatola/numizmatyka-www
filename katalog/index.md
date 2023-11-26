@@ -18,12 +18,14 @@
 - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k01.md)
 - [ ] [Wacław II z Przemyślidów (1300-1305)]()
 - [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
+
 - Monety Królestwa Polskiego 1306-1506
     - [x] [Władysław II Jagiełło (1386-1434)](./pages/k05.md)
     - [x] [Władysław III Warneńczyk (1434-1444)](./pages/k06.md)
     - [x] [Kazimierz IV Jagiellończyk (1447-1492)](./pages/k07.md)
     - [x] [Jan I Olbracht Jagiellończyk (1492-1501)](./pages/k08.md)
     - [x] [Aleksander I Jagiellończyk (1501-1506)](./pages/k09.md)
+    
 - Monety polskie (1506-1795)
     - [x] [Zygmunt I Stary (1507-1548)](./pages/k10.md)
     - [x] [Zygmunt II August (1548-1572)](./pages/k11.md)
@@ -37,6 +39,7 @@
     - [x] [August II Mocny (1697-1706, 1709-1733)](./pages/k16.md)
     - [x] [August III Sas (1733-1763)](./pages/k17.md)
     - [x] [Stanisław August Poniatowski (1764-1795)](./pages/k18.md)
+    
 - Polska pod zaborami 1772-1864
     - Zabór austryjacki (1774-1777, 1794) - Galicja i Lodomeria, Księstwo Oświęcimsko-Zatorskie
     - Zabór pruski (1796-1798, 1801, 1816-1818) - Prusy Południowe, Gdańsk, Wielkie Księstwo Poznańskie
@@ -48,12 +51,14 @@
     - [x] [Królestwo Polskie Kongresowe (1832-1864)](./pages/k22.md)
     - [.] [Wolne Miasto Kraków (1835)](./pages/k23.md)
     - [.] [Monety niepolskie na ziemiach polskich (1864-1916)](./pages/k24.md)
+    
+- [.] [Pieniądz zastępczy i dominialny](./pages/k25.md)
 - [ ] [Ober-Ost (1916-1917)]()
+- [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
 - [ ] Monety na ziemiach polskich (1918-1945)
     - [ ] [II RP (1924-1932)]()
     - [ ] [II RP (1932-1939)]()
     - [ ] [Generalna Gubernia (1939-1945)]()
     - [ ] [Getto w Łodzi (1940-1944)]() - opis: https://www.jhi.pl/artykuly/lodzkie-getto-najwiekszy-oboz-pracy-niewolniczej,253
-- [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
-- [.] [Pieniądz zastępczy i dominialny](./pages/k25.md)
+
 - [.] [Literatura](../pages/Literatura.md)
