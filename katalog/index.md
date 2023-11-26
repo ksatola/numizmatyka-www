@@ -15,6 +15,9 @@
 
 - [x] [Monety greckie, rzymskie, celtyckie, bizantyjskie i islamskie (VI w. p.n.e. - X w. n.e.)](./pages/k02.md)
 - [x] [Monety na ziemiach polskich (X-XIII w.)](./pages/k03.md)
+- [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k01.md)
+- [ ] [Wacław II z Przemyślidów (1300-1305)]()
+- [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
 - [x] Monety Królestwa Polskiego 1306-1506
     - [x] [Władysław II Jagiełło (1386-1434)](./pages/k05.md)
     - [x] [Władysław III Warneńczyk (1434-1444)](./pages/k06.md)
@@ -40,21 +43,17 @@
     - [x] [Księstwo Warszawskie (1807-1815)](./pages/k19.md)
     - Wolne Miasto Gdańsk (1808-1812)
     - Oblężenie Zamościa (1813)
-    - [.] [Królestwo Polskie Kongresowe - okres autonomii (1815-1830)](./pages/k20.md)
+    - [x] [Królestwo Polskie Kongresowe - okres autonomii (1815-1830)](./pages/k20.md)
     - [.] [Powstanie listopadowe (1830-1831)](./pages/k21.md)
     - [.] [Królestwo Polskie Kongresowe (1832-1864)](./pages/k22.md)
     - [.] [Wolne Miasto Kraków (1835)](./pages/k23.md)
     - [.] [Monety niepolskie na ziemiach polskich (1864-1916)](./pages/k24.md)
-- [ ] Monety na ziemiach polskich (1916-1945)
+- [ ] [Ober-Ost (1916-1917)]()
+- [ ] Monety na ziemiach polskich (1918-1945)
     - [ ] [II RP (1924-1932)]()
     - [ ] [II RP (1932-1939)]()
     - [ ] [Generalna Gubernia (1939-1945)]()
     - [ ] [Getto w Łodzi (1940-1944)]() - opis: https://www.jhi.pl/artykuly/lodzkie-getto-najwiekszy-oboz-pracy-niewolniczej,253
-- [ ] Monety z Polską związane
-    - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k01.md)
-    - [ ] [Wacław II z Przemyślidów (1300-1305)]()
-    - [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
-    - [ ] [Ober-Ost (1916-1917)]()
-    - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
-    - [.] [Pieniądz zastępczy i dominialny](./pages/k25.md)
+- [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
+- [.] [Pieniądz zastępczy i dominialny](./pages/k25.md)
 - [.] [Literatura](../pages/Literatura.md)
