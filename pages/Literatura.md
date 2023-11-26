@@ -16,10 +16,13 @@
 | **Kop** | Ilustrowany skorowidz pieniędzu polskich i z Polską związanych | Edmund Kopicki | 1995 |  |
 | **Kop2** | Monety Zygmunta III Wazy | Edmund Kopicki | 2021 |  |
 | **Kop9-4** | Katalog podstawowych typów monet i banknotów Polski oraz ziem historycznie z Polską związanych - Tom IX cz. 4 - Legendy, znaki mennicze, gatunki monet i inne elementy klasyfikacji | Edmund Kopicki | 1989 |  |
+| **LITZ** | Litzmannstadt - Rozdział historii niemieckiego pieniądza | Franquinet, Hammer, Schoenawa (tłum. Jacek Szulczewski) | 2010 |  |
 | **LMK** | Lenne monety krzyżackie | Andrzej Schmidt | 1979 |  |
 | **Marz** | Herby i znaki mennicze na szelągach polskich i z Polską związanych | Dariusz Marzęta | 2014 |  |
+| **MGL** | Monety Getta Łódzkiego 1940-1944 | Jacek Sarosiek | 2016 |  |
 | **NK2021** | Numizmatyk krakowski nr 4/2021 | Praca zbiorowa | 2021 |  |
 | **NSS** | Numizmatyka średniowieczna | Stanisław Suchodolski | 2012 |  |
+| **PCWO** | Pieniądz czasów wojny i okupacji 1939-1945 | Jacek Sarosiek, Piotr Niziołek | 2021 |  |
 | **PG** | Pradzieje grosza | Ryszard Kiersnowski | 1914 |  |
 | **PGWMG** | Pieniądz gdański 1814-1939 | Marian Gumowski, Marian Pelczar | 1960 |  |
 | **Plage1** | Okres Stanisława Augusta w historii numizmatyki polskiej | Karol Plage | 1970 | Reprint |

@@ -55,10 +55,10 @@
 - [x] [Pieniądz zastępczy i dominialny](./pages/k25.md)
 - [ ] [Ober-Ost (1916-1917)]()
 - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
-- [ ] Monety na ziemiach polskich (1918-1945)
-    - [ ] [II RP (1924-1932)]()
-    - [ ] [II RP (1932-1939)]()
+- Monety na ziemiach polskich (1918-1945)
+    - [ ] [II Rzeczpospolita (1924-1932)]()
+    - [ ] [II Rzeczpospolita (1932-1939)]()
     - [ ] [Generalna Gubernia (1939-1945)]()
-    - [ ] [Getto w Łodzi (1940-1944)]() - opis: https://www.jhi.pl/artykuly/lodzkie-getto-najwiekszy-oboz-pracy-niewolniczej,253
+    - [.] [Getto w Łodzi (1940-1944)](./pages/k26.md)
 
 - [.] [Literatura](../pages/Literatura.md)
