@@ -52,7 +52,7 @@
     - [x] [Wolne Miasto Kraków (1835)](./pages/k23.md)
     - [x] [Monety niepolskie na ziemiach polskich (1864-1916)](./pages/k24.md)
     
-- [.] [Pieniądz zastępczy i dominialny](./pages/k25.md)
+- [x] [Pieniądz zastępczy i dominialny](./pages/k25.md)
 - [ ] [Ober-Ost (1916-1917)]()
 - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
 - [ ] Monety na ziemiach polskich (1918-1945)
