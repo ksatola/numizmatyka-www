@@ -50,10 +50,11 @@
     - [x] [Powstanie listopadowe (1830-1831)](./pages/k21.md)
     - [x] [Królestwo Polskie Kongresowe (1832-1864)](./pages/k22.md)
     - [x] [Wolne Miasto Kraków (1835)](./pages/k23.md)
-    - [x] [Monety niepolskie na ziemiach polskich (1864-1916)](./pages/k24.md)
-    
+
+- [x] [Monety niepolskie na ziemiach polskich (1864-1916)](./pages/k24.md)
 - [x] [Pieniądz zastępczy i dominialny](./pages/k25.md)
-- [.] [Monety niemieckich władz dla terenów wschodnich (1916)](./pages/k27.md)
+- [x] [Monety niemieckich władz dla terenów wschodnich (1916)](./pages/k27.md)
+- [.] [Monety niemieckich władz dla królestwa polskiego (1917-1918)](./pages/k28.md)
 - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
 - Monety na ziemiach polskich (1918-1945)
     - [ ] [II Rzeczpospolita (1924-1932)]()

@@ -6,10 +6,6 @@ Monety II RP opisaw qg Chalupskiego
 -  http://localhost:8888/lab?token=3f60b4780acbb64bafdb8a9e24afb9eb2db3560351d04699
 
 
-
-
-
-
 <a href="../">Powrót</a>
 
  <br /><br />
@@ -26,7 +22,12 @@ W otoku kontynuacja legendy z awersu: SAM(ogitiae) • LIV(oniae) NEC• N(on) �
 
 
 
+--------------------------------------------------
+z Ch2. 18 o biciu monet oraz o tym jak mogą powstawać różnice w monetach bitych masowo i maszynowo (od XX w.) + dalej o typach destruktów
 
+
+
+--------------------------------------------------
 
 
 

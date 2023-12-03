@@ -7,7 +7,7 @@
 
 | Skrót | Tytuł | Autor | Rok wydania | Uwagi |
 | :-: | :- | :- | :-: | :- |
-| **Ch2** | Specjalizowany Katalog Monet Polskich - Królestwo Polskie 1917—1918 | Jerzy Chałupski | 2019 |  |
+| **Ch2** | Specjalizowany Katalog Monet Polskich - Królestwo Polskie 1917—1918 | Jerzy Chałupski | 2020 |  |
 | **CNG** | Corpvs Nvmmorvm Gedanensis | Jarosław Dutkowski, Adam Suchanek | 2000 |  |
 | **Cyw** | Dziesięć wieków pieniądza polskiego | Henryk Cywiński | 1982 |  |
 | **DMK** | Dzieje mennicy krakowskiej | Marian Gumowski | 1927 | Dostępny jest reprint |
