@@ -53,7 +53,7 @@
     - [x] [Monety niepolskie na ziemiach polskich (1864-1916)](./pages/k24.md)
     
 - [x] [Pieniądz zastępczy i dominialny](./pages/k25.md)
-- [ ] [Ober-Ost (1916-1917)]()
+- [.] [Monety niemieckich władz dla terenów wschodnich (1916)](./pages/k27.md)
 - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
 - Monety na ziemiach polskich (1918-1945)
     - [ ] [II Rzeczpospolita (1924-1932)]()
