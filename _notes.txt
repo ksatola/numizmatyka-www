@@ -19,8 +19,14 @@ W otoku kontynuacja legendy z awersu: SAM(ogitiae) • LIV(oniae) NEC• N(on) �
 
 
 
+Na przełomie 1938/1939 wybito i zmagazynowano dużą partię pięćdziesięciogroszówek z datą 1938 (nr 2.14) (Ch3. 49).
 
+We wrześniu 1939, po stosunkowo niewielkich uszkodzeniach spowodowanych ostrzałem artyleryjskim, mennica została przejęła przez
+niemiecką administrację. Kierownictwo objął Eugeniusz Reinhardt, który zarządzał też Wytwórnią Papierów Wartościowych. Niemcy
+skonfiskowali i wywieźli zapasy srebra i złota. Zabezpieczyli również zbiory muzeum mennicy. W roku 1940 zażądano przekazania zbiorów do Niemiec. Podczas pakowania udało się na szczęście ukryć ich część, następnie wynieść z terenu zakładu i po wielu przenosinach do kolejnych skrytek, zakopać na posesji przy ul. Byczyńskiej. Po wojnie zbiory wykopano i przekazano do Muzeum Narodowego. (Ch3. 49)
 
+W roku 1941 rozpoczęto produkcję cynkowych monet dla Generalnego Gubernatorstwa (nr 2.3, 2.8, 2.10 i 2.12). Na monetach pozostawiono polskie legendy i daty 1923 i 1939. 12 września 1944 niemieccy saperzy wysadzili budynki mennicy, grzebiąc
+pod gruzami całe jej wyposażenie. (Ch3. 49)
 
 --------------------------------------------------
 z Ch2. 18 o biciu monet oraz o tym jak mogą powstawać różnice w monetach bitych masowo i maszynowo (od XX w.) + dalej o typach destruktów
@@ -29,7 +35,64 @@ z Ch2. 18 o biciu monet oraz o tym jak mogą powstawać różnice w monetach bit
 
 --------------------------------------------------
 
-
+<table class="center">
+  <tr>
+    <th>Nr kat.</th>
+    <td>1129</td>
+  </tr>
+  <tr>
+    <th>Rok</th>
+    <td>1925</td>
+  </tr>
+  <tr>
+    <th>Lata emisji</th>
+    <td>1923-1939</td>
+  </tr>
+  <tr>
+    <th>Nominał</th>
+    <td>1 grosz</td>
+  </tr>
+  <tr>
+    <th>Mennica</th>
+    <td>Warszawa</td>
+  </tr>
+  <tr>
+    <th>Materiał</th>
+    <td>Brąz (95% Cu, 4% Sn, 1% Zn)</td>
+  </tr>
+  <tr>
+    <th>Waga [g]</th>
+    <td>1,5</td>
+  </tr>
+  <tr>
+    <th>Średnica [mm]</th>
+    <td>14,66</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/1129 - 1925 - 1 grosz - awers.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>XXXXXXXXXXXX</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/1129 - 1925 - 1 grosz - rewers.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>XXXXXXXXXXXX</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>Parch2. 101b; Ch3. 2.2.1.b</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>Projektant: Wojciech Jastrzębowski<br /><br />W obiegu: 1924-05-31 - 1939<br /><br />Są 2 warianty tej monety (Ch3. 58)<br /><br /></td>
+  </tr>
+</table>
 
 
 
