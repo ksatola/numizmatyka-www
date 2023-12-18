@@ -54,8 +54,9 @@
 - [X] [Wolne Miasto Gdańsk (1919-1939)](./pages/k04.md)
 - [.] [Monety na ziemiach polskich (1918-1945)](./pages/k29.md)
     - [.] [II Rzeczpospolita (1924-1932)](./pages/k30.md)
+    - [.] [II Rzeczpospolita, monety złote (1925)](./pages/k33.md)
     - [.] [II Rzeczpospolita (1932-1939)](./pages/k31.md)
-    - [.] [Generalna Gubernia (1939-1945)](./pages/k32.md)
+    - [.] [Generalna Gubernia (1939-1945)](./pages/k34.md)
     - [.] [Getto w Łodzi (1940-1944)](./pages/k26.md)
 
 - [.] [Literatura](../pages/Literatura.md)
