@@ -55,7 +55,7 @@
 - [x] [Monety na ziemiach polskich (1918-1945)](./pages/k29.md)
     - [x] [II Rzeczpospolita (1923-1927)](./pages/k30.md)
     - [x] [II Rzeczpospolita, monety złote (1925)](./pages/k33.md)
-    - [.] [II Rzeczpospolita (1928-1932)](./pages/k35.md)
+    - [x] [II Rzeczpospolita (1928-1932)](./pages/k35.md)
     - [.] [II Rzeczpospolita (1932-1939)](./pages/k31.md)
     - [.] [Generalne Gubernatorstwo (1939-1945)](./pages/k34.md)
     - [.] [Getto w Łodzi (1940-1944)](./pages/k26.md)
