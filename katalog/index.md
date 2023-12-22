@@ -12,8 +12,8 @@
 - [x] [Monety greckie, rzymskie, celtyckie, bizantyjskie i islamskie (VI w. p.n.e. - X w. n.e.)](./pages/k02.md)
 - [x] [Monety na ziemiach polskich (X-XIII w.)](./pages/k03.md)
 - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k01.md)
-- [ ] [Wacław II z Przemyślidów (1300-1305)]()
-- [ ] [Monety śląskie (XIV-XV w.)]() - opis u Gumowskiego w Historii Śląska t.3
+- [.] [Wacław II z Przemyślidów (1300-1305)](./pages/k36.md)
+- [.] [Monety śląskie (XIV-XV w.)](./pages/k37.md)
 
 - Monety Królestwa Polskiego 1306-1506
     - [x] [Władysław II Jagiełło (1386-1434)](./pages/k05.md)
