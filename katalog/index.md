@@ -4,10 +4,10 @@
 [Notatki numizmatyczne](https://numizmatyka.satola.net)
 
 
-## Ważne reguły dotyczące monet (oraz książek numizmatycznych)
+## Ważne informacje dotyczące monet (oraz książek numizmatycznych)
 
-- [.] [Ważne reguły dotyczące monet (oraz książek numizmatycznych)](./pages/k32.md)
-- [.] [Sprzedaż i ocena wartości monet](./pages/k38.md)
+- [x] [Ważne reguły dotyczące monet (oraz książek numizmatycznych)](./pages/k32.md)
+- [x] [Sprzedaż i ocena wartości monet](./pages/k38.md)
 
 
 ## Katalog
@@ -15,7 +15,7 @@
 - [x] [Monety greckie, rzymskie, celtyckie, bizantyjskie i islamskie (VI w. p.n.e. - X w. n.e.)](./pages/k02.md)
 - [x] [Monety na ziemiach polskich (X-XIII w.)](./pages/k03.md)
 - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k01.md)
-- [x] [Wacław II z Przemyślidów (1300-1305)](./pages/k36.md)
+- [x] [Wacław II z Przemyślidów (1300-1305)](./pages/k36.md) 
 - [x] [Monety śląskie (XIV-XV w.)](./pages/k37.md)
 
 
