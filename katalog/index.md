@@ -33,7 +33,7 @@
     - Henryk III Walezy (1574-1575), bezkrólewie i oblężenie Gdańska
     - [x] [Stefan Batory (1576-1586)](./pages/k12.md)
     - [x] [Zygmunt III Waza (1587-1632)](./pages/k13.md)
-    - [.] [Władysław IV Waza (1632-1648)](./pages/k39.md)
+    - [x] [Władysław IV Waza (1632-1648)](./pages/k39.md)
     - [x] [Jan II Kazimierz Waza (1648-1668)](./pages/k14.md)
     - Michał Korybut Wiśniowiecki (1669-1673)
     - [x] [Jan III Sobieski (1674-1696)](./pages/k15.md)
