@@ -4,7 +4,7 @@
 [Notatki numizmatyczne](https://numizmatyka.satola.net)
 
 
-## Ważne informacje dotyczące monet (oraz książek numizmatycznych)
+## Ważne informacje
 
 - [x] [Ważne reguły dotyczące monet (oraz książek numizmatycznych)](./pages/k32.md)
 - [x] [Sprzedaż i ocena wartości monet](./pages/k38.md)
