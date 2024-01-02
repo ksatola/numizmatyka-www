@@ -22,6 +22,7 @@
 | **LMK** | Lenne monety krzyżackie | Andrzej Schmidt | 1979 |  |
 | **Marz** | Herby i znaki mennicze na szelągach polskich i z Polską związanych | Dariusz Marzęta | 2014 |  |
 | **MBS** | Mennictwo bizantyjskie | Maciej Salamon | 1987 |  |
+| **MCBS** | Mennictwo cesarstwa bizantyjskiego | Maciej Salamon | 1980 |  |
 | **MGL** | Monety Getta Łódzkiego 1940-1944 | Jacek Sarosiek | 2016 |  |
 | **NK2021** | Numizmatyk krakowski nr 4/2021 | Praca zbiorowa | 2021 |  |
 | **NSS** | Numizmatyka średniowieczna | Stanisław Suchodolski | 2012 |  |

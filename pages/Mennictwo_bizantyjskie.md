@@ -1,12 +1,14 @@
 [Powrót](https://numizmatyka.satola.net)
 
 
-# Mennictwo bizantyjskie (ok. 491-1453)
+# Mennictwo bizantyjskie (491-1453)
 
 
 ## Spis treści
 
 - [Wstęp](#rys)
+- [System monetarny](#sm)
+- [Zewnętrzne cechy monet](#zcm)
 
 
 <a id='rys'></a>
@@ -14,15 +16,102 @@
 
 W III wieku podupadł autorytet cesarzy rzymskich, wynoszonych na tron i obalanych przez armię (większość władców tego okresu została zamordowana). Napotkali oni coraz większe trudności w rządach nad rozległym Imperium. Dlatego pod koniec III wieku cesarz Dioklecjan (284-305) wprowadził współrządy czterech cesarzy, jednak system ten przetrwał zaledwie do początków IV stulecia. Trwały - jak się później okazało - podział cesarstwa nastąpił dopiero w 395 roku.
 
-Umierając w 395 roku, cesarz Teodozjusz I (379-395) pozostawił władzę nad imperium swoim synom: Arkadiuszowi (395-408) i Honoriuszowi (395-423). Pierwszy rządził odtąd z Konstantynopola prowincjami wschodnimi, drugi z Mediolanu i Rawenny zachodnimi. <a href="https://pl.wikipedia.org/wiki/Konstantynopol">Konstantynopol</a> został założony przez Konstantyna Wielkiego (306-337) - w latach 330–395 był stolicą Cesarstwa Rzymskiego, w latach 395–1453 stolicą Cesarstwa Bizantyńskiego i Cesarstwa Łacińskiego (1204–1261), stolicą Imperium Osmańskiego w latach 1453–1922. Od 1930 miasto nazywa się Stambuł.
+Umierając w 395 roku, cesarz Teodozjusz I (379-395) pozostawił władzę nad imperium swoim synom: Arkadiuszowi (395-408) i Honoriuszowi (395-423). Pierwszy rządził odtąd z Konstantynopola prowincjami wschodnimi, drugi z Mediolanu i Rawenny zachodnimi. <a href="https://pl.wikipedia.org/wiki/Konstantynopol">Konstantynopol</a> został założony przez Konstantyna I Wielkiego (306-337) - w latach 330–395 był stolicą Cesarstwa Rzymskiego, w latach 395–1453 stolicą Cesarstwa Bizantyńskiego i Cesarstwa Łacińskiego (1204–1261), stolicą Imperium Osmańskiego w latach 1453–1922. Od 1930 miasto nazywa się Stambuł.
 
 Cesarstwo zachodniorzymskie przeżywało stopniowy rozkład, osłabiane Wielką wędrówką ludów i najazdami Hunów oraz Wandalów, aż w końcu przestało istnieć, kiedy w roku 476 barbarzyński wódz Odoaker obalił młodocianego cesarza Romulusa Augustulusa (475-476), władcę Rzymu i Rawenny.
 
 W 498 roku Anastazjusz I (491-518) przeprowadził gruntowną reformę mennictwa brązowego. Stworzyło to podstawy funkcjonowania stabilnego bizantyjskiego systemu monetarnego. Za początek cesarstwa bizantyjskiego przyjmuje się więc rok 395, a mennictwa bizantyjskiego rok 491 (początek rządów Anastazjusza I). (MBS. 8)
 
 
-<a href="https://www.doaks.org/resources/coins">Dumbarton Oaks Online Catalogue of Byzantine Coins</a> - katalog największej kolekcji monet wschodniorzymskich
+<a href="https://www.doaks.org/resources/coins">Dumbarton Oaks Online Catalogue of Byzantine Coins</a>
 
+
+<a id='sm'></a>
+## System monetarny
+Ekonomika bizantyjska wyrastwa z wielowiekowej tradycji gospodarki rzymskiej, w której pieniądz odgrywał ważną rolę środka wymiany towarów (powszechnego ekwiwalentu), a także środka tezauryzacji. (MBS. 17)
+
+W III wieku rzymski system monetarny przeżył ciężki kryzys, który udało się przełamać dopiero cesarzowi Dioklecjanowi (284-305). W 294 roku władca ten przeprowadził reformę, w wyniku której podstawą systemu stał się pieniądz złoty, a nie jak dotąd srebrny. Podstawowym nominałem miał być odtąd **aureus** bity wg stopy 1/60 funta. Dioklecjan wprowadził też tzw. **folis** - posrebrzaną monetę brązową o wadze poczatkowo 9,7 g, później stale redukowanej. W V w. w państwie rzymskim emitowano tylko niewielkie monetki brązowe o wadze 1,13 g, które nie zaspokajały potrzeb rynku.
+
+Gromadząc pełnię władzy w swoim ręku, Konstantyn I (306–337) ok. 313 roku w prowincjach zachodnich, a w 324 roku we wschodnich wprowadził monetę o 2/6 lżejszą od aureusa, zwaną **solidem** i bitą wg stopy 1/72 funta. Solid ważył się ok. 4,54 g, tj. **24 karaty** (w rzeczywistości ok. 23,5 karata). Aureusy emitowano odtąd jedynie okolicznościowo do czasów Justyniana I (527-565), zaś podstawowym nominałem złotym stał się solid. (MCBS. 2)
+
+Oprócz solida, bito także kilka mniejszych nominałów:
+- 1 **semissis** (2,27 g) = 1/2 solida
+- 1 **tremissis** (1,51 g) = 1/3 solida
+- 1/6 solida (0,76 g) emitowane tylko okresowo w VII w.
+
+Waga solida nie uległa w zasadzie zmianom - jego stabilność zadecydowała o odrodzeniu późnorzymskiej i bizantyjskiej gospodarki pieniężnej. Nie osłabiło pozycji solida puszczenie w obieg przez Justyniana I (527–565) ok. 538 roku tzw. **solidów lżejszych** o wadze 22 karatów, później także 20 i 23 karatów. Monety te posiadały oficjalny niższy kurs i służyły jedynie ułatwieniu operacji technicznych przeliczania sum w pieniądzu złotym na brązowy. Lżejsze solidy przestano emitować za Konstantyna IV (668-685)
+
+Cesarz Konstantyn I (306-337) wprowadził do obiegu tzw. **miliaresion** (miliarense) i **silikwę**, monety bite z czystego srebra oraz ich odmiany, lekka i ciężką. Monety srebrne wymieniano na złote wg stałej proporcji okreslonej w 397 roku jako 14,4 do 1:
+- 1 miliaresion lekkie = 2 silikwy lekkie = 1/14,4 solida
+- 1 miliaresion lekkie = 5/6 miliaresion ciężkiego
+- 1 miliaresion ciężkę = 2 silikwy ciężkie = 1/12 solida
+
+Monety srebrne miały uzupelniać w obiegu pieniężnym monety złote, które posiadały dużą siłę nabywczą, ale do VII w. nie były emitowane zbyt licznie i nie odebrały większej roli.
+
+W 498 roku Anastazjusz I (491-518) ustalił trwały system nominałów brązowych. Dotychczas emitowane monetki brązowe zostały zrównane co do wartości z najmniejszą jednostką tego systemu **nummus-minimus** bitą wg stopy 1/288 funta (1,13 g). Podstawowym nominałem był jednak nie nummus lecz **nowy follis**. Stopa mennicza, wg której bito follisy, ulegała zmianom - w 498 roku wynosiła 1/36 funta (9,10 g), w 512 roku 1/18 funta (18,19 g), w 538 roku 1/13,25 funta (24,95 g). Emitowano także inne nominały brązowe, głównie:
+- 1 **follis** = 40 **nummi*
+- 1 **półfollis** = 20 **nummi**
+- 1 **dekanumion** = 10 **nummi**
+- 1 **pentanumion** = 5 **nummi**
+
+Zreformowanie systemu nominałów brązowych wobec istnienia stabilnego, opartego na solidzie, mennictwa złotego, pozwoliło na pomyślny rozwój gospodarki pieniężno-towarowej w państwie wczesnobizantyjskim (koniec V-VI w.). Liczne mennice (w Konstantynopolu, Tessalonice, Antiochii, Kartaginie, Rawennie, Rzymie i wielu innych ośrodkach) zapewniały nasycenie rynku pieniężnego. Mennictwo nowych państw, które plemiona barbarzyńskie tworzyły na terenie zdobytych przez siebie prowincji (np. Wizygoci, Frankowie), wzorowało sie na bizantyjskim. Monety Wandali i Ostrogotów zaliczane są nawet do mennictwa bizantyjskiego. Także na terenach należacych dziś do Polski, odkryto skarby zawierające monety biznatyjskie (najczęściej na Pomorzu, datowane do pocz. VI w.). (MCBS. 3)
+
+Od drugiej połowy VI w. waga monet brązowych zaczyna spadać, stają się one monetą kredytową. Ograniczono liczbę mennic lokalnych, właściwie do VIII w. bimetaliczne (złoto, brąz) mennictwo bizantyjskie stało się monometaliczne, oparte przede wszystkim o złoto. Cesarz Herakliusz (610-641) zwiększył ok. 614/615 roku znaczenie srebra wprowadzając nowy nominał **heksagram** bity wg stopy 1/48 funta (6,82 g), jednak ograniczenie zapasów kruszcu pod koniec VII w. spowodowało zawieszenie tej emisji. (MCBS. 4)
+
+Od pierwszej połowy IX w. cesarze Michał II (820-829) i Teofil (829-842) zdołali ponownie wprowadzić do obiegu i utrzymać follis o podniesionej wadze (7,7 g). Teofil wprowadził też srebrne miliaresion, który był wymieniany w relacji 1/12 solida. W latach kolejnych rosła waga folisów, aż do ok. 18g na początlu XI w. (powrót do systemu bimetalicznego).
+
+Cesarz Nikefor II Fokas (963-969) zróżnicował wagę solidów na cięższe **histamena** (24 karaty) i lżejsze **tetaretra** (22 karaty). Oba gatunki miały identyczny wygląd, dlatego przyjmuje się, że Nikeforowi chodziło o uzyskanie dodatkowego zysku z mennicy. Zmiana to nie podważyła jednak zaufania do solida. Cesarz Bazyli II (976-1025) nadał zróżnicowany wygląd obu odmianom i odtąd ich użytkownicy mogli wymieniać je zgodnie z ich rzeczywistą wartością kruszcową bez obawy poniesienia straty.
+
+W IX-XI w. Bizancjum miało zatem dwa nominały złote (histamena, tetaretra) oraz dwa srebrne (cięższe i lżejsze miliaresion). W zachodniej Europie wysoko ceniono złotą monetę bizantyjską, zwaną tu **bezantem**. Monety bizantyjskie wzorowały się emisje wielu krajów europejskich i azjatyckich. W Polsce srebrne miliaresia uczestniczyły w obiegu, np. tzw. "ruskie" denary Bolesława Chrobrego z napisem cyrylicznym i wyobrażeniami wzorowanymi na typach miliaresion z przełomu X/XI w. (MCBS. 5)
+
+Okres stabilizacji bizantyjskiego systemu monetarnego zakończył się ok. połowy XI w. Za czasów Konstantyna X Monomacha (1042-1055) mennica cesarska zaczęła po raz pierwszy na szerwszą skalę stosować proceder obniżania zawartości złota w stopie aż do ok. 80% zlota (19 karatów). Była to zmiana trudno zauważalna dla użytkowników, ale cesarzowi przynosiła zysk. W latach 70-tych XI w., podczas walki z naporem Turków seldżuckich, zawartość złota w monetach spadła do ok. 40% (9,5 karata), co spowodowało załamanie się zaufania do pieniądza. Podobnie zmniejszyła się zawartość srebra w miliaresion i waga brązowego follisa. Bizantyjski system monetarny uległ w 2 połowie XI w. zupełnemu załamaniu. (MCBS. 6)
+
+Aleksy I Komnenos (1081-1118) dokonał w 1092 roku próby reformy systemu monetarnego opierając go na czterech (a nie jak dotąd na trzech) metalach: złoto, elektron (stop złota i srebra), bilon (stop srebra i miedzi), brąz. Podstawowym nominałem było złote **hyperperon** o wadze 1/72 funta (4,54 g) i stosunkowo wysokiej zawartości złota - 21 karatów. System ten miał znaczenie raczej lokalne i nie przywrócił monecie bizantyjskiej znaczenia poza granicami.
+
+Po zdobyciu Konstantynopola przez IV Wyprawę Krzyżową w 1204 roku poszczególne państwa roszczące sobie prawa do sukcesji po cesarstwie (<a href="https://pl.wikipedia.org/wiki/Cesarstwo_Nicejskie#/media/Plik:Cesarstwo_%C5%81aci%C5%84skie1204.png">Cesarstwo Łacinskie, Cesarstwo Nicejskie, Despotat Epiru, Cesarstwo Trapezuntu</a>), emitowały niezależnie od siebie monetę luźno opartą o system monetarny Aleksego I.
+
+Po odzyskaniu Konstantynopola w 1261 roku przez władcę Nicei, Michała VIII Paleologa (1259-1282) utrzymano istniejący od 1092 system monetarny, jednak sukcesywnie zmniejszano zawartość kruszcu w hyperperonie, aż do 11 karatów w XIV w. Jego zasięg kurczył się coraz bardziej, aż w końcu coraz większą rolę zaczęły odgrywać emisje państw sąsiednich, m.in. państw utworzonych przez krzyżowców w Grecji oraz emisje napływające z Europy zachodniej. (MCBS. 7)
+
+
+<a id='zcm'></a>
+## Zewnętrzne cechy monet
+
+Monety bizantyjskie przeszły w ciągu tysiącletniej historii istnienia Cesarstwa powolną ewolucję, w trakcie której najpierw oddaliły się od swych wzorców antycznych, a następnie rozwinęły charakterystyczny dla siebie zespół wyobrażeń, w którym dominują elementy związane z władzą cesarską i religią chrześcijańską. Rola władzy cesarskiej i Kościoła była bowiem w dizejach ideologii Bizancjum dominująca. (MCBS. 17)
+
+W okresie wczesnobizantyjskim (V-VI w.) moneta emitowana w Cesarstwie Wschodnim niewiele się różniła od pieniądza rzymskiego. Dominującym wyobrażeniem awersów było popiersie władcy, traktowane nie jako realistyczny portret, lecz uosobienie władzy cesarskiej w ogóle. 
+
+Na awersach mniejszych nominałów złotych i rewersach monet srebrnych często pojawia się profil władcy (podobnie jak na na monetach rzymskich).
+
+XXXX 4-7
+
+Na monetach złotych przeważa frontalne wyobrażenie cesarza, gdzie ważniejsze wydaje się uwidocznienie jego atrybutów władzy, niż jego indywidualnych rysów. Najważniejszym atrybutem monarchy był diadem - opaska wieńcząca jego głowę i związana z tyłu (na monetach wyobrażony jako podwójny sznur pereł ozdobiony z przodu szlachetnym kamieniem lub krzyżem). 
+
+XXXXX diadem 8 kamien, 9 krzyż
+
+Z czasem diadem ustąpił miejsca koronie - stemma - wykonanej z metalu i ozdobionej kamieniami szlachetnymi i perłami. Na monetach VII-VIII w. trudno jest zwykle określić, kiedy głowę zdobi diadem, a kiedy stemma. Dopiero od IX w. zarys korony jest całkiem wyraźny.
+
+XXXXX korona 17
+
+Od VI w. korony cesarzowych dekorowane są ozdobami w kształcie trójkąta.
+
+XXXXX 13, 16
+
+rys 1. Portret władcy jako wodza - odzianego w pancerz, z plaszczem (paludamunt) na ramionach w ozodobnym diademem hełmie z pióropuszem. W lewej ręce trzyma tarczę, w prawej włócznię (rys 2. kulę - symbol władzy nad całą ziemią zwieńczoną krzyżem, rys. 3 mała postać bogini zwycięstwa Victoria
+
+rys 1. Portret władcy jako wodza - odzianego w pancerz, z plaszczem (paludamunt) na ramionach w ozodobnym diademem hełmie z pióropuszem. W lewej ręce trzyma tarczę, w prawej włócznię
+
+VI-VII
+odchodzenie od wzorów antycznych na rzecz symboliki chrześcijańskiej (krzyż, Chrystus Pankrator) str. 11
+
+od VII
+zanika postac cesarza-wojownika, cywilna wersja portretu
+
+viii-ix
+cesarze przodkowie
+legendy w pełni greckie
+
+xiii
+swieci patroni miast
 
 XXXXXXXXX
 

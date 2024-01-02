@@ -22,6 +22,7 @@
 - [CoinArchives](https://www.coinarchives.com/)
 - [Katalog on-line Stack's Bowers Galleries](https://archive.stacksbowers.com/?q=a4169f92-d551-4ff6-954f-820c2bb37cfb)
 - [Katalogi aukcyjne domu aukcyjnego Künker](https://www.kuenker.de/en/auktionen/katalogarchiv)
+- [Katalog zbioru monet bizantyjskich waszyngtońskiego instytutu badawczego Harvada w Dumbarton Oaks](https://www.doaks.org/resources/coins)
 
 ### Materiały edukacyjne
 
