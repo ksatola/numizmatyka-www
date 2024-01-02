@@ -7,47 +7,60 @@
 ## Spis treści
 
 - [Wstęp](#rys)
-- [System monetarny](#sm)
+- [Geneza bizantyjskiego systemu monetarnego](#sm)
+- [Pięć okresów bizantyjskiego systemu monetarnego](#po)
 - [Zewnętrzne cechy monet](#zcm)
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXX str. 6
 
 
 <a id='rys'></a>
 ## Wstęp
 
-W III wieku podupadł autorytet cesarzy rzymskich, wynoszonych na tron i obalanych przez armię (większość władców tego okresu została zamordowana). Napotkali oni coraz większe trudności w rządach nad rozległym Imperium. Dlatego pod koniec III wieku cesarz Dioklecjan (284-305) wprowadził współrządy czterech cesarzy, jednak system ten przetrwał zaledwie do początków IV stulecia. Trwały - jak się później okazało - podział cesarstwa nastąpił dopiero w 395 roku.
+W III wieku podupadł autorytet cesarzy rzymskich, wynoszonych na tron i obalanych przez armię (większość władców tego okresu została zamordowana). Napotkali oni coraz większe trudności w rządach nad rozległym Imperium. Pod koniec III wieku cesarz Dioklecjan (284-305) wprowadził współrządy czterech cesarzy, jednak system ten przetrwał zaledwie do początków IV stulecia. Trwały - jak się później okazało - podział cesarstwa nastąpił dopiero w 395 roku. (MBS. 1)
 
 Umierając w 395 roku, cesarz Teodozjusz I (379-395) pozostawił władzę nad imperium swoim synom: Arkadiuszowi (395-408) i Honoriuszowi (395-423). Pierwszy rządził odtąd z Konstantynopola prowincjami wschodnimi, drugi z Mediolanu i Rawenny zachodnimi. <a href="https://pl.wikipedia.org/wiki/Konstantynopol">Konstantynopol</a> został założony przez Konstantyna I Wielkiego (306-337) - w latach 330–395 był stolicą Cesarstwa Rzymskiego, w latach 395–1453 stolicą Cesarstwa Bizantyńskiego i Cesarstwa Łacińskiego (1204–1261), stolicą Imperium Osmańskiego w latach 1453–1922. Od 1930 miasto nazywa się Stambuł.
 
 Cesarstwo zachodniorzymskie przeżywało stopniowy rozkład, osłabiane Wielką wędrówką ludów i najazdami Hunów oraz Wandalów, aż w końcu przestało istnieć, kiedy w roku 476 barbarzyński wódz Odoaker obalił młodocianego cesarza Romulusa Augustulusa (475-476), władcę Rzymu i Rawenny.
 
-W 498 roku Anastazjusz I (491-518) przeprowadził gruntowną reformę mennictwa brązowego. Stworzyło to podstawy funkcjonowania stabilnego bizantyjskiego systemu monetarnego. Za początek cesarstwa bizantyjskiego przyjmuje się więc rok 395, a mennictwa bizantyjskiego rok 491 (początek rządów Anastazjusza I). (MBS. 8)
+W 498 roku Anastazjusz I (491-518) przeprowadził gruntowną reformę mennictwa brązowego, które załamało się w trakcje inwazji barbarzyńców. Stworzyło to podstawy funkcjonowania stabilnego bizantyjskiego systemu monetarnego. Za początek cesarstwa bizantyjskiego przyjmuje się więc rok 395, a mennictwa bizantyjskiego rok 491 (początek rządów Anastazjusza I). (MBS. 8)
 
 
 <a href="https://www.doaks.org/resources/coins">Dumbarton Oaks Online Catalogue of Byzantine Coins</a>
 
 
+
+
 <a id='sm'></a>
-## System monetarny
+## Geneza bizantyjskiego systemu monetarnego
 Ekonomika bizantyjska wyrastwa z wielowiekowej tradycji gospodarki rzymskiej, w której pieniądz odgrywał ważną rolę środka wymiany towarów (powszechnego ekwiwalentu), a także środka tezauryzacji. (MBS. 17)
 
-W III wieku rzymski system monetarny przeżył ciężki kryzys, który udało się przełamać dopiero cesarzowi Dioklecjanowi (284-305). W 294 roku władca ten przeprowadził reformę, w wyniku której podstawą systemu stał się pieniądz złoty, a nie jak dotąd srebrny. Podstawowym nominałem miał być odtąd **aureus** bity wg stopy 1/60 funta. Dioklecjan wprowadził też tzw. **folis** - posrebrzaną monetę brązową o wadze poczatkowo 9,7 g, później stale redukowanej. W V w. w państwie rzymskim emitowano tylko niewielkie monetki brązowe o wadze 1,13 g, które nie zaspokajały potrzeb rynku.
 
-Gromadząc pełnię władzy w swoim ręku, Konstantyn I (306–337) ok. 313 roku w prowincjach zachodnich, a w 324 roku we wschodnich wprowadził monetę o 2/6 lżejszą od aureusa, zwaną **solidem** i bitą wg stopy 1/72 funta. Solid ważył się ok. 4,54 g, tj. **24 karaty** (w rzeczywistości ok. 23,5 karata). Aureusy emitowano odtąd jedynie okolicznościowo do czasów Justyniana I (527-565), zaś podstawowym nominałem złotym stał się solid. (MCBS. 2)
+### Moneta złota
+W III wieku rzymski system monetarny przeżył ciężki kryzys (inflacja i dewaluacja pieniądza), który udało się przełamać dopiero cesarzowi Dioklecjanowi (284-305). W 294 roku władca ten przeprowadził reformę, w wyniku której podstawą systemu stał się pieniądz złoty, a nie jak dotąd srebrny. Podstawowym nominałem miał być odtąd **aureus** bity wg stopy 1/60 funta. Dioklecjan wprowadził też tzw. **folis** - posrebrzaną monetę brązową o wadze poczatkowo 9,7 g, później stale redukowanej. W V wieku w państwie rzymskim emitowano tylko niewielkie monetki brązowe o wadze ok. 1 g, które nie zaspokajały potrzeb rynku.
+
+Gromadząc pełnię władzy w swoim ręku, Konstantyn I (306–337) ok. 313 roku w prowincjach zachodnich, a w 324 roku we wschodnich wprowadził monetę o 2/6 lżejszą od aureusa, zwaną **solidem** (_solidus_, po grecku _nomisma_) i bitą wg stopy 1/72 funta. Solid ważył ok. 4,54 g, tj. **24 karaty** (w rzeczywistości ok. 23,5 karata). Aureusy emitowano odtąd jedynie okolicznościowo do czasów Justyniana I (527-565), zaś podstawowym nominałem złotym stał się solid. (MCBS. 2)
 
 Oprócz solida, bito także kilka mniejszych nominałów:
 - 1 **semissis** (2,27 g) = 1/2 solida
 - 1 **tremissis** (1,51 g) = 1/3 solida
 - 1/6 solida (0,76 g) emitowane tylko okresowo w VII w.
 
-Waga solida nie uległa w zasadzie zmianom - jego stabilność zadecydowała o odrodzeniu późnorzymskiej i bizantyjskiej gospodarki pieniężnej. Nie osłabiło pozycji solida puszczenie w obieg przez Justyniana I (527–565) ok. 538 roku tzw. **solidów lżejszych** o wadze 22 karatów, później także 20 i 23 karatów. Monety te posiadały oficjalny niższy kurs i służyły jedynie ułatwieniu operacji technicznych przeliczania sum w pieniądzu złotym na brązowy. Lżejsze solidy przestano emitować za Konstantyna IV (668-685)
+Waga solida nie uległa w zasadzie zmianom - jego stabilność zadecydowała o odrodzeniu późnorzymskiej i bizantyjskiej gospodarki pieniężnej. Nie osłabiło pozycji solida puszczenie w obieg przez Justyniana I (527–565) ok. 538 roku tzw. **solidów lżejszych** o wadze 22 karatów, później także 20 i 23 karatów. Monety te posiadały oficjalny niższy kurs i służyły jedynie ułatwieniu operacji technicznych przeliczania sum w pieniądzu złotym na brązowy. Lżejsze solidy przestano emitować za Konstantyna IV (668-685).
 
-Cesarz Konstantyn I (306-337) wprowadził do obiegu tzw. **miliaresion** (miliarense) i **silikwę**, monety bite z czystego srebra oraz ich odmiany, lekka i ciężką. Monety srebrne wymieniano na złote wg stałej proporcji okreslonej w 397 roku jako 14,4 do 1:
+
+### Moneta srebrna
+Karat (0,189 g) był zbyt małą jednostką wagową, aby można go było bić w złocie, ale nadawał się jako jednostka wagi w przypadku monet srebrnych. (BCPG. 3) I tak Cesarz Konstantyn I (306-337), prawie 150 lat przed upadkiem Cesarstwa zachodniorzymskiego, wprowadził do obiegu tzw. **miliaresion** (_miliarense_, podwójny karat, 1/12 solida) i **silikwę** (łac. karat), monety bite z czystego srebra oraz ich odmiany, lekką i ciężką. Monety srebrne wymieniano na złote wg stałej proporcji określonej w 397 roku jako 14,4 do 1:
 - 1 miliaresion lekkie = 2 silikwy lekkie = 1/14,4 solida
 - 1 miliaresion lekkie = 5/6 miliaresion ciężkiego
-- 1 miliaresion ciężkę = 2 silikwy ciężkie = 1/12 solida
+- 1 miliaresion ciężkie = 2 silikwy ciężkie = 1/12 solida
 
-Monety srebrne miały uzupelniać w obiegu pieniężnym monety złote, które posiadały dużą siłę nabywczą, ale do VII w. nie były emitowane zbyt licznie i nie odebrały większej roli.
+Monety srebrne miały uzupełniać w obiegu pieniężnym monety złote, które posiadały dużą siłę nabywczą, ale do VII w. nie były emitowane zbyt licznie i nie odebrały większej roli.
 
+
+### Moneta miedziana
 W 498 roku Anastazjusz I (491-518) ustalił trwały system nominałów brązowych. Dotychczas emitowane monetki brązowe zostały zrównane co do wartości z najmniejszą jednostką tego systemu **nummus-minimus** bitą wg stopy 1/288 funta (1,13 g). Podstawowym nominałem był jednak nie nummus lecz **nowy follis**. Stopa mennicza, wg której bito follisy, ulegała zmianom - w 498 roku wynosiła 1/36 funta (9,10 g), w 512 roku 1/18 funta (18,19 g), w 538 roku 1/13,25 funta (24,95 g). Emitowano także inne nominały brązowe, głównie:
 - 1 **follis** = 40 **nummi*
 - 1 **półfollis** = 20 **nummi**
@@ -56,9 +69,69 @@ W 498 roku Anastazjusz I (491-518) ustalił trwały system nominałów brązowyc
 
 Zreformowanie systemu nominałów brązowych wobec istnienia stabilnego, opartego na solidzie, mennictwa złotego, pozwoliło na pomyślny rozwój gospodarki pieniężno-towarowej w państwie wczesnobizantyjskim (koniec V-VI w.). Liczne mennice (w Konstantynopolu, Tessalonice, Antiochii, Kartaginie, Rawennie, Rzymie i wielu innych ośrodkach) zapewniały nasycenie rynku pieniężnego. Mennictwo nowych państw, które plemiona barbarzyńskie tworzyły na terenie zdobytych przez siebie prowincji (np. Wizygoci, Frankowie), wzorowało sie na bizantyjskim. Monety Wandali i Ostrogotów zaliczane są nawet do mennictwa bizantyjskiego. Także na terenach należacych dziś do Polski, odkryto skarby zawierające monety biznatyjskie (najczęściej na Pomorzu, datowane do pocz. VI w.). (MCBS. 3)
 
+
+<a id='po'></a>
+## Pięć okresów bizantyjskiego systemu monetarnego
+Pięc okresów mennictwa bizantyjskiego odzwieciedla ówczesną kondycję finasową i gospodarczą imperium.
+- Okres pierwszy charakteryzuje się silną pozycją gospodarczą zachwianą przez inwazję Persów i Arabów w VII w.
+- Okres drugi odzwierciedla braki w dostępie do nowych zasobów kruszczu oraz zmniejszoną, w porównaniu z okresem poprzednim, wymianę handlową.
+- Okres trzeci początkowo charakteryzował się wzrostem ludności i dostępu do zasobów, którego złote monety zachowały wiele ze swojego dawnego międzynarodowego prestiżu, pomimo fazy poważnej degradacji w połowie XI wieku. Ten prestiż przetrwał katastrofę w 1204 roku, ale od tego dnia imperium było jedynie cieniem dawnego siebie, pomimo odzyskania Konstantynopola w 1261 roku.
+- Okres czwarty charakteryzuje się kontynuacją bicia złotych monet, ale dewaluowane przez cesarzy monety bizantyjskie są coraz bardziej wypierane z dotychczasowej strefy wpływów cesarstwa wschodniego przez pieniądz Europy zachodniej.
+- Okres piąty odzwierciedla kurczącą się od wielu lat gospodarkę Bizancjum, postępującą dewaluację monety złotej oraz problemy z utrzymaniem stałej relacji wartości złota do srebra skutkujących przejściem na monetę srebrną.
+
+### Mennice Cesarstwa Bizantyjskiego
+-- mennice bizantyjskie
+pdf mapa mennic  w 6 i 7 w str. 4, przybywało ich gdy rozrastało się imperium
+They all shared in the minting of
+copper, but silver was rarely struck outside Ravenna and Carthage, and gold was
+normally limited to these mints and to Constantinople, whose output far exceeded
+that of the western mints. Formal mint marks, abbreviated from place
+names (e.g., CON for Constantinople, NIKO for Nicomedia), were limited to
+the copper coinage (Figs. 29, 35) and often omitted, especially from the lower
+denominations. Solidi struck in the capital had CONOB on them (Fig. 4), that
+is, the first syllable of Constantinopolis joined to OB, which was both the abbreviation
+of the word obryzum (“refined gold”) and the Greek numeral 72. Gold
+coins struck at Ravenna and Carthage can only be differentiated when they
+display well-marked local characteristics—normally, a high, annular border at
+Ravenna (Fig. 2) and small, thick flans at Carthage (Fig. 3). Many mints were
+subdivided into officinae, or workshops, which were normally indicated by
+Greek numerals: alpha = 1; beta = 2, etc. (Fig. 32).
+
+In the seventh century the number of mints was greatly reduced, initially as
+a result of an administrative reorganization in 629 but more permanently as a
+consequence of the loss of much of the Balkans to the Slavs, of half of Italy to
+the Lombards, and of Syria, Egypt, and eventually the whole of North Africa to
+the Arabs. Constantinople was left as the only surviving mint in the east, while
+provincial mints survived in the west for only as long as the provinces they
+served remained in Byzantine hands. The last survivor was Syracuse, the capital
+of Sicily, which was captured by the Arabs in 878. The use of mint marks was
+abandoned, and for much of the middle Byzantine period Constantinople was
+the only mint in the empire. The mint at Thessalonica was revived in the eleventh
+century and became of great importance in the last days of the empire, but
+its products are not specifically marked and can usually be identified only on
+the evidence of style and find spots.
+-- koniec
+
+
+### Okres I: Od końca V (495) do połowy VIII w.
+- 3 złote nominały fig 4, 6, 7
+- four (sometimes five) of copper (Figs. 29–31, 33, 34)
+- with, from 615 onward, one denomination of silver as well (Fig. 19)
+- This wide range of coins was made possible by the use of three metals, and in this respect it is comparable to modern coinage
+
 Od drugiej połowy VI w. waga monet brązowych zaczyna spadać, stają się one monetą kredytową. Ograniczono liczbę mennic lokalnych, właściwie do VIII w. bimetaliczne (złoto, brąz) mennictwo bizantyjskie stało się monometaliczne, oparte przede wszystkim o złoto. Cesarz Herakliusz (610-641) zwiększył ok. 614/615 roku znaczenie srebra wprowadzając nowy nominał **heksagram** bity wg stopy 1/48 funta (6,82 g), jednak ograniczenie zapasów kruszcu pod koniec VII w. spowodowało zawieszenie tej emisji. (MCBS. 4)
 
-Od pierwszej połowy IX w. cesarze Michał II (820-829) i Teofil (829-842) zdołali ponownie wprowadzić do obiegu i utrzymać follis o podniesionej wadze (7,7 g). Teofil wprowadził też srebrne miliaresion, który był wymieniany w relacji 1/12 solida. W latach kolejnych rosła waga folisów, aż do ok. 18g na początlu XI w. (powrót do systemu bimetalicznego).
+
+
+ratio monet brązowych do złotych podłegało ciągłym zmianom, tabelka str. 43-45 i nie do końca jest to rozeznany temat
+
+### Okres II: Od połowy VIII do końca XI w.
+- the simplification of this pattern to only three denominations, one in each metal: 
+    - the nomisma (Fig. 11), 
+    - a silver coin known as a miliaresion (Fig. 20), 
+    - and the follis (Fig. 38)
+    
+Od pierwszej połowy IX w. cesarze Michał II (820-829) i Teofil (829-842) zdołali ponownie wprowadzić do obiegu i utrzymać follis o podniesionej wadze (7,7 g). Teofil wprowadził też srebrne **miliaresion**, który był wymieniany w relacji 1/12 solida. W latach kolejnych rosła waga folisów, aż do ok. 18 g na początlu XI w. (powrót do systemu bimetalicznego).
 
 Cesarz Nikefor II Fokas (963-969) zróżnicował wagę solidów na cięższe **histamena** (24 karaty) i lżejsze **tetaretra** (22 karaty). Oba gatunki miały identyczny wygląd, dlatego przyjmuje się, że Nikeforowi chodziło o uzyskanie dodatkowego zysku z mennicy. Zmiana to nie podważyła jednak zaufania do solida. Cesarz Bazyli II (976-1025) nadał zróżnicowany wygląd obu odmianom i odtąd ich użytkownicy mogli wymieniać je zgodnie z ich rzeczywistą wartością kruszcową bez obawy poniesienia straty.
 
@@ -66,11 +139,43 @@ W IX-XI w. Bizancjum miało zatem dwa nominały złote (histamena, tetaretra) or
 
 Okres stabilizacji bizantyjskiego systemu monetarnego zakończył się ok. połowy XI w. Za czasów Konstantyna X Monomacha (1042-1055) mennica cesarska zaczęła po raz pierwszy na szerwszą skalę stosować proceder obniżania zawartości złota w stopie aż do ok. 80% zlota (19 karatów). Była to zmiana trudno zauważalna dla użytkowników, ale cesarzowi przynosiła zysk. W latach 70-tych XI w., podczas walki z naporem Turków seldżuckich, zawartość złota w monetach spadła do ok. 40% (9,5 karata), co spowodowało załamanie się zaufania do pieniądza. Podobnie zmniejszyła się zawartość srebra w miliaresion i waga brązowego follisa. Bizantyjski system monetarny uległ w 2 połowie XI w. zupełnemu załamaniu. (MCBS. 6)
 
+### Okres III: Od 1092 do końca XIII w.
+- from the monetary reform carried out by the emperor Alexius I Comnenus (1081–1118) in 1092
+- use of several denominations of debased metal (called trachea by contemporaries) that were strikingly different from normal coins in being concave instead of flat (Fig. 15)
+- The highest denomination was a coin of slightly base gold known as a hyperpyron (Fig. 16), which replaced the old nomisma of pure gold
+- A coin of much baser gold (Fig. 17) revived the functions of the long-defunct tremissis, while small change was provided by trachea of very base silver (Fig. 25), which eventually became copper, and by two denominations of small flat coins that were copper (Fig. 40), one briefly becoming lead.
+
+
 Aleksy I Komnenos (1081-1118) dokonał w 1092 roku próby reformy systemu monetarnego opierając go na czterech (a nie jak dotąd na trzech) metalach: złoto, elektron (stop złota i srebra), bilon (stop srebra i miedzi), brąz. Podstawowym nominałem było złote **hyperperon** o wadze 1/72 funta (4,54 g) i stosunkowo wysokiej zawartości złota - 21 karatów. System ten miał znaczenie raczej lokalne i nie przywrócił monecie bizantyjskiej znaczenia poza granicami.
 
 Po zdobyciu Konstantynopola przez IV Wyprawę Krzyżową w 1204 roku poszczególne państwa roszczące sobie prawa do sukcesji po cesarstwie (<a href="https://pl.wikipedia.org/wiki/Cesarstwo_Nicejskie#/media/Plik:Cesarstwo_%C5%81aci%C5%84skie1204.png">Cesarstwo Łacinskie, Cesarstwo Nicejskie, Despotat Epiru, Cesarstwo Trapezuntu</a>), emitowały niezależnie od siebie monetę luźno opartą o system monetarny Aleksego I.
 
+
+### Okres IV: Pierwsza połowa XIV w.
+- lasting from soon after 1300 to the mid-fourteenth century, saw the introduction of a silver coin, the basilicon (Fig. 26), modeled on the silver ducat of Venice, and a small copper coin known as an assarion (Fig. 41)
+
+
 Po odzyskaniu Konstantynopola w 1261 roku przez władcę Nicei, Michała VIII Paleologa (1259-1282) utrzymano istniejący od 1092 system monetarny, jednak sukcesywnie zmniejszano zawartość kruszcu w hyperperonie, aż do 11 karatów w XIV w. Jego zasięg kurczył się coraz bardziej, aż w końcu coraz większą rolę zaczęły odgrywać emisje państw sąsiednich, m.in. państw utworzonych przez krzyżowców w Grecji oraz emisje napływające z Europy zachodniej. (MCBS. 7)
+
+
+### Okres V: Od drugiej połowy XIV do połowy XV w. 
+- do upadku cesarstwa w 1453
+- complete disappearance of gold coins and a return to ones of pure silver (Figs. 27, 28)
+- the main denomination of which was larger and heavier than any previously used in the empire
+
+===
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <a id='zcm'></a>
