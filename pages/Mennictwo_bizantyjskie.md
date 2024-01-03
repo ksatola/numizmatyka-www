@@ -13,7 +13,7 @@
 
 
 
-XXXXXXXXXXXXXXXXXXXXXXX str. 6
+XXXXXXXXXXXXXXXXXXXXXXX str. 28
 
 
 <a id='rys'></a>
@@ -29,8 +29,6 @@ W 498 roku Anastazjusz I (491-518) przeprowadził gruntowną reformę mennictwa 
 
 
 <a href="https://www.doaks.org/resources/coins">Dumbarton Oaks Online Catalogue of Byzantine Coins</a>
-
-
 
 
 <a id='sm'></a>
@@ -60,6 +58,9 @@ Karat (0,189 g) był zbyt małą jednostką wagową, aby można go było bić w 
 Monety srebrne miały uzupełniać w obiegu pieniężnym monety złote, które posiadały dużą siłę nabywczą, ale do VII w. nie były emitowane zbyt licznie i nie odebrały większej roli.
 
 
+
+
+
 ### Moneta miedziana
 W 498 roku Anastazjusz I (491-518) ustalił trwały system nominałów brązowych. Dotychczas emitowane monetki brązowe zostały zrównane co do wartości z najmniejszą jednostką tego systemu **nummus-minimus** bitą wg stopy 1/288 funta (1,13 g). Podstawowym nominałem był jednak nie nummus lecz **nowy follis**. Stopa mennicza, wg której bito follisy, ulegała zmianom - w 498 roku wynosiła 1/36 funta (9,10 g), w 512 roku 1/18 funta (18,19 g), w 538 roku 1/13,25 funta (24,95 g). Emitowano także inne nominały brązowe, głównie:
 - 1 **follis** = 40 **nummi*
@@ -68,6 +69,10 @@ W 498 roku Anastazjusz I (491-518) ustalił trwały system nominałów brązowyc
 - 1 **pentanumion** = 5 **nummi**
 
 Zreformowanie systemu nominałów brązowych wobec istnienia stabilnego, opartego na solidzie, mennictwa złotego, pozwoliło na pomyślny rozwój gospodarki pieniężno-towarowej w państwie wczesnobizantyjskim (koniec V-VI w.). Liczne mennice (w Konstantynopolu, Tessalonice, Antiochii, Kartaginie, Rawennie, Rzymie i wielu innych ośrodkach) zapewniały nasycenie rynku pieniężnego. Mennictwo nowych państw, które plemiona barbarzyńskie tworzyły na terenie zdobytych przez siebie prowincji (np. Wizygoci, Frankowie), wzorowało sie na bizantyjskim. Monety Wandali i Ostrogotów zaliczane są nawet do mennictwa bizantyjskiego. Także na terenach należacych dziś do Polski, odkryto skarby zawierające monety biznatyjskie (najczęściej na Pomorzu, datowane do pocz. VI w.). (MCBS. 3)
+
+brąz? stop miedzi?
+W starożytności brąz był stopem miedzi w stosunku 90% miedzi do 10% cyny,
+https://pl.wikipedia.org/wiki/Br%C4%85zy
 
 
 <a id='po'></a>
@@ -113,10 +118,170 @@ the evidence of style and find spots.
 -- koniec
 
 
+### Wizerunki na monetach
+!!!! dla kazdej monety wyszukac w griersonie Fig. <numer>, zeby dowiedziec się wiecej o wyobrazeniu na monecie
+    
+Coin types are too varied to be categorized in any very exact fashion. Most
+of those current in Byzantium fall into one of three groups: ruler representations,
+religious images, and “functional” types consisting mainly of marks of
+value.
+    
+Pictorial types in the literal sense, such as objects or images taken from
+nature or representations of public buildings and events, play almost no role at
+all, making Byzantine coinage in this respect much less interesting than that of
+ancient Greece and Rome
+    
+Marks of value, in the form of a large
+Greek or Latin numeral, are confined to the copper and only used for about
+three and a half centuries, from their introduction by Anastasius I in 498 to
+their disappearance in the ninth century
+    
+Na co zwracac uwage? 
+Przedstawienia władców
+    - Ile jest postaci, czy są one współrządzącymi, aktualnie rządzącym i następcą lub poprzednikiem.
+    - Jak wygląda ubiór imperatora
+    
+
+
+
+    
+=========================
+
 ### Okres I: Od końca V (495) do połowy VIII w.
-- 3 złote nominały fig 4, 6, 7
-- four (sometimes five) of copper (Figs. 29–31, 33, 34)
+
+- 3 złote nominały fig 4, 6, 7 - sredn. 20mm
+
+VIw
+    - solidus fig4
+        - awers: władca zwykle w zbroi
+        - rewers: Wiktoria lub archanioł wspierający krzyż lub 
+            - Justin II (565–578): siedząca personifikacja Konstantynopolu (fig 60)
+            - Tiberius II (578–582) chose a cross on steps (Fig. 5) which is believed to represent the great jeweled cross erected on Golgotha
+    - semissis f6
+        - awers: semissis and tremissis have on the obverse the emperor’s bust, but shown in profile rather than facing
+        - rewers: seated Victory inscribing a numeral on a shield This numeral had originally referred to the “vows” repeated by the emperor at five-year intervals, but in the course of time it had become merely a formula
+    - tremissis f7
+        - awers: semissis and tremissis have on the obverse the emperor’s bust, but shown in profile rather than facing
+        - rewers: Victory bearing a wreath and an orb surmounted by a cross
+    
+VIIw
+obverse: 
+The seventh century saw great changes in the iconography of these coins.
+Portraiture was introduced under Phocas (602–610; Fig. 53), and from Heraclius
+(610–641) onward coinage reflected changes both in the emperor’s appearance and
+in the arrangements he made for his succession. Thus, Constans II (641–668)
+and Justinian II (685–695; 705–711; Fig. 55) are shown as young boys on their
+earliest coins; Heraclius and Constans II (Fig. 8) acquire enormous beards and
+mustaches in the course of their issues. In order to assure the succession, emperors
+associated their sons with them as co-emperors, and the coinage was
+intended to advertise the dynasty; thus, Heraclius Constantine and later
+Heraclonas accompany their father Heraclius, and no fewer than three sons
+appear on the reverse under Constans II (Fig. 8).
+
+reverses:
+frequently a cross whose form indicates the denomination, the solidus having a
+cross on steps (Fig. 5), the semissis a cross on a globe, and the tremissis a
+simple cross
+
+When Justinian II (685–695; 705–711) placed a bust of Christ on his coins he removed
+himself to the reverse, where, on the gold, he is shown holding the type of cross
+appropriate to the denomination (Fig. 9; cover illustrations)
+
+
+VIIIw - Iconoclast emperors
+3 zmiany
+First, the treatment of the imperial bust becomes purely linear and every
+vestige of portraiture disappears, with older emperors being differentiated from
+their junior colleagues only by their larger sizes and by faint traces of a beard
+and mustache, whether or not they wore such in real life
+
+Second, the traditional
+cross on the reverse is replaced by the effigy of another emperor, initially
+the emperor’s son and intended successor, but subsequently one or more of his
+ancestors, with the emperor’s son then being placed beside his father on the obverse
+(Fig. 10). Thus the coinage represented the whole dynastic lineage in order
+of birth
+
+And, finally, the semissis and tremissis are eliminated
+they
+were issued only in small quantities and for ceremonial distribution on particular
+occasions
+at the mint of Syracuse, they continued to be struck until
+the city’s loss to the Arabs in 878
+
+
+SILVER
 - with, from 615 onward, one denomination of silver as well (Fig. 19)
+
+It was the emperor Heraclius who in 615 revived an effective silver coinage,
+drawing the metal for his abundant issues mostly from the secularization of
+church plate during the crisis of the Persian war. The new coins were known as
+hexagrams (Fig. 19), since they weighed 6 grammata (6.84 grams), a weight
+higher than any used for regular coinage during the entire period of the Roman
+Empire. Hexagrams continued to be struck on a substantial scale under Constans
+II and Constantine IV (668–685), but their volume trailed off in the 680s,
+and by the end of the century the empire was back on the gold-copper basis
+that had been in effect under Anastasius I and Justinian I.
+
+silver
+coins, which would have bridged the rather large gap between the follis and
+the tremissis, were not issued, presumably because of the fluctuations in that
+metal’s value against gold
+
+
+
+
+
+
+- four (sometimes five) of copper (Figs. 29–31, 33, 34)
+
+The introduction of the large copper follis, worth 40 nummi, had been the
+great innovation of Anastasius I in 498. The coin was marked with the
+Greek letter M (Fig. 29), which as a numeral stood for “40,” and it was initially
+accompanied by only two fractions, a half-follis marked with K (= 20; Fig. 30)
+and a decanummium marked with I (= 10; Fig. 31). In 512 the weights of these
+coins were doubled (Fig. 32), and a further denomination of 5 nummi, marked
+with E (Fig. 33), was added; moreover, the minting of nummi (Fig. 34), apparently
+suspended in 498, was resumed
+
+VI
+Justinian I, in his twelfth year (538/9), further increased the weight of the
+follis to about 25 grams. Moreover, he improved its appearance and altered its
+iconography by substituting a facing bust for the traditional profile portrait on
+the obverse and by adding a date on the reverse (Fig. 35), thus applying to coins
+the provisions of his Novel 47 (537) for the dating of all official documents by
+regnal years. This coin, however, was too heavy for convenience, and the weight
+was reduced to about 22 grams in 541/2. Further reductions took place at intervals
+over the remainder of the century, so that ultimately the minting of nummi
+had to be abandoned, and a new unit of 30 nummi, marked with L or XXX,
+was inserted into the system. Yet even to the end of the century the follis remained
+a handsome, massive coin whose weight and size must have given its
+users solid assurance of its value.
+
+VII
+The seventh century saw the decline of the follis. The designs of the coins,
+which show changing combinations of rulers, remain of interest, but their
+weights were repeatedly reduced and their execution became increasingly slovenly.
+Folles of Constans II average only about 3 grams, in contrast to the 25 grams
+of a century earlier, and while their iconography is quite varied, their fabric is
+abominable (Fig. 36). They were by then so small that the half-follis could not
+easily be minted and lower denominations virtually disappeared. The empire
+was at that time in desperate political straits, with its richest provinces, Egypt
+and Syria, lost forever to the Arabs and much of the Balkans occupied by the
+Slavs. These circumstances only aggravated the decline of the purchasing power
+of the subsidiary coinage that had begun already in the second half of the sixth
+century, and it is not surprising that the copper coins of this period were the
+worst struck in the entire Byzantine series.
+
+The later years of the seventh century saw sporadic attempts at improvement,
+often with initial issues of heavy coins at imperial accessions; but none of
+these efforts proved permanent. 
+
+
+
+
+
+
 - This wide range of coins was made possible by the use of three metals, and in this respect it is comparable to modern coinage
 
 Od drugiej połowy VI w. waga monet brązowych zaczyna spadać, stają się one monetą kredytową. Ograniczono liczbę mennic lokalnych, właściwie do VIII w. bimetaliczne (złoto, brąz) mennictwo bizantyjskie stało się monometaliczne, oparte przede wszystkim o złoto. Cesarz Herakliusz (610-641) zwiększył ok. 614/615 roku znaczenie srebra wprowadzając nowy nominał **heksagram** bity wg stopy 1/48 funta (6,82 g), jednak ograniczenie zapasów kruszcu pod koniec VII w. spowodowało zawieszenie tej emisji. (MCBS. 4)
@@ -125,11 +290,118 @@ Od drugiej połowy VI w. waga monet brązowych zaczyna spadać, stają się one 
 
 ratio monet brązowych do złotych podłegało ciągłym zmianom, tabelka str. 43-45 i nie do końca jest to rozeznany temat
 
+
+
+
+
+
+
+
+
+
 ### Okres II: Od połowy VIII do końca XI w.
 - the simplification of this pattern to only three denominations, one in each metal: 
     - the nomisma (Fig. 11), 
     - a silver coin known as a miliaresion (Fig. 20), 
     - and the follis (Fig. 38)
+    
+nomisma?
+nomisma [gr. nómisma ‘moneta’], złota moneta cesarstwa bizant. od IX w., waga ok. 4,4 g, kontynuująca tradycję solida, na Zachodzie zw. bezant;
+Nicefor II Fokas wprowadził obok n. ciężkich, 23-karatowych (histamenon), także n. lekkie, 22-karatowe (tetarteron, 4,17 g); po znacznej dewaluacji w XI w. Aleksy I Komnen przywrócił 1092 pierwotny standard wagowy solida (n. hyperpyron, 4,55 g); po ponownej dewaluacji zaniechano emisji n. w połowie XIV w.
+https://encyklopedia.pwn.pl/haslo/nomisma;3948147.html
+
+
+Not until the mid-ninth century does a fresh series of changes occur. After
+image worship was restored in 843, Michael III’s (842–867) guardians placed
+on his nomismata a bust of Christ copied from that of Justinian II’s coins
+(Figs. 9, 11). Thereafter either a bust or a seated figure of Christ became a
+regular feature of the nomisma.
+
+Leo VI (886–912) struck some nomismata
+bearing a true portrait instead of an undifferentiated imperial figure, as did
+his son Constantine VII Porphyrogenitus (913–959; Fig. 12). Subsequently the
+use of portraiture became common, so that coins of many eleventh-century
+emperors can be recognized at once from the ruler’s appearance.
+
+Much more fundamental than these alterations in the external appearance
+of post-Iconoclastic coinage were changes in their weights and fineness (purity).
+The emperor Nicephorus II Phocas (963–969), apparently for fiscal reasons,
+struck a new class of nomismata slightly lighter in weight, which came to
+be called tetartera (literally, coins lacking a “quarter”), in contrast to those of
+full weight, which were named histamena
+These light coins—the weight reduction
+was really much less than a quarter, but the term tetarton could have the
+same lack of precision that “quarter” can have in English, as in the “quarter” of a
+city—were not at first differentiated in appearance from those of full weight,
+but under Basil II (976–1025) the histamena were made larger and thinner
+(Fig. 13), and the tetartera smaller and thicker (Fig. 14). Both, however, were
+still technically nomismata, and their differing values were sometimes taken
+into account by having payments expressed in nomismata settled half-and-half
+in each.
+
+
+A new and more lasting return to silver was made in 720, when Leo III, in
+association with his son Constantine V (720–741), introduced a coin known as
+a miliaresion (Fig. 20). It was much thinner and broader than the hexagram
+and drew its inspiration from the Islamic dirham, which was itself derived from
+the earlier Sasanian drachma. Like the Islamic coin, the miliaresion had no ruler
+representations, being ornamented instead with only a cross and the joint emperors’
+names and titles. For the first century of its existence there were no coins in the
+name of a single emperor, apparently because they represented ceremonial issues,
+struck for the public distributions that were customary when a co-emperor was
+appointed. Not until the reign of Theophilus (829–842) did silver coin become
+a regular part of the currency, struck by each ruler from his accession onward
+
+
+
+The weight of the miliaresion was modified several times over the next two
+hundred years, but virtually no change was made in its design, and only one significant
+change occurred in its wording. Michael I (811–813) added the word
+Romaion (“of the Romans”; Fig. 21) to the simple basileis (“emperors”) of his
+predecessors in order to distinguish the “Roman” Empire of Byzantium from
+that ruled by Charlemagne, who had assumed the imperial title at Rome in 800.
+
+
+In the tenth century, with the Macedonian Renaissance, attempts were made to
+render the coin more attractive. Initially a bust of Christ, and subsequently one
+of the emperor (Fig. 22), was inserted at the intersection of the arms of the
+cross that formed the reverse type. The cross itself was made more elaborate,
+and on one anonymous issue of the tenth century the icon of the Virgin
+Nikopoios, which was believed to have given victory to Basil II at the battle of
+Abydos in 989, took the place of the cross (Fig. 23).
+
+
+
+Braz
+
+Under the Isaurian emperors (717–797) copper
+coinage began to undergo the same process of simplification as had the gold.
+Decanummia and pentanummia were last struck in the middle years of the
+reign of Constantine V (741–775), and half-folles with the value mark K under
+Leo IV (775–780); the half-folles of Constantine VI (780–797) were half the
+size of his folles but of the same design, despite the obvious inappropriateness
+of the numeral M. Dating had been abandoned earlier in the century, with a
+meaningless XXX NNN having substituted for the ANNO and a numeral (Fig.
+37). As for the officina marks, the letter A was uniformly retained to fill the vacant
+space beneath the M. Since nummi had long since ceased to be minted,
+the concept of “40” was meaningless, and Theophilus finally abandoned the M
+in favor of an inscription in several lines that filled the field.
+
+Under Theophilus’ father, Michael II (820–829), the weight of the follis
+was increased to about 8 grams; this broad, heavy piece was to become the characteristic
+copper coin of the middle Byzantine period. The normal design, from
+the reign of Theophilus onward, consisted of an imperial figure or figures on
+one side, and an inscription giving the emperor’s name and title, and perhaps
+some laudatory epithet like eusebes, “pious,” or pistos, “faithful,” on the other
+(Fig. 38). Under the emperor John I Tzimisces (969–976) a bust of Christ was
+substituted for the imperial figure, and the inscription “Jesus Christ, king of
+those who rule,” for the imperial name and title. Thus was initiated the series of
+so-called anonymous folles (Fig. 39), which were to continue, with a variety of
+designs, until 1092.
+
+
+
+
     
 Od pierwszej połowy IX w. cesarze Michał II (820-829) i Teofil (829-842) zdołali ponownie wprowadzić do obiegu i utrzymać follis o podniesionej wadze (7,7 g). Teofil wprowadził też srebrne **miliaresion**, który był wymieniany w relacji 1/12 solida. W latach kolejnych rosła waga folisów, aż do ok. 18 g na początlu XI w. (powrót do systemu bimetalicznego).
 
@@ -139,11 +411,128 @@ W IX-XI w. Bizancjum miało zatem dwa nominały złote (histamena, tetaretra) or
 
 Okres stabilizacji bizantyjskiego systemu monetarnego zakończył się ok. połowy XI w. Za czasów Konstantyna X Monomacha (1042-1055) mennica cesarska zaczęła po raz pierwszy na szerwszą skalę stosować proceder obniżania zawartości złota w stopie aż do ok. 80% zlota (19 karatów). Była to zmiana trudno zauważalna dla użytkowników, ale cesarzowi przynosiła zysk. W latach 70-tych XI w., podczas walki z naporem Turków seldżuckich, zawartość złota w monetach spadła do ok. 40% (9,5 karata), co spowodowało załamanie się zaufania do pieniądza. Podobnie zmniejszyła się zawartość srebra w miliaresion i waga brązowego follisa. Bizantyjski system monetarny uległ w 2 połowie XI w. zupełnemu załamaniu. (MCBS. 6)
 
+A more serious change was the decline of the nomisma in fineness. For
+seven centuries, from its creation by Constantine I the Great until the fourth
+decade of the eleventh century, the nomisma as struck at Constantinople remained
+a coin of pure gold. Michael IV (1034–41), who had been a moneychanger
+in early life and who was believed to have dabbled in counterfeiting,
+issued some of his nomismata in debased metal. During the middle years of the
+century the debasement continued at intervals, until in the decade following the
+disastrous Byzantine defeat at Manzikert (1071) the fineness of the nomisma
+declined to about 8 carats. Then, in the 1080s, when Alexius I was compelled to
+melt down imperial plate in order to pay his troops, the amount of gold in the
+nomisma fell to virtually nothing. This debasement was accompanied by the
+introduction, under Constantine IX (1042–55), of a concave fabric for the
+histamenon (Fig. 15)—by now a thin coin some 26 millimeters in diameter—
+apparently with the intention of making it stronger and less easily bent.
+
+The last issues of anonymous folles in the 1080s were poorly struck coins
+weighing generally no more than 6 grams.
+
+
+
 ### Okres III: Od 1092 do końca XIII w.
 - from the monetary reform carried out by the emperor Alexius I Comnenus (1081–1118) in 1092
 - use of several denominations of debased metal (called trachea by contemporaries) that were strikingly different from normal coins in being concave instead of flat (Fig. 15)
 - The highest denomination was a coin of slightly base gold known as a hyperpyron (Fig. 16), which replaced the old nomisma of pure gold
 - A coin of much baser gold (Fig. 17) revived the functions of the long-defunct tremissis, while small change was provided by trachea of very base silver (Fig. 25), which eventually became copper, and by two denominations of small flat coins that were copper (Fig. 40), one briefly becoming lead.
+
+
+A monetary reform carried out by Alexius I in 1092 saw a return to
+nomismata of good-quality gold, although, due to the constraints of the recycling
+of earlier debased coins, the fineness was set at only 20 1/2 carats instead
+of the traditional 24 (Fig. 16). These new coins were called hyperpyra, that is,
+“super-refined,” which they no doubt were in comparison to their immediate
+predecessors; they were also all of the higher weight of the traditional nomisma.
+
+
+Accompanying them were coins between 6 and 7 carats fine, corresponding in
+value both to the old tremissis and to the histamenon of the 1070s, in which
+many values had been expressed. They seem not to have had a special name, but
+were often nicknamed according to their types, for example, trikephala, “threeheaders,”
+or hagiogeorgata, “Saint Georges” (Fig. 17).
+
+The obverse types (i.e.,
+those on the convex faces of the coins) are usually some representation of
+Christ or the Virgin, while the reverses normally show a standing emperor accompanied
+by Christ, the Virgin, or one of the saints.
+
+
+Although the hyperpyron survived the disaster of 1204, when Constantinople
+became the seat of the short-lived Latin Empire (1204–61), coins struck
+by the exiled “emperors of Nicaea” at Magnesia in Asia Minor were little by
+little debased, falling to 18 carats under John III (1222–54). Moreover, the
+
+former electrum coins that had accompanied them were by now of virtually
+pure silver. After Michael VIII Palaeologus (1259–82) recovered Constantinople
+in 1261, the hyperpyron was reduced to 15 carats, and then fell further to
+12 carats during the long reign of his son Andronicus II (1282–1328). At the
+same time the striking of the coins became increasingly slovenly, and their
+weights very irregular (Fig. 18). These coins were evidently valued by weight, as
+gold coins have always been where large sums have been involved, rather than
+by number.
+
+The last hyperpyra of the traditional pattern, which effectively mark
+the end of Byzantine gold coinage, were struck by John V in association with
+John VI (1347–52). This suspension, coming a full century before the fall of
+Constantinople to the Turks, is at first sight paradoxical, since at that very time
+several countries in western Europe were beginning to mint gold on a substantial
+scale. Yet it may well have been the demand for gold in Latin Christen-dom
+that forced Byzantium to abandon it in favor of silver.
+
+
+SILVER
+In the eleventh century,
+fractions of the miliaresion began to be struck, and a variety of types—standing
+figures of the Virgin (Fig. 24) and the emperor, the bust of the Virgin or of
+Christ, or a seated figure of Christ—began to appear.
+
+
+The silver miliaresion shared the fate of the gold nomisma in the 1080s,
+and was not replaced in the reform of 1092. Instead there appeared a concave
+coin (Fig. 25) of low-grade billon (about 7 percent silver) that was initially
+worth a quarter of the old miliaresion, being reckoned 48 to the hyperpyron
+
+The government seems to have felt no obligation to maintain the quality of this
+relatively poor billon trachy; by the end of Andronicus I’s reign (1183–85) its
+fineness had fallen to about 2 percent silver, and it was reckoned at 120 to the
+hyperpyron. Analyses of thirteenth-century specimens show that by that time it
+had become a copper coin, although the retention of a concave fabric indicates
+the continued pretense of a slight silver content—a pretense that allowed its
+overvaluation against the gold coinage.
+
+
+BRAZ
+
+In 1092 Alexius I abolished the denomination
+and replaced it with a small copper coin that, unlike all the higher
+denominations, was flat instead of concave. Since it was about the same size as
+the former gold tetarteron, resembled it in general appearance, and was possibly
+worth a quarter of the final follis of the 1080s, it was in turn called a tetarteron
+or tetarton. Tetartera were struck in profusion during the twelfth century at
+Constantinople and Thessalonica, with a great variety of designs: busts or
+standing figures of the emperors, representations of Christ, the Virgin (Fig. 40),
+and saints, and imperial or other monograms. There are sometimes halftetartera,
+and one issue of Alexius I was, most unusually, of lead, which allowed
+for a larger coin than a copper one would have been. In the thirteenth century
+the denomination became appreciably rarer, no doubt because of the declining
+value of the billon trachy, which by then had itself degenerated into a copper
+coin.
+
+In the late thirteenth century the tetarteron-like copper coins disappeared,
+to be replaced by thinner and slightly broader coins that were known by the old
+Roman name of assaria (Fig. 41). Under Andronicus II and Andronicus III
+(1328–41) their designs were probably changed annually, and are consequently
+extraordinarily varied, but the slovenly striking and poor preservation of most
+specimens make their details difficult to reconstruct. Paucity of hoard evidence
+also leaves their precise dating uncertain. When the heavy silver stavraton was
+introduced in 1367, the assaria were replaced by two copper denominations, one
+called a tournesion (tornese in Italian), since some of the coins were modeled on
+the denier tournois of Frankish Greece, and the other called a follaro, a tiny
+piece less than 1 gram in weight, which had only its name in common with the
+old follis (Fig. 42).
+
+
 
 
 Aleksy I Komnenos (1081-1118) dokonał w 1092 roku próby reformy systemu monetarnego opierając go na czterech (a nie jak dotąd na trzech) metalach: złoto, elektron (stop złota i srebra), bilon (stop srebra i miedzi), brąz. Podstawowym nominałem było złote **hyperperon** o wadze 1/72 funta (4,54 g) i stosunkowo wysokiej zawartości złota - 21 karatów. System ten miał znaczenie raczej lokalne i nie przywrócił monecie bizantyjskiej znaczenia poza granicami.
@@ -153,6 +542,35 @@ Po zdobyciu Konstantynopola przez IV Wyprawę Krzyżową w 1204 roku poszczegól
 
 ### Okres IV: Pierwsza połowa XIV w.
 - lasting from soon after 1300 to the mid-fourteenth century, saw the introduction of a silver coin, the basilicon (Fig. 26), modeled on the silver ducat of Venice, and a small copper coin known as an assarion (Fig. 41)
+
+
+The fourteenth century saw a return to silver on a massive scale. Soon after
+1300, Andronicus II introduced the so-called basilicon (sc., “imperial” coin; Fig.
+26), whose types copied those of the silver ducat (sc., coin “of the doge”) of
+Venice and which was of a comparably high purity. Since it was of pure silver, it
+was made flat and not concave, and as 1/12 of the hyperpyron it corresponded
+to the old miliaresion and thus fitted easily into the system of account (see table
+V, p. 45). In the 1330s and 1340s, however, its weight was significantly reduced—
+much of Europe was then suffering from an acute silver shortage—and
+after the mid-century it was no longer struck. Instead there appeared a new silver
+coin known as a stavraton (Fig. 27), so called for the cross (stavros in Greek)
+that had been a prominent feature of a Neapolitan or Provençal double gigliato,
+which apparently provided the model for its issue. Since the stavraton was taking
+over the functions previously fulfilled by the now-abandoned gold coinage,
+it had to be made heavier than any silver coin previously used in Byzantium,
+and indeed heavier than any silver coin used in Europe at that time, but even
+so, at an initial weight between 8 and 9 grams, it had the value of only half the
+hyperpyron. Fractions of a half (Fig. 28) and an eighth were also struck, but no
+quarters, since this role was filled by the silver ducats of Venice. The stavraton
+and its fractions were struck up to the last years of the empire, but the complete
+series of the last emperor, Constantine XI (1449–53), has been known only
+since 1990, when a hoard containing ninety specimens appeared on the market.
+It had long been recognized that such coins were referred to in contemporary
+narratives of the siege of Constantinople, but their existence had been doubted
+for a long time, for until 1974, when two half-stavrata were published, not a
+single coin of Constantine XI appeared to have survived
+
+
 
 
 Po odzyskaniu Konstantynopola w 1261 roku przez władcę Nicei, Michała VIII Paleologa (1259-1282) utrzymano istniejący od 1092 system monetarny, jednak sukcesywnie zmniejszano zawartość kruszcu w hyperperonie, aż do 11 karatów w XIV w. Jego zasięg kurczył się coraz bardziej, aż w końcu coraz większą rolę zaczęły odgrywać emisje państw sąsiednich, m.in. państw utworzonych przez krzyżowców w Grecji oraz emisje napływające z Europy zachodniej. (MCBS. 7)
