@@ -137,14 +137,311 @@ three and a half centuries, from their introduction by Anastasius I in 498 to
 their disappearance in the ninth century
     
 Na co zwracac uwage? 
+    
+----
 Przedstawienia władców
     - Ile jest postaci, czy są one współrządzącymi, aktualnie rządzącym i następcą lub poprzednikiem.
     - Jak wygląda ubiór imperatora
     
+From the fourth to the early
+seventh century the emperor was fairly consistently shown in military dress,
+since such dress was inherent to the office of imperator (Fig. 4). In the seventh
+century it became less common, and under the Isaurians military types disappeared
+completely, and were absent for the next three hundred years. In the
+eleventh century such types were revived, but the emperor was now normally
+shown standing armed with a sword (Fig. 51), whereas in earlier times he had
+regularly been armed with a spear.
+    
+The two forms of civilian dress preferred between
+the seventh and the eleventh centuries were the chlamys (Fig. 8), a long
+purple cloak fastened at the right shoulder by a fibula and decorated with a
+panel known as a tablion, and the loros, the traditional consular dress. The loros
+evolved into an elaborate jeweled scarf and eventually into a robe with a long
+train that was brought around the right side of the body and hung down over
+the emperor’s extended left forearm (Fig. 9; rear cover). It was worn by the emperor
+during the religious ceremonies of Easter Sunday, for the long scarf
+wrapped around the emperor like a winding sheet was thought to associate him
+with the dead and resurrected Christ.
+    
+    - W jakie insygnia został wyposażony
 
+Imperial insignia included the globus cruciger, an orb surmounted by a
+cross signifying the heavenly basis of imperial rule, and the mappa, a handkerchief
+used to signal the start of the games. The latter was originally a consular
+emblem but in time was amalgamated with a scroll, becoming a small cylindrical
+object with jeweled ends known as an akakia (Fig. 56).
+    
+Another consular emblem was the scipio, an ivory scepter surmounted by an eagle, which was often
+borne by emperors on coins of the fourth to the sixth century (Fig. 52), but
+which disappeared with Philippicus (711–713).
+From the fifth century onward,
+long-shafted scepters often take the form of a cross, either plain or decorated,
+or of a labarum (Fig. 16), a scepter with a rectangular head elaborately ornamented
+or inscribed with a Christogram—usually reduced to the letter X or a
+quincunx—which derived from the Roman legionary standard.
+    
+The imperial
+crown, when not shown in the form of a simple diadem, is characterized by
+pendilia hanging down on either side (Fig. 12). The crowns of empresses
+usually have longer pendilia and are distinguished from the crowns of their
+consorts by the presence of a circlet of sharply pointed triangular plaques or
+pinnacles (Fig. 49).
+    
+Characterized portraiture is completely absent on coins of the fifth and
+sixth centuries. It was revived by Phocas, who is shown on his coins with the
+shaggy locks and untidy beard that are familiar from a bronze weight in the
+British Museum (Figs. 53, 54). Heraclius in later life and his grandson Constans II
+(Fig. 8) are remarkable for their vast beards. A strong element of portraiture
+exists in coins of the late seventh century, when the imperial mint had the services
+of a die-sinker of talent who rendered admirably the wispy mustache of
+Constantine IV, the youthful features of Justinian II (Fig. 55), and the fat,
+bearded face of Leontius (695–698; Fig. 56).
+    
+Portraiture was again absent during
+the Isaurian and Amorian periods, when faces were depicted in a purely linear
+manner (Fig. 10). Under the Macedonians the same tradition remained
+dominant, but there are occasional issues showing what are clearly intended to
+be personal likenesses of Leo VI, Romanus I (920–944), Constantine VII (Fig. 12),
+and Romanus II (959–963). Larger and much more impressive versions of these
+occur on imperial seals and ivories (Fig. 57).
+    
+Personalized elements continue to appear on some eleventh-century coins,
+as, for example, on those of Constantine VIII (Fig. 58), whose beard, growing
+in profusion on the cheeks and combed forward to conceal the absence of hair
+on the chin, corresponds closely to Psellus’ description of the beard of Constantine’s
+brother, Basil II. But personal elements are often absent. The rare histamenon
+of Zoe and Theodora (1042; Fig. 59) gives neither empress any recognizable
+features, although we know from Psellus that the two sisters differed as much in
+personal appearance as they did in character and disposition. In the twelfth
+century Andronicus I’s coins show him with a long forked beard, a feature
+noted in the written sources; such beards subsequently became fashionable and
+are found on the coins of a number of his successors. The effigies of the last
+Palaeologan emperors can only be regarded as grotesque (Figs. 27, 28).
+    
+---
+Wyobrażenia religijne
+    
+Coins of the early Roman Empire had displayed a rich variety of religious
+types, with well-known pagan deities being supplemented by allegorical
+representations of provinces or towns (e.g., Britannia) or personifications announcing
+objectives of imperial policy (e.g., Concordia). With the adoption of
+Christianity in the fourth century all of these disappeared, with the exceptions of
+Roma and Constantinopolis, whose allegorical character was self-evident, and
+Victory, who formed the focus of too many hopes and aspirations to be lightly
+abandoned. Roma, usually represented as a seated, helmeted figure, and Con-
+stantinopolis, distinguished from Roma by having her foot on the prow of a
+ship, which symbolized Constantine’s naval victory over Licinius in the
+Hellespont, were frequent coin types during the fourth and fifth centuries, but
+then disappeared. When Constantinopolis appeared for the last time, on solidi
+of Justin II (Fig. 60), she was already so unfamiliar that some users thought her
+to represent the goddess Venus. Victory had slightly greater staying power. Ubiquitous
+on coins of the fourth and fifth centuries, she lasted through the sixth and
+made her last appearance, in a very subordinate role surmounting an orb, on
+coins struck by Heraclius after his defeat of the Persians in 629.
+    
+In view of the major role played by religion in Byzantine life, one would
+expect pagan types to have been quickly replaced by Christian ones after the
+conversion of Constantine I. This was not the case, since Christian iconography
+was slow to assert itself in the fourth century and emperors had to take account
+of public opinion, and particularly of the sentiments of the army, which was
+probably much less Christian than our written sources suggest. It is true that
+Christian symbols such as the Christogram and the cross already figure on
+coins of the fourth century, but they normally do so in a subordinate capacity.
+The cross as a major element in coin design became prominent only in the fifth
+century, and the common use of representations of Christ on coins did not
+begin until the ninth. Coin types of the Virgin became frequent only in the
+eleventh century, while those of other saints did not become common until the
+twelfth.
+    
+The most obvious and satisfactory religious devices to be represented on
+coins were the monogram of Christ (i.e., the Christogram, which conveyed an
+Orthodox, anti-Arian claim) and the cross. They were simple to design and did
+not offend Christians concerned with the propriety of representing Christ in
+person. At first these devices were used very discreetly, the Christogram as a
+decoration on the helmet of Constantine I (Fig. 61), and either a Christogram
+or a cross as an issue mark in the field. The fifth century, however, was a time of
+decisive changes in Byzantine art, and, unsurprisingly, Christianization was reflected
+in the coinage: a cross in a wreath became one of the main types of the
+tremissis, while a Victory holding a long cross was the chief solidus type in
+the east from 420 onward. Justin I (518–527) transformed the profile female
+Victory, with a high girdle beneath her breasts (Fig. 4), into a facing angel
+of indeterminate sex, while Tiberius II dispensed with the angel, making a cross
+potent on steps the reverse type of his solidus (Fig. 5). It was to occupy this position
+throughout the seventh century. In 720 Leo III transferred the cross to
+his newly constituted silver coin, the miliaresion (Fig. 20), since he preferred
+to use a bust of his son and colleague Constantine V as the reverse type
+on his gold. The cross remained characteristic of the miliaresion until the eleventh
+century, when it began to be displaced by representations of the Virgin or
+Christ. History repeated itself, however, for as the cross was gradually removed
+from the silver, room was found for it on the copper, where it became fairly
+common between the eleventh and the thirteenth centuries.
+    
+The earliest and most important figurative religious representations on
+Byzantine coins are those of Christ. Two quite different busts of Christ were
+introduced in succession by Justinian II (685–695; 705–711)—the first a majestic
+bearded face, which seems ultimately to derive from that of the Phidian
+Zeus, stressing his divine nature (Fig. 9); the other a youthful head with a mop
+of closely curled hair, a portrait type that referred to his human nature and was
+considered to be more “true,” which is believed to have originated in Syria (Fig. 62).
+The second variant never appeared again, though a bust of the infant Jesus
+(Christ Emmanuel) was introduced by Manuel I (1143–80; Fig. 63) as a play on
+his name and was used by many of his successors, but the first, in cruder form,
+was revived under Michael III a century and a half later (Fig. 11). Basil I (867–886)
+replaced it in 867 with an image of Christ enthroned (Fig. 64), and thenceforward
+representations of Christ are a regular feature of the coinage. Some of the types
+derive from well-known icons of the capital. The earliest seated Christ probably
+reproduced the figure in the conch of the apse above the imperial throne in the
+Chrysotriklinos of the Great Palace, initially set up under Justin II and restored
+between 856 and 866, while the bust of Christ Pantocrator (Fig. 13) had first
+been used in the post-Iconoclastic period to decorate the summit of the dome
+in Byzantine churches (Fig. 65). Within each type, and especially in the
+Pantocrator bust and the icons of Christ enthroned, one can follow closely the
+evolution of artistic fashions and concepts.
+    
 
+Second in importance to the representations of Christ are those of the Virgin,
+which, after occasional appearances in the tenth century (Fig. 23), proliferate
+on coinage from the 1030s onward. The emperor Romanus III (1028–34) had a
+particular devotion to the Virgin, founding in Constantinople the monastery of
+St. Mary Peribleptos and bringing to light an old icon of the Theotokos
+Nikopoios (literally, “the Mother of God who brings victory”) in the church of
+the Blachernae. The Virgin is represented on coins in various manners: as a bust
+or standing figure with hands raised in the traditional gesture of prayer
+(Blachernitissa; Fig. 24), later represented inside the walls of Constantinople
+the “God-Guarded City” (Fig. 18); as a bust holding a medallion of Christ
+(Nikopoios; Fig. 23); as a standing figure holding in her arms the infant Jesus
+(Hodegetria; Fig. 66); and as a seated figure, usually with a medallion of Christ
+on her lap. Her costume is always the same: a long-sleeved tunic and a veil (the
+maphorion), which covers her head and falls to the level of her ankles. At her
+forehead and shoulders the maphorion is decorated with four pellets in the
+form of a cross (Fig. 23). Like the depictions of Christ, some of these representations
+of the Virgin correspond to well-known icons: the Hodegetria, for example,
+reputedly painted by St. Luke, was preserved in the church of that name
+near Seraglio Point in Constantinople (Fig. 67, ivory version).
+    
+    
+Saints first appear on coins in the tenth and eleventh centuries, but become
+common as coin types only from the twelfth century onward. For the most part
+they are military in character and include Sts. Michael, Demetrius (Fig. 44),
+George (Fig. 17), and Theodore, as well as the sanctified emperor Constantine.
+In the thirteenth century additional saints appeared, notably Nicholas and
+Tryphon, but they never attained the same degree of popularity, any more than
+did representations of seraphim and cherubim, which appeared in the Nicene
+period and under the Palaeologans. Usually there is no clue to the rationale
+behind the choice of a particular saint. However, St. Demetrius was particularly
+venerated at Thessalonica, and St. Tryphon at Nicaea, while some emperors
+showed a predilection for the saints after whom they were named. St. Michael is
+shown presenting the emperor to Christ on hyperpyra of Michael VIII; an
+assarion of Andronicus II has as its obverse type the obscure St. Andronicus;
+and two rare coins of John V depict St. John the Baptist, known in Greek as
+Prodromos (“the Forerunner”).
+    
+    
+Often Christ, the Virgin, or a saint is shown directly associated with the
+emperor. The Virgin may bless him or hold jointly with him a long cross or
+labarum; military saints do the same (Fig. 17), or hand him a sword or other
+symbol of power (Fig. 68). When the Virgin is shown touching the emperor’s
+head (Fig. 69), she is often regarded as crowning him, but the gesture is no
+more than one of benediction; the emperor owes his crown to Christ, and sometimes
+a Hand of God or a suspended crown is shown above his head (Fig. 13).
+The depiction of the Virgin or a saint in company with the emperor raised a
+delicate question of protocol, for one would expect the holy figure to be
+accorded the position of honor, on the spectator’s left. The Virgin does indeed
+occupy this position on the earliest coin on which this situation arose, a
+nomisma of Nicephorus II Phocas. Subsequently, however, the emperor is normally
+shown on the left, partly to do him honor and partly because it was
+thereby easier to show the heavenly personage using his or her right hand to
+touch the emperor’s crown or to hold some symbol. In the latter case, superiority
+is shown by the positioning of the saint’s hand above that of the emperor
+(Fig. 17).
+    
+---
+Napisy
+    
+A feature of coin inscriptions in many periods is their extreme conservatism,
+most notably in their employment of traditional formulae and of languages
+no longer in common use. In Byzantium this conservatism is manifest in
+the long delay before Latin (language and script) was entirely replaced by
+Greek, although denomination marks were usually in Greek right from the
+start. The earliest Greek inscription to appear on the coins is the phrase en touto
+nika (“in this [sign] conquer”) used on the earliest folles of Constans II; these
+were the words that accompanied the Christogram in Constantine’s vision before
+the battle of the Milvian Bridge. Only in the mid-eleventh century was the
+replacement of Latin characters by Greek completed, and then only after a long
+period during which they were used indiscriminately, with C having the value
+of “K” in one place and of “S” in another.
+    
+The distinctive imperial titulature on early Byzantine coinage took shape
+in the mid-fourth century, with DN (Dominus noster, “Our Lord”) preceding
+the emperor’s name, and PF (pius felix, “pious, fortunate”) or PP (perpetuus,
+“eternal”) AVG[ustus] following it (Fig. 4). By the end of the seventh century
+the letters DN and PFAVG had ceased to be generally intelligible. In the early
+eighth century the first formula was dropped and the second replaced by
+PAMVLT (per annos multos, “for many years”), an imperial acclamation that
+was, significantly, still used in Latin during court ceremonies. The Latin term
+augustus did not survive the eighth century, being replaced on coins by a variety
+of equivalent Greek terms, such as despotes, basileus (Fig. 20), or autokrator. Epithets
+such as doulos Christou (“servant of Christ”) and eusebes (“pious”) were
+sometimes added, or the phrase en Christo, en Theo (“in Christ, in God”), the
+latter being the equivalent of the western formula Dei Gratia (“by the grace of
+God”).
+    
+One epithet of particular interest is orthodoxos (Fig. 70). It was used by two
+rulers of the mid-eleventh century, who thereby intended to assert the “orthodoxy”
+of eastern sovereigns during the conflict with Rome that resulted in the
+schism of 1054. Yet another epithet is porphyrogenitus (“purple-born”), which
+signified that an emperor had been born in the porphyry-lined chamber in the
+palace, i.e., after his father’s accession to power. It is used on a coin of Constantine
+VII (Fig. 71), who had an interest in asserting the legitimacy of his birth
+against those who denied the validity of his father Leo VI’s fourth marriage; it
+was used again under John II Comnenus (1118–43), the first emperor for over a
+century who had come to the throne by hereditary succession. Beginning in the
+eleventh century, family names, which had progressively come into use from the
+eighth century onward, were added to personal ones in coin inscriptions (Fig. 24).
+A notable feature of imperial inscriptions from the reign of Alexius I onward
+is the frequency with which they are arranged in vertical columns (Fig. 16), like
+those accompanying figures in church mosaics, instead of following the circumference
+of the coin as was customary earlier.
+    
 
     
+Reverse inscriptions were also initially in Latin, and usually between the
+fourth and the seventh centuries they supplemented the Victory or the cross
+that formed the type by including some reference to Victory, such as Victoria
+Augustorum, “the Victory of the emperors” (Fig. 7). In the fourth and the early
+fifth centuries the number of associated emperors was indicated by the number
+of Gs in AVG[GG], but in the second half of the fifth century this became standardized
+to three Gs and later to two, even if there was only a single emperor (Figs.
+4, 5). In the Isaurian period, with the replacement of the cross by a second imperial
+figure, the latter’s name and sometimes his relationship to the reigning emperor
+are given. Leo IV’s nomismata, for example, have a long inscription identifying on
+the reverse “Leo the grandfather, Constantine the father,” and on the obverse, “Leo
+the son and grandson, Constantine the young” (Fig. 10). The religious types
+from the ninth century onward are accompanied by appropriate inscriptions, at
+first partly in Latin (e.g., IHS XPS REX REGNANTIVM [“Jesus Christ, king
+of those who rule”]), but later wholly in Greek.
+    
+Occasionally there are long inscriptions reading from one side of the coin
+to the other. The miliaresion of Romanus III, for example, shows a standing
+Virgin Hodegetria (literally, “the one who leads the way”) with the following
+metrical text: “O Virgin all-glorious, he who places his hope in thee will prosper
+in all that he does” (Fig. 66). The double circle of inscriptions on the
+reverse sides of the stavrata of John V (Fig. 27) and of his successors made
+possible a long sequence of imperial titles, though the lettering is by that time
+so bad that the inscriptions are never wholly legible. Indeed, it is with coins like
+these last ones that we find ourselves in the twilight of Byzantium’s long and
+distinguished numismatic tradition, a decline manifested in figural representations
+as well. Few greater contrasts can be imagined than that between the
+deplorable effigy of John VIII (1425–48) on his coinage (Fig. 72) and the
+splendid medal of the same emperor made by Pisanello when John VIII journeyed
+to Italy in 1438 for the councils of Ferrara and Florence in a vain search
+for aid against the Turks (Fig. 73). Byzantium was dying, and its tradition of
+numismatic excellence, received centuries earlier from the Romans, was passing
+back to the West—to a dawning Renaissance.
+    
+    
+
+
 =========================
 
 ### Okres I: Od końca V (495) do połowy VIII w.
