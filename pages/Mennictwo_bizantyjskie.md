@@ -98,7 +98,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
 #### Monety złote
 W okresie tym, obiegały trzy złote nominały: solidus, semissis oraz tremissis.
 
-W wieku V i VII na awersie **solidusów** władca występuje zwykle w zbroi (popiersie na wprost), na rewersie widnieje Wiktoria lub archanioł wspierający krzyż, siedząca personifikacja Konstantynopola lub też krzyż na wywyższeniu. Na awersie **semissis** i **tremissis** występuje popiersie imperatora z profilu. Na rewersie **semissis** widnieje siedząca Wiktoria zapisujaca na tarczy liczbę lat panowania władcy, a na **tremissis** Wiktoria niosąca wieniec i kulę zwieńczoną krzyżem.
+W wieku V i VII na awersie **solidusów** schematyczne ujęcie władcy występuje zwykle w zbroi (popiersie na wprost lub nieco w bok), na rewersie widnieje Wiktoria, archanioł wspierający krzyż, siedząca personifikacja Konstantynopola lub też krzyż na wywyższeniu. Na awersie **semissis** i **tremissis** występuje popiersie imperatora z profilu. Na rewersie **semissis** widnieje siedząca Wiktoria zapisujaca na tarczy liczbę lat panowania władcy, a na **tremissis** Wiktoria niosąca wieniec i kulę zwieńczoną krzyżem.
 
 <table class="center">
   <tr>
@@ -225,7 +225,8 @@ W wieku V i VII na awersie **solidusów** władca występuje zwykle w zbroi (pop
   </tr>
   <tr>
     <th>Opis rewersu</th>
-    <td>XXXXXX cross on steps (Fig. 5) which is believed to represent the great jeweled cross erected on Golgotha</td>
+    <td>XXXXXX cross on steps (Fig. 5) which is believed to represent the great jeweled cross erected on Golgotha   na którym wzniesiono wielki, wysadzany klejnotami krzyż
+Golgota Teodozjusza II (408–450)</td>
   </tr>
   <tr>
     <th>Literatura</th>
@@ -256,7 +257,7 @@ W wieku V i VII na awersie **solidusów** władca występuje zwykle w zbroi (pop
   </tr>
   <tr>
     <th>Waga [g]; średnica [mm]</th>
-    <td>2,25; XXXXXXXX20</td>
+    <td>2,25; 17</td>
   </tr>
   <tr>
     <th>Awers</th>
@@ -319,7 +320,8 @@ W wieku V i VII na awersie **solidusów** władca występuje zwykle w zbroi (pop
   </tr>
   <tr>
     <th>Opis rewersu</th>
-    <td>Wiktoria krocząca w prawo z głową zwróconą do tyłu, trzymająca wieniec i glob z krzyżem, w polu gwiazda, wokoło VICTORIA AVGVSTORVM, w odcinku CONOB</td>
+    <td>Wiktoria krocząca w prawo z głową zwróconą do tyłu, trzymająca wieniec i glob z krzyżem, w polu gwiazda, wokoło VICTORIA AVGVSTORVM, w odcinku CONOB    Victory bearing
+a wreath and an orb surmounted by a cross</td>
   </tr>
   <tr>
     <th>Literatura</th>
@@ -335,38 +337,248 @@ W wieku V i VII na awersie **solidusów** władca występuje zwykle w zbroi (pop
   </tr>
 </table>
 
+W VII wieku nastąpiły duże zmiany w ikonografii monet. Za czasów Fokasa (602–610) i Herakliusza (610–641) wprowadzono portrety władców, a późniejsze monety odzwierciedlały zmiany zarówno w wyglądzie cesarza, jak i w ustaleniach, jakie poczynił w sprawie swojej sukcesji. Zatem Konstans II (641–668) i Justynian II (685–695; 705–711; ryc. 55) ukazani są jako młodzi chłopcy na najwcześniejszych monetach; Herakliusz i Konstans II (ryc. 8) zyskują ogromne brody i wąsy. Aby zapewnić sukcesję, cesarze kojarzyli z nimi swoich synów jako współcesarzy i moneta taka była przeznaczony do reklamowania dynastii; zatem Herakliusz Konstantyn i później Heraklony towarzyszą swojemu ojcu Herakliuszowi i nie mniej niż trzech synów widnieje na odwrocie monety Konstansa II (ryc. 8) (BCPG. 7). Na rewersach pojawia się też często krzyż, który na **solidusach** jest krzyżem wywyższonym, na **semissis** krzyżem na globie, a na **tremissis** prostym krzyżem.
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Konstans II (641-668)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>663-668, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,50; 20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz08_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>xxxxxxxxx</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz08_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>xxxxxxxxxxxxx</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>DOC 2, no. 42e.1</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/online-exhibits/byzantine-emperors-on-coins/sixth-seventh-centuries-emperors-491-717/solidus-of-constans-ii-641-668">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Justynian II (685–695, 705–711)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>686/687, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,12; 19</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz55_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Frontal bust of Justinian II with beard added as row of dots, wearing chlamys and crown with cross. Globus cruciger in right hand. IYSJINIA-NYSPEAV</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz55_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Cross potent on base and three steps. VICTORIA-AVSYS . Eight-pointed star in right field CONOB</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>MIB 3:262–63, no. 10.</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>55</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/coins/catalogue/BZC.1973.6/view">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Konstans II (641–668)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Semissis, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>641-648, Syrakuzy</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>2,15; 17</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz08a_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Bust of Constans II, beardless, facing right and wearing diadem, cuirass, and paludamentum. dNCONSTAN-TINYSPPAV</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz08a_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Cross potent on globe VICTORIA-AVSYO I in right field and pellet below</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>MIB 3:244, no. 97</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/coins/catalogue/BZC.1973.5/view">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Herakliusz (610–641)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Tremissis, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>610-641, Ravenna</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>1,48; 15</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz07_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Bust of Herakleios facing right, beardless, wearing cuirass, paludamentum, and diadem with cross in front DNHERACLI-PERPPAVC</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz07_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Cross potent VICTORIAAVCVSTORVM CONOB - to nie Konstantynopol tylko Ravenna?</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>MIB 3:221, no. 126 (but obverse similar to no. 127)</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/coins/catalogue/BZC.2004.1/view">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+Justynian II (685–695; 705–711) umieścił na swoich monetach popiersie Chrystusa, a swój wizerunek (całą postać lub popiersie) przeniósł na rewers, gdzie w prawej ręce trzyma krzyż, a w lewej czasami kulę z krzyżem.
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Justynian II (685–695, 705–711)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>705-711, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,42; 20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz09_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>xxxxxxxxxxx</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz09_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>xxxxxxxx</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>DOC 2, no. 1.4</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>9</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/online-exhibits/byzantine-emperors-on-coins/sixth-seventh-centuries-emperors-491-717/solidus-of-justinian-ii-705-711">Dumbarton Oaks</a></td>
+  </tr>
+</table>
 
 
 
-
-
-
-
-
-    
-VIIw
-obverse: 
-The seventh century saw great changes in the iconography of these coins.
-Portraiture was introduced under Phocas (602–610; Fig. 53), and from Heraclius
-(610–641) onward coinage reflected changes both in the emperor’s appearance and
-in the arrangements he made for his succession. Thus, Constans II (641–668)
-and Justinian II (685–695; 705–711; Fig. 55) are shown as young boys on their
-earliest coins; Heraclius and Constans II (Fig. 8) acquire enormous beards and
-mustaches in the course of their issues. In order to assure the succession, emperors
-associated their sons with them as co-emperors, and the coinage was
-intended to advertise the dynasty; thus, Heraclius Constantine and later
-Heraclonas accompany their father Heraclius, and no fewer than three sons
-appear on the reverse under Constans II (Fig. 8).
-
-reverses:
-frequently a cross whose form indicates the denomination, the solidus having a
-cross on steps (Fig. 5), the semissis a cross on a globe, and the tremissis a
-simple cross
-
-When Justinian II (685–695; 705–711) placed a bust of Christ on his coins he removed
-himself to the reverse, where, on the gold, he is shown holding the type of cross
-appropriate to the denomination (Fig. 9; cover illustrations)
-
+============================================================
 
 VIIIw - Iconoclast emperors
 3 zmiany
