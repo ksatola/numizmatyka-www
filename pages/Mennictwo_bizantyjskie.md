@@ -128,6 +128,10 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
     <td>XXXXXX</td>
   </tr>
   <tr>
+    <th>Literatura</th>
+    <td>DOC 1, no. 3e</td>
+  </tr>
+  <tr>
     <th>Uwagi</th>
     <td></td>
   </tr>
