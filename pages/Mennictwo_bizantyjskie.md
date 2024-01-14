@@ -15,7 +15,7 @@
     - [I - ](po1)
 - [Zewnętrzne cechy monet](#zcm)
 - [Metale i próby kruszcu XXX TODO](#me)
-- [Mennice Cesarstwa Bizantyjskiego](#men)
+- [Mennice cesarstwa bizantyjskiego](#men)
 
 
 
@@ -93,6 +93,52 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
 
 <a id='po-1'></a>
 ### Okres I: Od końca V (495) do połowy VIII w.
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Anastasios I (491-518)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>491-498, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g], średnica [mm]</th>
+    <td>4.47 g, 21 mm</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz04_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>XXXXXX</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz04_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>XXXXXX</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/coins">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+
+
 
 
 
@@ -263,7 +309,7 @@ https://pl.wikipedia.org/wiki/Br%C4%85zy
 
 
 <a id='men'></a>
-## Mennice Cesarstwa Bizantyjskiego
+## Mennice cesarstwa bizantyjskiego
 Mennice bizantyjskie rozsiane były po całym terytorium imperium, a ich liczba i lokalizacja zmieniały się wraz z podbojami lub utratą terenów. W większości mennic wybijano monety brązowe. Monety srebrne wybijane były głównie w Ravennie i Kartaginie, a złote wyłącznie w Ravennie, Kartaginie i Konstantynopolu. Mennice były często podzielone na warsztaty (_officinae_, oficyny), które umieszczały swoje znaki mennicze w formie numerów (_alpha_ = 1, _beta_ = 2, itd.).
 
 <table class="center">

@@ -4,6 +4,7 @@
 # Literatura
 
 ## Druk
+
 | Skrót | Tytuł | Autor | Rok wydania | Uwagi |
 | :-: | :- | :- | :-: | :- |
 | **BCPG** | Byzantine Coinage | Philip Grierson | 1999 |  |
@@ -42,7 +43,9 @@
 | **WMS** | Miedziane szelągi Jana Kazimierza Wazy z lat 1659-1667 | Cezary Wolski | 2016 |  |
 | **WRM** | Wielka reforma monetarna XIII-XIV w. | Ryszard Kiersnowski | 1969 |  |
 
+
 ## Biblioteki cyfrowe
+
 | Skrót | Tytuł | Autor | Rok wydania | Uwagi |
 | :-: | :- | :- | :-: | :- |
 | **BCPG** | <a href="https://www.doaks.org/resources/publications/books/byzantine-coinage">Byzantine Coinage</a> | Philip Grierson | 1999 |  |
