@@ -527,7 +527,54 @@ W VII wieku nastąpiły duże zmiany w ikonografii monet. Za czasów Fokasa (602
   </tr>
 </table>
 
-Justynian II (685–695; 705–711) umieścił na swoich monetach popiersie Chrystusa, a swój wizerunek (całą postać lub popiersie) przeniósł na rewers, gdzie w prawej ręce trzyma krzyż, a w lewej czasami kulę z krzyżem.
+Justynian II (685–695; 705–711) umieścił na swoich monetach popiersie Chrystusa, a swój wizerunek (całą postać lub popiersie) przeniósł na rewers, gdzie w prawej ręce trzyma krzyż, a w lewej (w czasie drugiego okresu panowania) kulę z krzyżem.
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Justynian II (685–695, 705–711)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>692-695, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,46; 19</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz09_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>xxxxxxxxxxx</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz09_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>xxxxxxxx</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>DOC 2, no. 8a</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td>9</td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/online-exhibits/byzantine-emperors-on-coins/sixth-seventh-centuries-emperors-491-717/solidus-of-justinian-ii-685-695">Dumbarton Oaks</a></td>
+  </tr>
+</table>
 
 <table class="center">
   <tr>
@@ -548,7 +595,7 @@ Justynian II (685–695; 705–711) umieścił na swoich monetach popiersie Chry
   </tr>
   <tr>
     <th>Awers</th>
-    <td><img src="images/biz09_a.jpg"/></td>
+    <td><img src="images/biz09a_a.jpg"/></td>
   </tr>
   <tr>
     <th>Opis awersu</th>
@@ -556,7 +603,7 @@ Justynian II (685–695; 705–711) umieścił na swoich monetach popiersie Chry
   </tr>
   <tr>
     <th>Rewers</th>
-    <td><img src="images/biz09_r.jpg"/></td>
+    <td><img src="images/biz09a_r.jpg"/></td>
   </tr>
   <tr>
     <th>Opis rewersu</th>
@@ -568,7 +615,7 @@ Justynian II (685–695; 705–711) umieścił na swoich monetach popiersie Chry
   </tr>
   <tr>
     <th>Uwagi</th>
-    <td>9</td>
+    <td>9a</td>
   </tr>
   <tr>
     <th>Źródło</th>
