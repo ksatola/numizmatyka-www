@@ -12,7 +12,10 @@
     - [Moneta srebrna](#sm2)
     - [Moneta brązowa](#sm3)
 - [Pięć okresów bizantyjskiego systemu monetarnego](#po)
+    - [I - ](po1)
 - [Zewnętrzne cechy monet](#zcm)
+- [Metale i próby kruszcu XXX TODO](#me)
+- [Mennice Cesarstwa Bizantyjskiego](#men)
 
 
 
@@ -28,14 +31,16 @@ Umierając w 395 roku, cesarz <a href="https://pl.wikipedia.org/wiki/Teodozjusz_
 
 <table class="center">
   <tr>
-    <td><img src="images/Roman_empire_395.jpg"/></td>
+    <td><img src="images/bizRomanEmpire395.jpg"/></td>
   </tr>
   <tr>
-    <td>Cesarstwo Rzymskie w roku 395 (<a href="https://pl.wikipedia.org/wiki/Wielka_w%C4%99dr%C3%B3wka_lud%C3%B3w#/media/Plik:Roman_empire_395.jpg">Źródło: Wikipedia</a>)</td>
+    <td>Cesarstwo Rzymskie w roku 395 (źródło: <a href="https://pl.wikipedia.org/wiki/Wielka_w%C4%99dr%C3%B3wka_lud%C3%B3w#/media/Plik:Roman_empire_395.jpg">Wikipedia</a>)</td>
   </tr>
 </table>
 
-Cesarstwo zachodniorzymskie przeżywało stopniowy rozkład, osłabiane <a href="https://pl.wikipedia.org/wiki/Wielka_w%C4%99dr%C3%B3wka_lud%C3%B3w">wielką Wędrówką ludów</a> i najazdami Hunów oraz Wandalów, aż w końcu przestało istnieć, kiedy w roku 476 barbarzyński wódz Odoaker obalił młodocianego cesarza Romulusa Augustulusa (475-476), władcę Rzymu i Rawenny. Cesarstwo wschodnie przetrwało do roku 1453. XXXXXXXXXX TODO: napisać coś więcej na ten temat
+Cesarstwo zachodniorzymskie przeżywało stopniowy rozkład, osłabiane <a href="https://pl.wikipedia.org/wiki/Wielka_w%C4%99dr%C3%B3wka_lud%C3%B3w">wielką Wędrówką ludów</a> i najazdami Hunów oraz Wandalów, aż w końcu przestało istnieć, kiedy w roku 476 barbarzyński wódz Odoaker obalił młodocianego cesarza Romulusa Augustulusa (475-476), władcę Rzymu i Rawenny. Cesarstwo wschodnie przetrwało do roku 1453. 
+
+XXXXXXXXXX TODO: napisać coś więcej na ten temat
 
 
 <a id='sm'></a>
@@ -77,16 +82,56 @@ W 498 roku Anastazjusz I (491-518) ustalił trwały system nominałów brązowyc
 Zreformowanie systemu nominałów brązowych wobec istnienia stabilnego, opartego na solidzie, mennictwa złotego, pozwoliło na pomyślny rozwój gospodarki pieniężno-towarowej w państwie wczesnobizantyjskim przełomu V i VI w. Liczne mennice (w Konstantynopolu, Tessalonice, Antiochii, Kartaginie, Rawennie, Rzymie i w innych ośrodkach) zapewniały nasycenie rynku pieniężnego. Mennictwo nowych państw, które plemiona barbarzyńskie (np. Wizygoci, Frankowie) tworzyły na terenie zdobytych przez siebie prowincji, wzorowało się na bizantyjskim. Monety Wandali i Ostrogotów zaliczane są nawet do mennictwa bizantyjskiego. Także na terenach należacych dziś do Polski, odkryto skarby zawierające monety biznatyjskie (najczęściej na Pomorzu, datowane do pocz. VI w.) (MCBS. 3).
 
 
+<a id='po'></a>
+## Pięć okresów bizantyjskiego systemu monetarnego
+Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ówczesną kondycję finasową i gospodarczą imperium:
+- **I** - okres pierwszy charakteryzuje się silną pozycją gospodarczą zachwianą dopiero przez inwazję Persów i Arabów w VII w.
+- **II** - okres drugi odzwierciedla braki w dostępie do nowych zasobów kruszczu oraz zmniejszoną, w porównaniu z okresem poprzednim, wymianę handlową.
+- **III** - okres trzeci początkowo charakteryzuje się wzrostem ludności i dostępu do zasobów. Złote monety zachowują wiele ze swojego dawnego międzynarodowego prestiżu, pomimo fazy poważnej degradacji w połowie XI wieku. Ten prestiż przetrwa utratę Konstantynopola w 1204 roku, ale wydarzenie to rozpocznie powolny upadek solida, nawet pomimo odzyskania stolicy w 1261 roku.
+- **IV** - okres czwarty charakteryzuje się kontynuacją bicia złotych monet, ale dewaluowane przez cesarzy monety bizantyjskie są coraz bardziej wypierane z dotychczasowej strefy wpływów cesarstwa wschodniego przez pieniądz Europy zachodniej.
+- **V** - okres piąty odzwierciedla kurczącą się od wielu lat gospodarkę Bizancjum, postępującą dewaluację monety złotej oraz problemy z utrzymaniem stałej relacji wartości złota do srebra skutkujące oparciem systemu monetarnego na monecie srebrnej.
 
 
+
+
+
+
+
+<a id='me'></a>
+## Metale i próby kruszcu
 XXXXXXXXXXXXXXXXX TODO: tutaj z Salamona grubego napisac o stopach (jako osbny paragraf = braz czy miedz? złoto, srebro czy elektron?, itp.)
 brąz? stop miedzi?
 W starożytności brąz był stopem miedzi w stosunku 90% miedzi do 10% cyny,
 https://pl.wikipedia.org/wiki/Br%C4%85zy
 
 
+<a id='men'></a>
+## Mennice Cesarstwa Bizantyjskiego
+Mennice bizantyjskie rozsiane były po całym terytorium imperium, a ich liczba i lokalizacja zmieniały się wraz z podbojami lub utratą terenów. W większości mennic wybijano monety brązowe. Monety srebrne wybijane były głównie w Ravennie i Kartaginie, a złote wyłącznie w Ravennie, Kartaginie i Konstantynopolu. Mennice były często podzielone na warsztaty (_officinae_, oficyny), które umieszczały swoje znaki mennicze w formie numerów (_alpha_ = 1, _beta_ = 2, itd.).
 
+<table class="center">
+  <tr>
+    <td><img src="images/bizMenniceBizantyjskie.png"/></td>
+  </tr>
+  <tr>
+    <td>Główne mennice Bizancjum (BCPG. 4)</td>
+  </tr>
+</table>
 
+Nazwy mennic umieszczano czasem jedynie na monetach brązowych (np. CON w przypadku Konstantynopola lub NICO w przypadku Nikomedii). Monety złote bite w stolicy oznaczano akronimem **CONOB** (od CONstantinopolis OBryzum, gdzie _obryzum_ oznacza "czyste złoto") oraz liczbę 72 zapisaną alfabetem greckim.
+
+W wieku VII zmniejszono znacznie liczbę mennic z 21 do 8 z powodu reorganizacji przeprowadzonej w 629 roku oraz utraty Bałkanów (Słowianie), znacznej części Włoch (Lombardowie), Syrii, Egiptu i całej Afryki północnej (Arabowie). W VIII i IX wieku prowincjonalne mennice były zamykane wraz z utratą zwierzchnictwa Bizancjum nad poszczególnymi dzielnicami. Ostatnia prowincjonalna mennica w Syrakuzach została zamknięta w 878 roku po zdobyciu miasta przez Arabów. Aż do XI w. jedyna mennica Bizancjum ulokowana była w Konstantynopolu, wtedy to wznowiono też bicie monet w Salonikach (_Thessalonica_). Po zdobyciu Konstantynopola przez IV Wyprawę Krzyżową w 1204 roku poszczególne państwa roszczące sobie prawa do sukcesji po cesarstwie (Cesarstwo Łacinskie, Cesarstwo Nicejskie, Despotat Epiru, Cesarstwo Trapezuntu), emitowały niezależnie od siebie monetę luźno opartą o system monetarny Aleksego I Komnenosa (1081-1118) (BCPG. 4, 11). 
+
+<table class="center">
+  <tr>
+    <td><img src="images/bizCesarstwoLacinskie1204.png"/></td>
+  </tr>
+  <tr>
+    <td>Rozpad Bizancjum w 1204 roku (źródło: <a href="https://pl.wikipedia.org/wiki/Cesarstwo_Nicejskie#/media/Plik:Cesarstwo_%C5%81aci%C5%84skie1204.png">Wikipedia</a>)</td>
+  </tr>
+</table>
+
+Po odzyskaniu Konstantynopola w 1261 roku, głównymi siedzibami mennic upadającego imperium pozostały Konstantynopol i Saloniki. Więcej informacji można znaleźć w <a href="https://en.wikipedia.org/wiki/Byzantine_mints">Wikipedii</a>. 
 
 
 
@@ -103,17 +148,6 @@ https://pl.wikipedia.org/wiki/Br%C4%85zy
 
 
 
-
-
-
-<a id='po'></a>
-## Pięć okresów bizantyjskiego systemu monetarnego
-Pięc okresów mennictwa bizantyjskiego odzwieciedla ówczesną kondycję finasową i gospodarczą imperium.
-- Okres pierwszy charakteryzuje się silną pozycją gospodarczą zachwianą przez inwazję Persów i Arabów w VII w.
-- Okres drugi odzwierciedla braki w dostępie do nowych zasobów kruszczu oraz zmniejszoną, w porównaniu z okresem poprzednim, wymianę handlową.
-- Okres trzeci początkowo charakteryzował się wzrostem ludności i dostępu do zasobów, którego złote monety zachowały wiele ze swojego dawnego międzynarodowego prestiżu, pomimo fazy poważnej degradacji w połowie XI wieku. Ten prestiż przetrwał katastrofę w 1204 roku, ale od tego dnia imperium było jedynie cieniem dawnego siebie, pomimo odzyskania Konstantynopola w 1261 roku.
-- Okres czwarty charakteryzuje się kontynuacją bicia złotych monet, ale dewaluowane przez cesarzy monety bizantyjskie są coraz bardziej wypierane z dotychczasowej strefy wpływów cesarstwa wschodniego przez pieniądz Europy zachodniej.
-- Okres piąty odzwierciedla kurczącą się od wielu lat gospodarkę Bizancjum, postępującą dewaluację monety złotej oraz problemy z utrzymaniem stałej relacji wartości złota do srebra skutkujących przejściem na monetę srebrną.
 
 ### Mennice Cesarstwa Bizantyjskiego
 -- mennice bizantyjskie
