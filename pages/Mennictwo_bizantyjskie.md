@@ -108,8 +108,8 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
     <td>491-498, Konstantynopol</td>
   </tr>
   <tr>
-    <th>Waga [g], średnica [mm]</th>
-    <td>4.47, 20</td>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,47; 20</td>
   </tr>
   <tr>
     <th>Awers</th>
@@ -117,7 +117,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Opis awersu</th>
-    <td>XXXXXX</td>
+    <td>Three-quarter view bust of Anastasios I facing right with spear and shield. Three pellets on breastplate. Helmet with diadem and pendants. Cross in center of diadem. DNNST-SivSppVC</td>
   </tr>
   <tr>
     <th>Rewers</th>
@@ -125,7 +125,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Opis rewersu</th>
-    <td>XXXXXX</td>
+    <td>Victory standing and facing left with long cross in right hand. VICTORI-VCCCH. Eight-pointed star in right field. CONOB</td>
   </tr>
   <tr>
     <th>Literatura</th>
@@ -155,8 +155,8 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
     <td>565-578, Konstantynopol</td>
   </tr>
   <tr>
-    <th>Waga [g], średnica [mm]</th>
-    <td>4.41, 20</td>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,41; 20</td>
   </tr>
   <tr>
     <th>Awers</th>
@@ -191,7 +191,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
 <table class="center">
   <tr>
     <th>Pan menniczy</th>
-    <td>Anastazjusz I (491-518)</td>
+    <td>Tyberiusz II (578-582)</td>
   </tr>
   <tr>
     <th>Nominał, materiał</th>
@@ -199,15 +199,15 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Lata emisji, mennica</th>
-    <td>491-498, Konstantynopol</td>
+    <td>579-582, Konstantynopol</td>
   </tr>
   <tr>
-    <th>Waga [g], średnica [mm]</th>
-    <td>4.47 g, 20 mm</td>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,48; 21</td>
   </tr>
   <tr>
     <th>Awers</th>
-    <td><img src="images/biz04_a.jpg"/></td>
+    <td><img src="images/biz05_a.jpg"/></td>
   </tr>
   <tr>
     <th>Opis awersu</th>
@@ -215,7 +215,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Rewers</th>
-    <td><img src="images/biz04_r.jpg"/></td>
+    <td><img src="images/biz05_r.jpg"/></td>
   </tr>
   <tr>
     <th>Opis rewersu</th>
@@ -223,7 +223,54 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Literatura</th>
-    <td>DOC 1, no. 3e</td>
+    <td>DOC 1, no. 3</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/coins">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Tyberiusz II (578-582)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>579-582, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,48; 21</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz06_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>XXXXXX</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz06_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>XXXXXX</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>DOC 1, no. 3</td>
   </tr>
   <tr>
     <th>Uwagi</th>
