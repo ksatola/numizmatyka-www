@@ -6,8 +6,11 @@
 
 ## Spis treści
 
-- [Wstęp](#rys)
-- [Geneza bizantyjskiego systemu monetarnego](#sm)
+- [Wstęp](#wst)
+- [Geneza powstania bizantyjskiego systemu monetarnego](#sm)
+    - [Moneta złota](#sm1)
+    - [Moneta srebrna](#sm2)
+    - [Moneta brązowa](#sm3)
 - [Pięć okresów bizantyjskiego systemu monetarnego](#po)
 - [Zewnętrzne cechy monet](#zcm)
 
@@ -16,7 +19,7 @@
 
 
 
-<a id='rys'></a>
+<a id='wst'></a>
 ## Wstęp
 
 W III wieku podupadł autorytet cesarzy rzymskich, wynoszonych na tron i obalanych przez armię (większość władców tego okresu została zamordowana). Napotykali też oni coraz większe trudności w rządach nad rozległym imperium. Pod koniec III wieku cesarz <a href="https://pl.wikipedia.org/wiki/Dioklecjan">Dioklecjan (284-305)</a> wprowadził w roku 293 tetrarchię, czyli system rządów, w którym władzę równocześnie sprawowało czterech panujących nad różnymi obszarami rozległego imperium: Dioklecjan (wschodnie wybrzeże Morza Śródziemnego), Maksymian (Italia, Afryka i Hiszpania), Galeriusz (dolina Dunaju i Bałkany) i Konstancjusz I Chlorus (Brytania i Galia). System ten przetrwał zaledwie do początków IV stulecia. Trwały - jak się później okazało - podział cesarstwa nastąpił dopiero sto lat później, w 395 roku (MBS. 1).
@@ -32,28 +35,20 @@ Umierając w 395 roku, cesarz <a href="https://pl.wikipedia.org/wiki/Teodozjusz_
   </tr>
 </table>
 
-
-
-
 Cesarstwo zachodniorzymskie przeżywało stopniowy rozkład, osłabiane <a href="https://pl.wikipedia.org/wiki/Wielka_w%C4%99dr%C3%B3wka_lud%C3%B3w">wielką Wędrówką ludów</a> i najazdami Hunów oraz Wandalów, aż w końcu przestało istnieć, kiedy w roku 476 barbarzyński wódz Odoaker obalił młodocianego cesarza Romulusa Augustulusa (475-476), władcę Rzymu i Rawenny. Cesarstwo wschodnie przetrwało do roku 1453. XXXXXXXXXX TODO: napisać coś więcej na ten temat
 
 
-
-<a href="https://pl.wikipedia.org/wiki/Konstantynopol">Konstantynopol</a> został założony przez Konstantyna I Wielkiego (306-337) - w latach 330–395 był stolicą Cesarstwa Rzymskiego, w latach 395–1453 stolicą Cesarstwa Bizantyńskiego i Cesarstwa Łacińskiego (1204–1261), stolicą Imperium Osmańskiego w latach 1453–1922. Od 1930 miasto nazywa się Stambuł.
-
-
-
 <a id='sm'></a>
-## Geneza bizantyjskiego systemu monetarnego
+## Geneza powstania bizantyjskiego systemu monetarnego
 Ekonomika bizantyjska wyrastwa z wielowiekowej tradycji gospodarki rzymskiej, w której pieniądz odgrywał ważną rolę środka wymiany towarów (powszechnego ekwiwalentu), a także środka tezauryzacji (MBS. 17).
 
-W 498 roku Anastazjusz I (491-518) przeprowadził gruntowną reformę mennictwa brązowego, które załamało się w trakcje inwazji barbarzyńców. Stworzyło to podstawy funkcjonowania stabilnego bizantyjskiego systemu monetarnego. Za początek cesarstwa bizantyjskiego przyjmuje się rok 395, natomiast mennictwa bizantyjskiego dopiero rok 491 (początek rządów Anastazjusza I) (MBS. 8).
+W 498 roku Anastazjusz I (491-518) przeprowadził gruntowną reformę mennictwa brązowego, które załamało się w trakcje wielkiej wędrówki ludów oraz inwazji barbarzyńców na cesarstwo zachodnie. Stworzyło to podstawy funkcjonowania stabilnego bizantyjskiego systemu monetarnego. Za początek cesarstwa bizantyjskiego przyjmuje się rok 395, natomiast mennictwa bizantyjskiego dopiero rok 491 (początek rządów Anastazjusza I) (MBS. 8).
 
-
+<a id='sm1'></a>
 ### Moneta złota
-W III wieku rzymski system monetarny przeżył ciężki kryzys (inflacja i dewaluacja pieniądza), który udało się przełamać dopiero cesarzowi Dioklecjanowi (284-305). W 294 roku władca ten przeprowadził reformę, w wyniku której podstawą systemu stał się pieniądz złoty, a nie jak dotąd srebrny. Podstawowym nominałem miał być odtąd **aureus** bity wg stopy 1/60 funta. Dioklecjan wprowadził też tzw. **folis** - posrebrzaną monetę brązową o wadze poczatkowo 9,7 g, później stale redukowanej. W V wieku w państwie rzymskim emitowano tylko niewielkie monetki brązowe o wadze ok. 1 g, które nie zaspokajały potrzeb rynku.
+W III wieku rzymski system monetarny przeżywał ciężki kryzys (inflacja i dewaluacja pieniądza), który udało się przełamać dopiero cesarzowi Dioklecjanowi (284-305). W 294 roku władca ten przeprowadził reformę, w wyniku której podstawą systemu monetarnego stał się pieniądz złoty, a nie jak dotąd srebrny. Podstawowym nominałem miał być odtąd **aureus** bity wg stopy 1/60 funta. Dioklecjan wprowadził też tzw. **folis** - posrebrzaną monetę brązową o wadze początkowo 9,7 g, a później stale redukowanej. W V wieku w państwie rzymskim emitowano już tylko niewielkie monetki brązowe o wadze ok. 1 g, które nie zaspokajały potrzeb rynku.
 
-Gromadząc pełnię władzy w swoim ręku, Konstantyn I (306–337) ok. 313 roku w prowincjach zachodnich, a w 324 roku we wschodnich wprowadził monetę o 2/6 lżejszą od aureusa, zwaną **solidem** (_solidus_, po grecku _nomisma_) i bitą wg stopy 1/72 funta. Solid ważył ok. 4,54 g, tj. **24 karaty** (w rzeczywistości ok. 23,5 karata). Aureusy emitowano odtąd jedynie okolicznościowo do czasów Justyniana I (527-565), zaś podstawowym nominałem złotym stał się solid (MCBS. 2).
+Gromadząc pełnię władzy w swoim ręku, Konstantyn I (306–337) ok. 313 roku w prowincjach zachodnich, a w 324 roku we wschodnich wprowadził monetę o 1/3 lżejszą od aureusa, zwaną **solidem** (_solidus_, po grecku _nomisma_) i bitą wg stopy 1/72 funta. Solid ważył ok. 4,54 g, tj. **24 karaty** (w rzeczywistości ok. 23,5 karata). Aureusy emitowano odtąd jedynie okolicznościowo do czasów Justyniana I (527-565), zaś podstawowym nominałem złotym stał się solid (MCBS. 2).
 
 Oprócz solida, bito także kilka mniejszych nominałów:
 - 1 **semissis** (2,27 g) = 1/2 solida
@@ -62,31 +57,53 @@ Oprócz solida, bito także kilka mniejszych nominałów:
 
 Waga solida nie uległa w zasadzie zmianom - jego stabilność zadecydowała o odrodzeniu późnorzymskiej i bizantyjskiej gospodarki pieniężnej. Nie osłabiło pozycji solida puszczenie w obieg przez Justyniana I (527–565) ok. 538 roku tzw. **solidów lżejszych** o wadze 22 karatów, później także 20 i 23 karatów. Monety te posiadały oficjalny niższy kurs i służyły jedynie ułatwieniu operacji technicznych przeliczania sum w pieniądzu złotym na brązowy. Lżejsze solidy przestano emitować za Konstantyna IV (668-685).
 
-
+<a id='sm2'></a>
 ### Moneta srebrna
-Karat (0,189 g) był zbyt małą jednostką wagową, aby można go było bić w złocie, ale nadawał się jako jednostka wagi w przypadku monet srebrnych (BCPG. 3). I tak Cesarz Konstantyn I (306-337), prawie 150 lat przed upadkiem Cesarstwa zachodniorzymskiego, wprowadził do obiegu tzw. **miliaresion** (_miliarense_, podwójny karat, 1/12 solida) i **silikwę** (łac. karat), monety bite z czystego srebra oraz ich odmiany, lekką i ciężką. Monety srebrne wymieniano na złote wg stałej proporcji określonej w 397 roku jako 14,4 do 1:
+**Karat** (0,189 g) był zbyt małą jednostką wagową, aby można go było bić w złocie, ale nadawał się jako jednostka wagi w przypadku monet srebrnych (BCPG. 3). I tak Cesarz Konstantyn I (306-337), prawie 150 lat przed upadkiem cesarstwa zachodniorzymskiego, wprowadził do obiegu tzw. **miliaresion** (_miliarense_, podwójny karat, 1/12 solida) i **silikwę** (łac. karat), monety bite z czystego srebra oraz ich odmiany, lekką i ciężką. Monety srebrne wymieniano na złote wg stałej proporcji określonej w 397 roku jako 14,4 do 1:
 - 1 miliaresion lekkie = 2 silikwy lekkie = 1/14,4 solida
 - 1 miliaresion lekkie = 5/6 miliaresion ciężkiego
 - 1 miliaresion ciężkie = 2 silikwy ciężkie = 1/12 solida
 
-Monety srebrne miały uzupełniać w obiegu pieniężnym monety złote, które posiadały dużą siłę nabywczą, ale do VII w. nie były emitowane zbyt licznie i nie odebrały większej roli.
+Monety srebrne miały uzupełniać w obiegu pieniężnym monety złote, które posiadały dużą siłę nabywczą, ale do VII w. nie były emitowane zbyt licznie i nie odegrały większej roli.
 
-
-
-
-
-### Moneta miedziana
-W 498 roku Anastazjusz I (491-518) ustalił trwały system nominałów brązowych. Dotychczas emitowane monetki brązowe zostały zrównane co do wartości z najmniejszą jednostką tego systemu **nummus-minimus** bitą wg stopy 1/288 funta (1,13 g). Podstawowym nominałem był jednak nie nummus lecz **nowy follis**. Stopa mennicza, wg której bito follisy, ulegała zmianom - w 498 roku wynosiła 1/36 funta (9,10 g), w 512 roku 1/18 funta (18,19 g), w 538 roku 1/13,25 funta (24,95 g). Emitowano także inne nominały brązowe, głównie:
+<a id='sm3'></a>
+### Moneta brązowa
+W 498 roku Anastazjusz I (491-518) ustalił trwały system nominałów brązowych. Dotychczas emitowane monetki brązowe zostały zrównane co do wartości z najmniejszą jednostką tego systemu **nummus-minimus** bitą wg stopy 1/288 funta (1,13 g). Podstawowym nominałem był jednak nie **nummus** lecz nowy **follis**. Stopa mennicza, wg której bito follisy, ulegała zmianom - w 498 roku wynosiła 1/36 funta (9,10 g), w 512 roku 1/18 funta (18,19 g), w 538 roku 1/13,25 funta (24,95 g). Emitowano także inne nominały brązowe, głównie:
 - 1 **follis** = 40 **nummi*
 - 1 **półfollis** = 20 **nummi**
 - 1 **dekanumion** = 10 **nummi**
 - 1 **pentanumion** = 5 **nummi**
 
-Zreformowanie systemu nominałów brązowych wobec istnienia stabilnego, opartego na solidzie, mennictwa złotego, pozwoliło na pomyślny rozwój gospodarki pieniężno-towarowej w państwie wczesnobizantyjskim (koniec V-VI w.). Liczne mennice (w Konstantynopolu, Tessalonice, Antiochii, Kartaginie, Rawennie, Rzymie i wielu innych ośrodkach) zapewniały nasycenie rynku pieniężnego. Mennictwo nowych państw, które plemiona barbarzyńskie tworzyły na terenie zdobytych przez siebie prowincji (np. Wizygoci, Frankowie), wzorowało sie na bizantyjskim. Monety Wandali i Ostrogotów zaliczane są nawet do mennictwa bizantyjskiego. Także na terenach należacych dziś do Polski, odkryto skarby zawierające monety biznatyjskie (najczęściej na Pomorzu, datowane do pocz. VI w.) (MCBS. 3).
+Zreformowanie systemu nominałów brązowych wobec istnienia stabilnego, opartego na solidzie, mennictwa złotego, pozwoliło na pomyślny rozwój gospodarki pieniężno-towarowej w państwie wczesnobizantyjskim przełomu V i VI w. Liczne mennice (w Konstantynopolu, Tessalonice, Antiochii, Kartaginie, Rawennie, Rzymie i w innych ośrodkach) zapewniały nasycenie rynku pieniężnego. Mennictwo nowych państw, które plemiona barbarzyńskie (np. Wizygoci, Frankowie) tworzyły na terenie zdobytych przez siebie prowincji, wzorowało się na bizantyjskim. Monety Wandali i Ostrogotów zaliczane są nawet do mennictwa bizantyjskiego. Także na terenach należacych dziś do Polski, odkryto skarby zawierające monety biznatyjskie (najczęściej na Pomorzu, datowane do pocz. VI w.) (MCBS. 3).
 
+
+
+
+XXXXXXXXXXXXXXXXX TODO: tutaj z Salamona grubego napisac o stopach (jako osbny paragraf = braz czy miedz? złoto, srebro czy elektron?, itp.)
 brąz? stop miedzi?
 W starożytności brąz był stopem miedzi w stosunku 90% miedzi do 10% cyny,
 https://pl.wikipedia.org/wiki/Br%C4%85zy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+======================= brudnopis ===========================
+<a href="https://pl.wikipedia.org/wiki/Konstantynopol">Konstantynopol</a> został założony przez Konstantyna I Wielkiego (306-337) - w latach 330–395 był stolicą Cesarstwa Rzymskiego, w latach 395–1453 stolicą Cesarstwa Bizantyńskiego i Cesarstwa Łacińskiego (1204–1261), stolicą Imperium Osmańskiego w latach 1453–1922. Od 1930 miasto nazywa się Stambuł.
+
+
+
+
 
 
 <a id='po'></a>
