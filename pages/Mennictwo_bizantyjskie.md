@@ -91,8 +91,14 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
 - **Okres IV**: charakteryzuje się kontynuacją bicia złotych monet, ale dewaluowane przez cesarzy monety bizantyjskie są coraz bardziej wypierane z dotychczasowej strefy wpływów cesarstwa wschodniego przez pieniądz Europy zachodniej.
 - **Okres V**: odzwierciedla kurczącą się od wielu lat gospodarkę Bizancjum, postępującą dewaluację monety złotej oraz problemy z utrzymaniem stałej relacji wartości złota do srebra skutkujące oparciem systemu monetarnego na monecie srebrnej.
 
+
 <a id='po-1'></a>
 ### Okres I: Od końca V (495) do połowy VIII w.
+
+#### Monety złote
+W okresie tym, obiegały trzy złote nominały: solidus, semissis oraz tremissis.
+
+W wieku V i VII na awersie **solidusów** władca występuje zwykle w zbroi (popiersie na wprost), na rewersie widnieje Wiktoria lub archanioł wspierający krzyż, siedząca personifikacja Konstantynopola lub też krzyż na wywyższeniu. Na awersie **semissis** i **tremissis** występuje popiersie imperatora z profilu. Na rewersie **semissis** widnieje siedząca Wiktoria zapisujaca na tarczy liczbę lat panowania władcy, a na **tremissis** Wiktoria niosąca wieniec i kulę zwieńczoną krzyżem.
 
 <table class="center">
   <tr>
@@ -117,7 +123,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Opis awersu</th>
-    <td>Three-quarter view bust of Anastasios I facing right with spear and shield. Three pellets on breastplate. Helmet with diadem and pendants. Cross in center of diadem. DNNST-SivSppVC</td>
+    <td>Three-quarter view bust of Anastasios I facing right with spear and shield. Three pellets on breastplate. Helmet with diadem and pendants. Cross in center of diadem. DNANASTA-SIVSPPAVC</td>
   </tr>
   <tr>
     <th>Rewers</th>
@@ -125,7 +131,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Opis rewersu</th>
-    <td>Victory standing and facing left with long cross in right hand. VICTORI-VCCCH. Eight-pointed star in right field. CONOB</td>
+    <td>Victory standing and facing left with long cross in right hand. VICTORI-AAVCCCH. Eight-pointed star in right field. CONOB</td>
   </tr>
   <tr>
     <th>Literatura</th>
@@ -144,7 +150,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
 <table class="center">
   <tr>
     <th>Pan menniczy</th>
-    <td>Justyn II (565-578)</td>
+    <td>Justynian II (565-578)</td>
   </tr>
   <tr>
     <th>Nominał, materiał</th>
@@ -172,7 +178,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Opis rewersu</th>
-    <td>XXXXXX</td>
+    <td>XXXXXX siedząca personifikacja Konstantynopola</td>
   </tr>
   <tr>
     <th>Literatura</th>
@@ -219,7 +225,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Opis rewersu</th>
-    <td>XXXXXX</td>
+    <td>XXXXXX cross on steps (Fig. 5) which is believed to represent the great jeweled cross erected on Golgotha</td>
   </tr>
   <tr>
     <th>Literatura</th>
@@ -238,19 +244,19 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
 <table class="center">
   <tr>
     <th>Pan menniczy</th>
-    <td>Tyberiusz II (578-582)</td>
+    <td>Anastazjusz I (491–518)</td>
   </tr>
   <tr>
     <th>Nominał, materiał</th>
-    <td>Solidus, złoto</td>
+    <td>Semissis, złoto</td>
   </tr>
   <tr>
     <th>Lata emisji, mennica</th>
-    <td>579-582, Konstantynopol</td>
+    <td>498–518, Konstantynopol</td>
   </tr>
   <tr>
     <th>Waga [g]; średnica [mm]</th>
-    <td>4,48; 21</td>
+    <td>2,25; XXXXXXXX20</td>
   </tr>
   <tr>
     <th>Awers</th>
@@ -258,7 +264,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Opis awersu</th>
-    <td>XXXXXX</td>
+    <td>Popiersie cesarza w prawo, D N ANASTASIVS P P AVC</td>
   </tr>
   <tr>
     <th>Rewers</th>
@@ -266,11 +272,11 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Opis rewersu</th>
-    <td>XXXXXX</td>
+    <td>Wiktoria siedząca w prawo, trzymająca tarczę z XXXX, gwiazda w polu, staurogram z prawej strony, VICTORIA AVCCC, w odcinku CONOB</td>
   </tr>
   <tr>
     <th>Literatura</th>
-    <td>DOC 1, no. 3</td>
+    <td>Sear 7, DOC 9, MIB 10</td>
   </tr>
   <tr>
     <th>Uwagi</th>
@@ -278,7 +284,54 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Źródło</th>
-    <td><a href="https://www.doaks.org/resources/coins">Dumbarton Oaks</a></td>
+    <td><a href="https://wcn.pl/archive/338552?q=semissis">WCN</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Teodozjusz II (408–450)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Tremissis, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>408-420, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>1,49; 15,6</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz07_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Popiersie cesarza w prawo, D N THEODOSIVS P F AVG</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz07_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Wiktoria krocząca w prawo z głową zwróconą do tyłu, trzymająca wieniec i glob z krzyżem, w polu gwiazda, wokoło VICTORIA AVGVSTORVM, w odcinku CONOB</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>RIC 213, Depeyrot 70/1</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://onebid.pl/pl/monety-cesarstwo-rzymskie-tremissis-408-420-konstantynopol/1743943">WCN</a></td>
   </tr>
 </table>
 
@@ -289,20 +342,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
 
 
 
-- 3 złote nominały fig 4, 6, 7 - sredn. 20mm
 
-VIw
-    - solidus fig4
-        - awers: władca zwykle w zbroi
-        - rewers: Wiktoria lub archanioł wspierający krzyż lub 
-            - Justin II (565–578): siedząca personifikacja Konstantynopolu (fig 60)
-            - Tiberius II (578–582) chose a cross on steps (Fig. 5) which is believed to represent the great jeweled cross erected on Golgotha
-    - semissis f6
-        - awers: semissis and tremissis have on the obverse the emperor’s bust, but shown in profile rather than facing
-        - rewers: seated Victory inscribing a numeral on a shield This numeral had originally referred to the “vows” repeated by the emperor at five-year intervals, but in the course of time it had become merely a formula
-    - tremissis f7
-        - awers: semissis and tremissis have on the obverse the emperor’s bust, but shown in profile rather than facing
-        - rewers: Victory bearing a wreath and an orb surmounted by a cross
     
 VIIw
 obverse: 
