@@ -21,7 +21,19 @@
 
 W III wieku podupadł autorytet cesarzy rzymskich, wynoszonych na tron i obalanych przez armię (większość władców tego okresu została zamordowana). Napotykali też oni coraz większe trudności w rządach nad rozległym imperium. Pod koniec III wieku cesarz <a href="https://pl.wikipedia.org/wiki/Dioklecjan">Dioklecjan (284-305)</a> wprowadził w roku 293 tetrarchię, czyli system rządów, w którym władzę równocześnie sprawowało czterech panujących nad różnymi obszarami rozległego imperium: Dioklecjan (wschodnie wybrzeże Morza Śródziemnego), Maksymian (Italia, Afryka i Hiszpania), Galeriusz (dolina Dunaju i Bałkany) i Konstancjusz I Chlorus (Brytania i Galia). System ten przetrwał zaledwie do początków IV stulecia. Trwały - jak się później okazało - podział cesarstwa nastąpił dopiero sto lat później, w 395 roku (MBS. 1).
 
-Umierając w 395 roku, cesarz <a href="https://pl.wikipedia.org/wiki/Teodozjusz_I_Wielki">Teodozjusz I (379-395)</a> pozostawił władzę nad imperium swoim synom: Arkadiuszowi (395-408) i Honoriuszowi (395-423). Pierwszy rządził odtąd z Konstantynopola prowincjami wschodnimi (imperium greckie), drugi z Mediolanu i Rawenny zachodnimi (imperium łacińsko-romańskie). 
+Umierając w 395 roku, cesarz <a href="https://pl.wikipedia.org/wiki/Teodozjusz_I_Wielki">Teodozjusz I (379-395)</a> pozostawił władzę nad imperium swoim synom: Arkadiuszowi (395-408) i Honoriuszowi (395-423). Pierwszy rządził odtąd z Konstantynopola prowincjami wschodnimi (imperium greckie), drugi z Mediolanu i Rawenny zachodnimi (imperium łacińsko-romańskie). Granice ustalono tak, że pokrywały się one z wpływami języków łacińskiego i greckiego.
+
+<table class="center">
+  <tr>
+    <td><img src="images/Roman_empire_395.jpg"/></td>
+  </tr>
+  <tr>
+    <td>Cesarstwo Rzymskie w roku 395 (<a href="https://pl.wikipedia.org/wiki/Wielka_w%C4%99dr%C3%B3wka_lud%C3%B3w#/media/Plik:Roman_empire_395.jpg">Źródło: Wikipedia</a>)</td>
+  </tr>
+</table>
+
+
+
 
 Cesarstwo zachodniorzymskie przeżywało stopniowy rozkład, osłabiane <a href="https://pl.wikipedia.org/wiki/Wielka_w%C4%99dr%C3%B3wka_lud%C3%B3w">wielką Wędrówką ludów</a> i najazdami Hunów oraz Wandalów, aż w końcu przestało istnieć, kiedy w roku 476 barbarzyński wódz Odoaker obalił młodocianego cesarza Romulusa Augustulusa (475-476), władcę Rzymu i Rawenny. Cesarstwo wschodnie przetrwało do roku 1453. XXXXXXXXXX TODO: napisać coś więcej na ten temat
 
@@ -29,12 +41,6 @@ Cesarstwo zachodniorzymskie przeżywało stopniowy rozkład, osłabiane <a href=
 
 <a href="https://pl.wikipedia.org/wiki/Konstantynopol">Konstantynopol</a> został założony przez Konstantyna I Wielkiego (306-337) - w latach 330–395 był stolicą Cesarstwa Rzymskiego, w latach 395–1453 stolicą Cesarstwa Bizantyńskiego i Cesarstwa Łacińskiego (1204–1261), stolicą Imperium Osmańskiego w latach 1453–1922. Od 1930 miasto nazywa się Stambuł.
 
-
-
-
-
-####### TODO
-<a href="https://www.doaks.org/resources/coins">Dumbarton Oaks Online Catalogue of Byzantine Coins</a>
 
 
 <a id='sm'></a>
