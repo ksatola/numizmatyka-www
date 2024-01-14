@@ -31,7 +31,7 @@ Umierając w 395 roku, cesarz <a href="https://pl.wikipedia.org/wiki/Teodozjusz_
 
 <table class="center">
   <tr>
-    <td><img src="images/bizRomanEmpire395.jpg"/></td>
+    <td><a href="images/bizRomanEmpire395.jpg"><img src="images/bizRomanEmpire395.jpg"/></a></td>
   </tr>
   <tr>
     <td>Cesarstwo Rzymskie w roku 395 (źródło: <a href="https://pl.wikipedia.org/wiki/Wielka_w%C4%99dr%C3%B3wka_lud%C3%B3w#/media/Plik:Roman_empire_395.jpg">Wikipedia</a>)</td>
@@ -85,11 +85,168 @@ Zreformowanie systemu nominałów brązowych wobec istnienia stabilnego, oparteg
 <a id='po'></a>
 ## Pięć okresów bizantyjskiego systemu monetarnego
 Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ówczesną kondycję finasową i gospodarczą imperium:
-- **I** - okres pierwszy charakteryzuje się silną pozycją gospodarczą zachwianą dopiero przez inwazję Persów i Arabów w VII w.
-- **II** - okres drugi odzwierciedla braki w dostępie do nowych zasobów kruszczu oraz zmniejszoną, w porównaniu z okresem poprzednim, wymianę handlową.
-- **III** - okres trzeci początkowo charakteryzuje się wzrostem ludności i dostępu do zasobów. Złote monety zachowują wiele ze swojego dawnego międzynarodowego prestiżu, pomimo fazy poważnej degradacji w połowie XI wieku. Ten prestiż przetrwa utratę Konstantynopola w 1204 roku, ale wydarzenie to rozpocznie powolny upadek solida, nawet pomimo odzyskania stolicy w 1261 roku.
-- **IV** - okres czwarty charakteryzuje się kontynuacją bicia złotych monet, ale dewaluowane przez cesarzy monety bizantyjskie są coraz bardziej wypierane z dotychczasowej strefy wpływów cesarstwa wschodniego przez pieniądz Europy zachodniej.
-- **V** - okres piąty odzwierciedla kurczącą się od wielu lat gospodarkę Bizancjum, postępującą dewaluację monety złotej oraz problemy z utrzymaniem stałej relacji wartości złota do srebra skutkujące oparciem systemu monetarnego na monecie srebrnej.
+- **Okres I (od 495 roku do połowy VIII w.)**: charakteryzuje się silną pozycją gospodarczą zachwianą dopiero przez inwazję Persów i Arabów w VII w.
+- **Okres II**: odzwierciedla braki w dostępie do nowych zasobów kruszczu oraz zmniejszoną, w porównaniu z okresem poprzednim, wymianę handlową.
+- **Okres III**: charakteryzuje się wzrostem ludności i dostępu do zasobów. Złote monety zachowują wiele ze swojego dawnego międzynarodowego prestiżu, pomimo fazy poważnej degradacji w połowie XI wieku. Ten prestiż przetrwa utratę Konstantynopola w 1204 roku, ale wydarzenie to rozpocznie powolny upadek solida, nawet pomimo odzyskania stolicy w 1261 roku.
+- **Okres IV**: charakteryzuje się kontynuacją bicia złotych monet, ale dewaluowane przez cesarzy monety bizantyjskie są coraz bardziej wypierane z dotychczasowej strefy wpływów cesarstwa wschodniego przez pieniądz Europy zachodniej.
+- **Okres V**: odzwierciedla kurczącą się od wielu lat gospodarkę Bizancjum, postępującą dewaluację monety złotej oraz problemy z utrzymaniem stałej relacji wartości złota do srebra skutkujące oparciem systemu monetarnego na monecie srebrnej.
+
+<a id='po-1'></a>
+### Okres I: Od końca V (495) do połowy VIII w.
+
+
+
+
+
+- 3 złote nominały fig 4, 6, 7 - sredn. 20mm
+
+VIw
+    - solidus fig4
+        - awers: władca zwykle w zbroi
+        - rewers: Wiktoria lub archanioł wspierający krzyż lub 
+            - Justin II (565–578): siedząca personifikacja Konstantynopolu (fig 60)
+            - Tiberius II (578–582) chose a cross on steps (Fig. 5) which is believed to represent the great jeweled cross erected on Golgotha
+    - semissis f6
+        - awers: semissis and tremissis have on the obverse the emperor’s bust, but shown in profile rather than facing
+        - rewers: seated Victory inscribing a numeral on a shield This numeral had originally referred to the “vows” repeated by the emperor at five-year intervals, but in the course of time it had become merely a formula
+    - tremissis f7
+        - awers: semissis and tremissis have on the obverse the emperor’s bust, but shown in profile rather than facing
+        - rewers: Victory bearing a wreath and an orb surmounted by a cross
+    
+VIIw
+obverse: 
+The seventh century saw great changes in the iconography of these coins.
+Portraiture was introduced under Phocas (602–610; Fig. 53), and from Heraclius
+(610–641) onward coinage reflected changes both in the emperor’s appearance and
+in the arrangements he made for his succession. Thus, Constans II (641–668)
+and Justinian II (685–695; 705–711; Fig. 55) are shown as young boys on their
+earliest coins; Heraclius and Constans II (Fig. 8) acquire enormous beards and
+mustaches in the course of their issues. In order to assure the succession, emperors
+associated their sons with them as co-emperors, and the coinage was
+intended to advertise the dynasty; thus, Heraclius Constantine and later
+Heraclonas accompany their father Heraclius, and no fewer than three sons
+appear on the reverse under Constans II (Fig. 8).
+
+reverses:
+frequently a cross whose form indicates the denomination, the solidus having a
+cross on steps (Fig. 5), the semissis a cross on a globe, and the tremissis a
+simple cross
+
+When Justinian II (685–695; 705–711) placed a bust of Christ on his coins he removed
+himself to the reverse, where, on the gold, he is shown holding the type of cross
+appropriate to the denomination (Fig. 9; cover illustrations)
+
+
+VIIIw - Iconoclast emperors
+3 zmiany
+First, the treatment of the imperial bust becomes purely linear and every
+vestige of portraiture disappears, with older emperors being differentiated from
+their junior colleagues only by their larger sizes and by faint traces of a beard
+and mustache, whether or not they wore such in real life
+
+Second, the traditional
+cross on the reverse is replaced by the effigy of another emperor, initially
+the emperor’s son and intended successor, but subsequently one or more of his
+ancestors, with the emperor’s son then being placed beside his father on the obverse
+(Fig. 10). Thus the coinage represented the whole dynastic lineage in order
+of birth
+
+And, finally, the semissis and tremissis are eliminated
+they
+were issued only in small quantities and for ceremonial distribution on particular
+occasions
+at the mint of Syracuse, they continued to be struck until
+the city’s loss to the Arabs in 878
+
+
+SILVER
+- with, from 615 onward, one denomination of silver as well (Fig. 19)
+
+It was the emperor Heraclius who in 615 revived an effective silver coinage,
+drawing the metal for his abundant issues mostly from the secularization of
+church plate during the crisis of the Persian war. The new coins were known as
+hexagrams (Fig. 19), since they weighed 6 grammata (6.84 grams), a weight
+higher than any used for regular coinage during the entire period of the Roman
+Empire. Hexagrams continued to be struck on a substantial scale under Constans
+II and Constantine IV (668–685), but their volume trailed off in the 680s,
+and by the end of the century the empire was back on the gold-copper basis
+that had been in effect under Anastasius I and Justinian I.
+
+silver
+coins, which would have bridged the rather large gap between the follis and
+the tremissis, were not issued, presumably because of the fluctuations in that
+metal’s value against gold
+
+
+
+
+
+
+- four (sometimes five) of copper (Figs. 29–31, 33, 34)
+
+The introduction of the large copper follis, worth 40 nummi, had been the
+great innovation of Anastasius I in 498. The coin was marked with the
+Greek letter M (Fig. 29), which as a numeral stood for “40,” and it was initially
+accompanied by only two fractions, a half-follis marked with K (= 20; Fig. 30)
+and a decanummium marked with I (= 10; Fig. 31). In 512 the weights of these
+coins were doubled (Fig. 32), and a further denomination of 5 nummi, marked
+with E (Fig. 33), was added; moreover, the minting of nummi (Fig. 34), apparently
+suspended in 498, was resumed
+
+VI
+Justinian I, in his twelfth year (538/9), further increased the weight of the
+follis to about 25 grams. Moreover, he improved its appearance and altered its
+iconography by substituting a facing bust for the traditional profile portrait on
+the obverse and by adding a date on the reverse (Fig. 35), thus applying to coins
+the provisions of his Novel 47 (537) for the dating of all official documents by
+regnal years. This coin, however, was too heavy for convenience, and the weight
+was reduced to about 22 grams in 541/2. Further reductions took place at intervals
+over the remainder of the century, so that ultimately the minting of nummi
+had to be abandoned, and a new unit of 30 nummi, marked with L or XXX,
+was inserted into the system. Yet even to the end of the century the follis remained
+a handsome, massive coin whose weight and size must have given its
+users solid assurance of its value.
+
+VII
+The seventh century saw the decline of the follis. The designs of the coins,
+which show changing combinations of rulers, remain of interest, but their
+weights were repeatedly reduced and their execution became increasingly slovenly.
+Folles of Constans II average only about 3 grams, in contrast to the 25 grams
+of a century earlier, and while their iconography is quite varied, their fabric is
+abominable (Fig. 36). They were by then so small that the half-follis could not
+easily be minted and lower denominations virtually disappeared. The empire
+was at that time in desperate political straits, with its richest provinces, Egypt
+and Syria, lost forever to the Arabs and much of the Balkans occupied by the
+Slavs. These circumstances only aggravated the decline of the purchasing power
+of the subsidiary coinage that had begun already in the second half of the sixth
+century, and it is not surprising that the copper coins of this period were the
+worst struck in the entire Byzantine series.
+
+The later years of the seventh century saw sporadic attempts at improvement,
+often with initial issues of heavy coins at imperial accessions; but none of
+these efforts proved permanent. 
+
+
+
+
+
+
+- This wide range of coins was made possible by the use of three metals, and in this respect it is comparable to modern coinage
+
+Od drugiej połowy VI w. waga monet brązowych zaczyna spadać, stają się one monetą kredytową. Ograniczono liczbę mennic lokalnych, właściwie do VIII w. bimetaliczne (złoto, brąz) mennictwo bizantyjskie stało się monometaliczne, oparte przede wszystkim o złoto. Cesarz Herakliusz (610-641) zwiększył ok. 614/615 roku znaczenie srebra wprowadzając nowy nominał **heksagram** bity wg stopy 1/48 funta (6,82 g), jednak ograniczenie zapasów kruszcu pod koniec VII w. spowodowało zawieszenie tej emisji (MCBS. 4).
+
+
+
+ratio monet brązowych do złotych podłegało ciągłym zmianom, tabelka str. 43-45 i nie do końca jest to rozeznany temat
+
+
+
+
+
+
+
+
+
 
 
 
@@ -145,42 +302,6 @@ Po odzyskaniu Konstantynopola w 1261 roku, głównymi siedzibami mennic upadają
 
 ======================= brudnopis ===========================
 <a href="https://pl.wikipedia.org/wiki/Konstantynopol">Konstantynopol</a> został założony przez Konstantyna I Wielkiego (306-337) - w latach 330–395 był stolicą Cesarstwa Rzymskiego, w latach 395–1453 stolicą Cesarstwa Bizantyńskiego i Cesarstwa Łacińskiego (1204–1261), stolicą Imperium Osmańskiego w latach 1453–1922. Od 1930 miasto nazywa się Stambuł.
-
-
-
-
-### Mennice Cesarstwa Bizantyjskiego
--- mennice bizantyjskie
-pdf mapa mennic  w 6 i 7 w str. 4, przybywało ich gdy rozrastało się imperium
-They all shared in the minting of
-copper, but silver was rarely struck outside Ravenna and Carthage, and gold was
-normally limited to these mints and to Constantinople, whose output far exceeded
-that of the western mints. Formal mint marks, abbreviated from place
-names (e.g., CON for Constantinople, NIKO for Nicomedia), were limited to
-the copper coinage (Figs. 29, 35) and often omitted, especially from the lower
-denominations. Solidi struck in the capital had CONOB on them (Fig. 4), that
-is, the first syllable of Constantinopolis joined to OB, which was both the abbreviation
-of the word obryzum (“refined gold”) and the Greek numeral 72. Gold
-coins struck at Ravenna and Carthage can only be differentiated when they
-display well-marked local characteristics—normally, a high, annular border at
-Ravenna (Fig. 2) and small, thick flans at Carthage (Fig. 3). Many mints were
-subdivided into officinae, or workshops, which were normally indicated by
-Greek numerals: alpha = 1; beta = 2, etc. (Fig. 32).
-
-In the seventh century the number of mints was greatly reduced, initially as
-a result of an administrative reorganization in 629 but more permanently as a
-consequence of the loss of much of the Balkans to the Slavs, of half of Italy to
-the Lombards, and of Syria, Egypt, and eventually the whole of North Africa to
-the Arabs. Constantinople was left as the only surviving mint in the east, while
-provincial mints survived in the west for only as long as the provinces they
-served remained in Byzantine hands. The last survivor was Syracuse, the capital
-of Sicily, which was captured by the Arabs in 878. The use of mint marks was
-abandoned, and for much of the middle Byzantine period Constantinople was
-the only mint in the empire. The mint at Thessalonica was revived in the eleventh
-century and became of great importance in the last days of the empire, but
-its products are not specifically marked and can usually be identified only on
-the evidence of style and find spots.
--- koniec
 
 
 ### Wizerunki na monetach
