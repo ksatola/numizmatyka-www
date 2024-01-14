@@ -97,7 +97,7 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
 <table class="center">
   <tr>
     <th>Pan menniczy</th>
-    <td>Anastasios I (491-518)</td>
+    <td>Anastazjusz I (491-518)</td>
   </tr>
   <tr>
     <th>Nominał, materiał</th>
@@ -109,7 +109,101 @@ Mennictwo Bizancjum można podzielić na pięć okresów odzwieciedlających ów
   </tr>
   <tr>
     <th>Waga [g], średnica [mm]</th>
-    <td>4.47 g, 21 mm</td>
+    <td>4.47, 20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz04_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>XXXXXX</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz04_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>XXXXXX</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>DOC 1, no. 3e</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/coins">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Justyn II (565-578)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>565-578, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g], średnica [mm]</th>
+    <td>4.41, 20</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz60_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>XXXXXX</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz60_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>XXXXXX</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>DOC 1, no. 4f</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/coins">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
+    <td>Anastazjusz I (491-518)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>491-498, Konstantynopol</td>
+  </tr>
+  <tr>
+    <th>Waga [g], średnica [mm]</th>
+    <td>4.47 g, 20 mm</td>
   </tr>
   <tr>
     <th>Awers</th>
