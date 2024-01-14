@@ -197,6 +197,53 @@ W wieku V i VII na awersie **solidusów** schematyczne ujęcie władcy występuj
 <table class="center">
   <tr>
     <th>Pan menniczy</th>
+    <td>Justynian I (527–565)</td>
+  </tr>
+  <tr>
+    <th>Nominał, materiał</th>
+    <td>Solidus, złoto</td>
+  </tr>
+  <tr>
+    <th>Lata emisji, mennica</th>
+    <td>542-546, Rzym</td>
+  </tr>
+  <tr>
+    <th>Waga [g]; średnica [mm]</th>
+    <td>4,37; 21</td>
+  </tr>
+  <tr>
+    <th>Awers</th>
+    <td><img src="images/biz60a_a.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis awersu</th>
+    <td>Frontal bust of Justinian I wearing helmet with diadem, cuirass, and shield. Globus cruciger in left hand. Six pellets on cuirass. DNIVSTINI-ANVSPPAVC</td>
+  </tr>
+  <tr>
+    <th>Rewers</th>
+    <td><img src="images/biz60a_r.jpg"/></td>
+  </tr>
+  <tr>
+    <th>Opis rewersu</th>
+    <td>Standing angel with long cross in right hand and globus cruciger in left hand VICTORI-AAVCCCA Six-pointed star in right field CONOB - znowu nie mennica Konstantynopol?</td>
+  </tr>
+  <tr>
+    <th>Literatura</th>
+    <td>DOC 1:173, no. (318b) (citing BMC 111, no. 28), and MIBE 118, no. 29</td>
+  </tr>
+  <tr>
+    <th>Uwagi</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Źródło</th>
+    <td><a href="https://www.doaks.org/resources/coins/catalogue/BZC.2015.009/view">Dumbarton Oaks</a></td>
+  </tr>
+</table>
+
+<table class="center">
+  <tr>
+    <th>Pan menniczy</th>
     <td>Tyberiusz II (578-582)</td>
   </tr>
   <tr>
