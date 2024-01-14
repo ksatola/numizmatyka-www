@@ -4,7 +4,6 @@
 # Literatura
 
 ## Druk
-
 | Skrót | Tytuł | Autor | Rok wydania | Uwagi |
 | :-: | :- | :- | :-: | :- |
 | **BCPG** | Byzantine Coinage | Philip Grierson | 1999 |  |
@@ -44,7 +43,9 @@
 | **WRM** | Wielka reforma monetarna XIII-XIV w. | Ryszard Kiersnowski | 1969 |  |
 
 ## Biblioteki cyfrowe
-`TODO`
+| Skrót | Tytuł | Autor | Rok wydania | Uwagi |
+| :-: | :- | :- | :-: | :- |
+| **BCPG** | <a href="https://www.doaks.org/resources/publications/books/byzantine-coinage">Byzantine Coinage</a> | Philip Grierson | 1999 |  |
 
 
 [Powrót](https://numizmatyka.satola.net)
