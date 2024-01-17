@@ -675,6 +675,8 @@ Justynian II (685–695; 705–711) umieścił na swoich monetach popiersie Chry
 ============================================================
 
 VIIIw - Iconoclast emperors
+Ikonoklazm - oficjalna fala niszczenia świętych obrazów (ikon)
+
 3 zmiany
 First, the treatment of the imperial bust becomes purely linear and every
 vestige of portraiture disappears, with older emperors being differentiated from
