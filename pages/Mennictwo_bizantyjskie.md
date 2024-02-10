@@ -675,7 +675,13 @@ Justynian II (685–695; 705–711) umieścił na swoich monetach popiersie Chry
 ============================================================
 
 VIIIw - Iconoclast emperors
-Ikonoklazm - oficjalna fala niszczenia świętych obrazów (ikon)
+Ikonoklazm (dosłownie "kruszenie obrazów") był sporem o szkodliwości lub mocy obrazów religijnych w kontekście zagrożenia płynącego ze strony Arabów. W Bizancjum inspiracją dla ikonoklazmu było drugie przykazanie prawa Mojżeszowego: "Nie będziesz czynił sobie rzeźbionych wizerunków i nie będziesz oddawał im czci." 
+Do VIII w. w Bizancjum ludność darzyła ikony świętych głębokim przywiązaniem, bardzo rozwiniety był nurt ilustrowania scen biblijnych spełniających rolę biblii dla niepiśmiennych i ubogich, a po całym cesarstwie krążyły złote monety z wizerunkiem Chrystusa. Ikonom oddawano cześć wedle starożytnych zwyczajów: całowano je i adorowano, palono przed nimi świece i kadzidło, kierowano modlitwy do przedstawionych świętych. 
+Nie jest do końca jasne, kto był odpowiedzialny za rozpoczącie niszczenia ikon i sztuki religijnej, ale znane są dwa okresy, w których proces ten istniał w nasilonej postaci: w latach 730-787 oraz 815-843. W latach 717-718 Leon III (717-741) obronił Konstantynopol przed potężnym atakiem Arabów, a następnie starał się umocnić wpływy cesarstwa w południowych Włoszech i na Krecie. Jednak prowincje Azji Mniejszej nadal były nękane nieustannymi najazdami. Leon III koronował swojego rocznego syna na następcę, i zaczął wybijać nowe monety z wizerunkiem swoim i syna. Bizantyjczycy wiedzieli, że to Bóg przyznaje zwycięstwo w boju, i w przeszłości dopomógł im w pokonaniu perskiego imperium, musieli więc zapytywać, dlaczego teraz pozwala triumfować Arabom. W 726 roku nastąpiła poteżna erupcja wulkaniczna na Morzu Egejskim, która została zinterpretowana jako boski znak, ostrzeżenie przed bałwochwalstwem - przesadną czcią, jaką darzono ikony, czego efektem było usuwanie ikon z kościołów i miejsc publicznych. Uważano, że wprowadzenie ikonoklazmu pozwoli na odzyskanie przychylności boskiej i pokonanie Arabów, którzy nie tylko niszczyli ikony w podbitych miastach, ale też przestrzegali zakazu bałwochwalstwa. Zrozumiano też, że ikony obdarzane kultem nie potrafiły już ochronić miast, a ich zdolność uzdrawiania była dużo mniej skuteczna. Leonowi III w końcu udało się pokonać Arabów w roku 740 pod Akroinonem, co wg niektórych zawdzięczano między innymi ograniczeniu bałwochwalstwa. Wizerunki świętych usuwano z miejsc widocznych, ale wydaje się, że nie dochodziło do masowego niszczenia ikon. Syn Leona III, Konstantyn V (741-775) rozwinął włąsną teorię ikonoklazmu, opowiadając się za unikaniem bałwochwalczej czci dla malowanego drewna, uznając Eucharystię jako jedyny prawdziwy obraz Chrystusa. Konstantyn V odnosił wiele zwycięstw na Arabami, Słowianami i Bułgarami, które przyczyniły się do wzmocnienia wiary w słuszność ideologii ikonoklazmu. Irena, wdowa po synie i następcy Kontantyna V Leonie IV (775-780), postanowiła odejść od ikonoklazmu, i podczas synodu w 787 powrócono do praktyk oddawania czci postaci Chrystusa i wizerunkom świętych. Irena, oślepiając własnego syna, zajęła jego miejsce i władała jako cesarz w latach 797-802. W roku 815 Leon V (813-820), odwołując się do sukcesów militarnych Konstantyna V, zainicjował drugą fazę ikonoklazmu, ściśle powiązaną z obietnicą sukcesów wojennych. W kolejnych latach, także za panowania Michała II (820-829) oraz Teofila (829-842) odnoszono sukcesy w walkach z Bułgarami, a niepoprawni malarze i czciciele ikon byli prześladowani. Jednak po śmierci Teofila, wdowa po nim, Teodora, która objęła regencję w imieniu swego małoletniego syna - Michała III, znowu odstąpiła od ikonoklazmu. 10 marca 843 roku uroczyście przywrócono kult obrazów, a ikonoklazm uznano za herezję - określa się to wydarzenie jako "triumf ortodoksji". Niewiele wiadomo na temat argumentów ikonoklastów, gdyż za każdym razem, gdy powracano do kultu ikon, niszczono wszelkie dokumenty utworzone przez zwolenników ograniczania bałwochwalstwa. (BIZ 136, 146)
+
+XXXXX moneta Leon III z synem - przykłąd dać
+
+- oficjalna fala niszczenia świętych obrazów (ikon)
 
 3 zmiany
 First, the treatment of the imperial bust becomes purely linear and every
@@ -841,6 +847,9 @@ Po odzyskaniu Konstantynopola w 1261 roku, głównymi siedzibami mennic upadają
 
 ======================= brudnopis ===========================
 <a href="https://pl.wikipedia.org/wiki/Konstantynopol">Konstantynopol</a> został założony przez Konstantyna I Wielkiego (306-337) - w latach 330–395 był stolicą Cesarstwa Rzymskiego, w latach 395–1453 stolicą Cesarstwa Bizantyńskiego i Cesarstwa Łacińskiego (1204–1261), stolicą Imperium Osmańskiego w latach 1453–1922. Od 1930 miasto nazywa się Stambuł.
+
+
+Chrystus Pantokrator (wszechwładca)
 
 
 ### Wizerunki na monetach
