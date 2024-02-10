@@ -11,6 +11,9 @@
 ### Prezentacje
 - [x] [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
 
+### Strony internetowe poświęcone numizmatyce
+- [Numizmatyk krakowski - strona internetowa oddziału krakowskiego Polskiego Towarzystwa Numizmatycznego](https://numizmatykkrakowski.pl/) na stronie zdygitalizowane materiały (rzadkie historyczne publikacje, archiwalne numety Numizmatyka), poczet numizmatyków polskich, sprawozdania i aktualności dotyczące działalności oddziału, a także sklep internetowy umożliwiający zakup aktualnych wydań Numizmatyka krakowskigo
+
 ### Katalogi numizmatyczne on-line
 - [Onebid - aukcje monet, banknotów i medali](https://onebid.pl/pl/auctions/Monety)
 - [Archiwum Numizmatyczne Antykwariatu Numizmatycznego M. Niemczyk](https://archiwum.niemczyk.pl/)
