@@ -1347,6 +1347,10 @@ image worship was restored in 843, Michael III’s (842–867) guardians placed
 on his nomismata a bust of Christ copied from that of Justinian II’s coins
 (Figs. 9, 11). Thereafter either a bust or a seated figure of Christ became a
 regular feature of the nomisma.
+    
+Ogień grecki BIZ początek 175 + ostatnie zdania na 182
+    
+Poza tajną bronią, jaką był ogień grecki, kolejnym elementem, dzięki któremu Bizancjum odzyskało równowagę po stratach zadanych przez Arabów, była koncepcja dynastii cesarskiej. Mimo niskiego  pochodzenia jego założyciela (armeński ujeżdżacz koni, który w końcu został współcesarzem Michała III, a następnie go otruł), ród Bazylego I (867-XXX) utrzymał się u władzy przez niemal dwa wieki (867-1056). Dynastia ta zwana "Macedońską", przy pomocy środków propagandowych oraz ciągłą i uregulowaną sukcesję z ojca na syna wpłynęła na pogłębienie poczucia porządku w państwie (BIZ 181). Temu odrodzeniu towarzyszyło uzdrowienie gospodarki - Konstantynopol kontrolował szlaki biegnące z północy na południe oraz ze wschodu za zachód, utrzymywał też lukratywne rynki odwiedzane licznie przez obcych kupców. Stabilny podatek (wpłacany w złotej monecie rocznie, ryczałtem w sumie przez całą wioskę) od guntów i osób przynosił cesarstwu stały i ogromny dochód. Cesazre zawsze dążyli do poszerzania granic imperium, gdyż łupy oraz dodatkowe opłaty ze zdobytych lub odzyskanych prowincji dostarczały dodatkowych dochodów, które mogły być przeznaczane na fortyfikacje, kościoły i inne budowle. Każde uszczuplenie podległego władzy cesarza terytorium oznaczało natomiast spadek wpływów z podatków. To tłumaczy częściowo nieustanne ubożenie cesarstwa po roku 1261 (BIZ 187).
 
 Leo VI (886–912) struck some nomismata
 bearing a true portrait instead of an undifferentiated imperial figure, as did
