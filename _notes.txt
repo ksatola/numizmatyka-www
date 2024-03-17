@@ -1,3 +1,5 @@
+TODO
+
 
 
 
@@ -26,6 +28,7 @@ Mennictwo bizantyjskie w pigułce
 - Ewolucja systemu monetarnego na przykładzie wybranych monet
 - Wybrane wyobrażenia na monetach
 - Pokazać na jednym obrazku wielkości monet wzgl. siebie
+- Jak czytać monety?
 - Katalogi on-line: WCN, Onebid, USA
 - Literatura
 - Link to mojej strony
@@ -34,8 +37,12 @@ pokazac mape mennic z ksiazki uzupelniona o kolejne stulecia
 zrobic os czasowa i umiescic na niej diklecjana i innych, daty i co sie zmienilo
 
 
-
-
+- Kącik rzymsko-bizantyński. Złoto Bizancjum - http://blognumizmatyczny.pl/2024/01/20/kacik-rzymsko-bizantynski-zloto-bizancjum/
+- HOW TO READ ANCIENT COINS - https://www.baldwin.co.uk/news/how-to-read-ancient-coins/
+- Money Talks | Reading Byzantine Coins (opis problemu) - https://numismatics.org/money-talks-reading-byzantine-coins/
+- An introduction to Byzantine coins - https://www.allaboutcoins.co.uk/coin-guides/byzantine-coins/
+- Byzantine-coin legends. How to read Byzantine coins. - http://augustuscoins.com/ed/Byz/legends.html
+- Byzantine-Coin Letters, Numerals, Denominations, and Dates - http://augustuscoins.com/ed/Byz/intro2.html
 
 --------------------------------------------------
 
