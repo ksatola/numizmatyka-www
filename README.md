@@ -10,6 +10,7 @@
 
 ### Prezentacje
 - [x] [Na numizmatycznym szlaku - Sandomierz, Szczecin, Berlin](./download/2023m09d14_Na_numizmatycznym_szlaku_Sandomierz_Szczecin_Berlin.pdf)
+- [x] [Na numizmatycznym szlaku - Kutna Hora](./download/2024m09d13_Na_numizmatycznym_szlaku_Kutna_Hora.pdf)
 
 ### Strony internetowe poświęcone numizmatyce
 - [Numizmatyk krakowski - strona internetowa oddziału krakowskiego Polskiego Towarzystwa Numizmatycznego](https://numizmatykkrakowski.pl/). Na stronie zdygitalizowane materiały (rzadkie historyczne publikacje, archiwalne numety Numizmatyka), poczet numizmatyków polskich, sprawozdania i aktualności dotyczące działalności oddziału, a także sklep internetowy umożliwiający zakup bieżących wydań Numizmatyka krakowskigo
