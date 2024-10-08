@@ -41,7 +41,7 @@
     - [x] [Jan III Sobieski (1674-1696)](./pages/k15.md)
     - [x] [August II Mocny (1697-1706, 1709-1733)](./pages/k16.md)
     - [x] [August III Sas (1733-1763)](./pages/k17.md)
-    - [x] [Stanisław August Poniatowski (1764-1795)](./pages/k18.md)
+    - [x] [Stanisław August Poniatowski (1764-1795) i insurekcja kościuszkowska (1794)](./pages/k18.md)
 
 
 - Polska pod zaborami 1772-1864
