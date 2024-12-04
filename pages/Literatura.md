@@ -37,6 +37,7 @@
 | **Plage3** | Monety bite dla Królestwa Polskiego w latach 1815-1864 i monety bite dla Miasta Krakowa w roku 1835 | Karol Plage | 1972 | Reprint |
 | **PPP** | Początki pieniądza polskiego | Ryszard Kiersnowski | 1962 |  |
 | **PSM** | Silesiorum moneta czyli mennictwo śląskie w późnym średniowieczu (1419-1526) z katalogiem monet śląskich, kłodzkich i łużyckich z lat 1327-1526 | Borys Paszkiewicz | 2021 |  |
+| **PWMK** | Poczet wielkich mistrzów krzyżackich 1198-2000 | Paweł Pizuński | 2003 |  |
 | **Str** | Dawne monety polskie Dynastii Piastów i Jagiellonów cz. 1-3 | Kazimierz Stronczyński | 2021 | Reprint |
 | **VNM** | Varia numizmatyczne | Dariusz Marzęta | 2016 |  |
 | **WCN50** | Katalog WCN, aukcja nr 50, 24 lutego 2012 - Podobna jest moneta nasza do urodnej panny - Mała historia pieniądza polskiego | Borys Paszkiewicz | 2012 |  |
