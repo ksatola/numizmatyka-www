@@ -23,6 +23,7 @@
 | **KWMB** | Katalog wystawy mennictwa Piastów śląskich ze zbiorów Muzeum Piastów Śląskich w Brzegu | Paweł Kozerski, Anna Techmańska | 2007 |  |
 | **LITZ** | Litzmannstadt - Rozdział historii niemieckiego pieniądza | Franquinet, Hammer, Schoenawa (tłum. Jacek Szulczewski) | 2010 |  |
 | **LMK** | Lenne monety krzyżackie | Andrzej Schmidt | 1979 |  |
+| **MAAK** | Monety arabskie i ich napływ do Polski wczesnośredniowiecznej | Anna Kmietowicz | 1971 |  |
 | **Marz** | Herby i znaki mennicze na szelągach polskich i z Polską związanych | Dariusz Marzęta | 2014 |  |
 | **MBS** | Mennictwo bizantyjskie | Maciej Salamon | 1987 |  |
 | **MCBS** | Mennictwo cesarstwa bizantyjskiego | Maciej Salamon | 1980 |  |
