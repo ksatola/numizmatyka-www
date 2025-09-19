@@ -28,6 +28,7 @@
 | **MBS** | Mennictwo bizantyjskie | Maciej Salamon | 1987 |  |
 | **MCBS** | Mennictwo cesarstwa bizantyjskiego | Maciej Salamon | 1980 |  |
 | **MGL** | Monety Getta Łódzkiego 1940-1944 | Jacek Sarosiek | 2016 |  |
+| **MWZDA** | Między Wschodem a Zachodem od Damaszku do Andaluzji - Pieniądz islamski w wiekach średnich | Dorota Malarczyk | 2015 |  |
 | **NK2021** | Numizmatyk krakowski nr 4/2021 | Praca zbiorowa | 2021 |  |
 | **NSS** | Numizmatyka średniowieczna | Stanisław Suchodolski | 2012 |  |
 | **PCWO** | Pieniądz czasów wojny i okupacji 1939-1945 | Jacek Sarosiek, Piotr Niziołek | 2021 |  |
