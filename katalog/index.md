@@ -45,8 +45,8 @@
 
 
 - Polska pod zaborami 1772-1864
-    - Zabór austryjacki (1774-1777, 1794) - Galicja i Lodomeria, Księstwo Oświęcimsko-Zatorskie
-    - Zabór pruski (1796-1798, 1801, 1816-1818) - Prusy Południowe, Gdańsk, Wielkie Księstwo Poznańskie
+    - [x] [Zabór austryjacki (1772, 1795-1915) - Galicja i Lodomeria, Księstwo Oświęcimsko-Zatorskie](./pages/k41.md)
+    - Zabór pruski (1772, 1793-1798, 1801, 1816-1818) - Prusy Południowe, Gdańsk, Wielkie Księstwo Poznańskie
     - [x] [Księstwo Warszawskie (1807-1815)](./pages/k19.md)
     - Wolne Miasto Gdańsk (1808-1812)
     - Oblężenie Zamościa (1813)
