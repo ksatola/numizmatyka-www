@@ -20,6 +20,7 @@
 | **Kop** | Ilustrowany skorowidz pieniędzu polskich i z Polską związanych | Edmund Kopicki | 1995 |  |
 | **Kop2** | Monety Zygmunta III Wazy | Edmund Kopicki | 2021 |  |
 | **Kop9-4** | Katalog podstawowych typów monet i banknotów Polski oraz ziem historycznie z Polską związanych - Tom IX cz. 4 - Legendy, znaki mennicze, gatunki monet i inne elementy klasyfikacji | Edmund Kopicki | 1989 |  |
+| **KST1** | Kwartniki śląskie - Tom I Księstwo furstenberskie Typ CLIPEVS BAVWARIE | Dawid Maciejczuk | 2025 |  |
 | **KWMB** | Katalog wystawy mennictwa Piastów śląskich ze zbiorów Muzeum Piastów Śląskich w Brzegu | Paweł Kozerski, Anna Techmańska | 2007 |  |
 | **LITZ** | Litzmannstadt - Rozdział historii niemieckiego pieniądza | Franquinet, Hammer, Schoenawa (tłum. Jacek Szulczewski) | 2010 |  |
 | **LMK** | Lenne monety krzyżackie | Andrzej Schmidt | 1979 |  |
