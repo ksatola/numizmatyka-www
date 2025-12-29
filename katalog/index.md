@@ -12,7 +12,7 @@
 
 ## Katalog
 
-- [x] [Monety greckie, rzymskie, celtyckie, bizantyjskie i islamskie (VI w. p.n.e. - X w. n.e.)](./pages/k02.md)
+- [x] [Monety antyczne (VI w. p.n.e. - X w. n.e.)](./pages/k02.md)
 - [x] [Monety na ziemiach polskich (X-XIII w.)](./pages/k03.md)
 - [x] [Monety Zakonu Krzyżackiego (1226-1525)](./pages/k01.md)
 - [x] [Wacław II z Przemyślidów (1300-1305)](./pages/k36.md) 
