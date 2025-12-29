@@ -21,6 +21,7 @@
 
 
 - Monety Królestwa Polskiego 1306-1506
+    - Władysław Łokietek (1306-1333)
     - [x] [Kazimierz III Wielki (1333-1370)](./pages/k40.md)
     - [x] [Władysław II Jagiełło (1386-1434)](./pages/k05.md)
     - [x] [Władysław III Warneńczyk (1434-1444)](./pages/k06.md)
