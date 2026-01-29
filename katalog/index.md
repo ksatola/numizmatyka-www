@@ -71,3 +71,4 @@
     
 
 - [.] [Literatura](../pages/Literatura.md)
+- [X] [Skale ocen zachowania monet](../pages/Skale_ocen_zachowania_monet.md)
